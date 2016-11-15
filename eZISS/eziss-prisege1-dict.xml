@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="part" xmlns="http://www.tei-c.org/ns/1.0">
+    <head>Slovarček manj znanih izrazov<note place="end">Oblika slovarčka se zgleduje po:Majda Merše
+        idr.: Wortschatz der slowenischen Bibelübersetzungen des 16. Jahrhunderts. V: <hi
+          rend="italic">Biblia Slavica. Serie IV. Südslavische Bibeln, Band 3, 2: Kommenare</hi>.
+        Paderborn-München-Wien-Zürich : Ferdinand Schöningh, 2006<hi rend="bold"
+      >.</hi></note></head>
+    <div type="section">
+      <head>Sestava slovarskega sestavka</head>
+      <p>Slovarski sestavek uvaja iztočnica, ki se ravna po zapisu v kritičnem prepisu in se lahko
+        pojavlja v dveh samostojnih različicah – v stičnem in nestičnem zapisu (npr. za vola,
+        zavola). Sledijo oznaka besedne vrste, sodobni pomen besede in vsi primeri pojavljanja v
+        prisežnih besedilih (v diplomatičnem prepisu oz. transkripciji, glede na zaporedje poglavij
+        in besedil v njih). Po potrebi je dodano napotilo na pomensko enake ali sorodne izraze. Če
+        je bila beseda zajeta že v <hi rend="italic">Besedišču,</hi> so navedeni samo besedna vrsta,
+        pomen in kazalka na <hi rend="italic">Besedišče.</hi> Nekatera slovarska gesla vsebujejo
+        tudi spregatvene in sklanjatvene oblike ter besedne zveze, v katerih se iztočnica pojavlja.
+        Nezanesljive oblike in pomeni so označeni z znakom *. Oblike kratkega nedoločnika so
+        navedene z dolgim nedoločnikom (npr. <hi rend="italic">odantvertvati</hi>).</p>
+      <p>Okrajšave: <list>
+          <item>člen = členek</item>
+          <item><hi rend="underline">del.</hi> = deležnik</item>
+          <item><hi rend="underline">edn. </hi>= ednina </item>
+          <item>gl. = glej</item>
+          <item><hi rend="underline">glag.</hi><hi rend="underline"> dov.</hi> = dovršni glagol </item>
+          <item><hi rend="underline">glag.</hi><hi rend="underline"> dvovid.</hi> = dvovidski
+            glagol</item>
+          <item><hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> = nedovršni
+            glagol</item>
+          <item>im. = imenovalnik</item>
+          <item>lat. = latinsko</item>
+          <item>madž. = madžarsko</item>
+          <item><hi rend="underline">mn.</hi> = množina</item>
+          <item>nem. = nemško</item>
+          <item><hi rend="underline">os</hi>. = oseba</item>
+          <item>povdk. = povedkovnik</item>
+          <item><hi rend="underline">posam.</hi> = posamostaljeno</item>
+          <item><hi rend="underline">predl. </hi>= predlog</item>
+          <item><hi rend="underline">prid.</hi> = pridevnik</item>
+          <item>prim. = primerjaj</item>
+          <item><hi rend="underline">prisl. </hi>= prislov</item>
+          <item><hi rend="underline">sam. </hi><hi rend="underline">m</hi> = samostalnik moškega
+            spola</item>
+          <item><hi rend="underline">sam. </hi><hi rend="underline">s</hi> = samostalnik srednjega
+            spola</item>
+          <item><hi rend="underline">sam. </hi><hi rend="underline">ž</hi> = samostalnik ženskega
+            spola </item>
+          <item><hi rend="underline">štev. </hi>= števnik</item>
+          <item><hi rend="underline">vez.</hi> = veznik</item>
+          <item><hi rend="underline">zaim.</hi> = zaimek</item>
+          <item>1., 2., 3. os. edn. = prva, druga, tretja oseba ednine, množine</item>
+          <item>/.../ = znak za izpust besedila</item>
+        </list>
+      </p>
+    </div>
+    <div type="section">
+      <head>Slovarček</head>
+      <p><hi rend="bold">abčinski</hi>
+        <hi rend="underline">prid.</hi> ● celoten: toga abcinskoga mesta (ORM-2), Prauiche
+        Abcinskoga Mesta (ORM-2) – gl. tudi: občinski</p>
+      <p><hi rend="bold">abšid</hi> sam. <hi rend="underline">m</hi> ● slovó: abſchidt (LJU-1),
+        abschidt (LJU-12) <list>
+          <item><hi rend="bold">abšid vzeti</hi> = posloviti se: mui poſten abſchidt uſeti (LJU-1),
+            mui posten abschidt useti (LJU-12)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">aden</hi>
+        <hi rend="underline">štev.</hi> ● eden, en: aden kraizer (LJU-9 – pripis)</p>
+      <p><hi rend="bold">adrajtati</hi>
+        <hi rend="underline">glag.</hi> dov. ● odšteti, izročiti: adraittat allÿ isrozhitj
+        (LJU-15)</p>
+      <p><hi rend="bold">ahtati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● paziti: na uſse taistu
+        achtati inu zhuti (NME-3)</p>
+      <p><hi rend="bold">ahtenga</hi>
+        <hi rend="underline">sam.</hi> ž ● pozornost <list>
+          <item><hi rend="bold">ahtengo dati</hi> = paziti: <hi rend="italic">na delauce svestu
+              ahtengo dati</hi> (LJU-18)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">amtikati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● zadevati: kar to
+        ochrainenie /.../ amtizhe (NME-4)</p>
+      <p><hi rend="bold">antbertuvati</hi>
+        <hi rend="underline">glag.</hi> nedov. ● izročati, izplačevati: rubeſhen Gospodu Camrariu
+        antbertuuat (LJU-8) – gl. tudi: odantvertvati</p>
+      <p><hi rend="bold">aufšlak</hi> sam. <hi rend="underline">m</hi> ● naklada: na Aufſchlackhig
+        (KRA-1)</p>
+      <p><hi rend="bold">bale</hi>
+        <hi rend="underline">prisl.</hi> ● bolj, raje: bale ſzraſzumom (ORM-2)</p>
+      <p><hi rend="bold">baratšag</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● prijateljstvo (madž. barátság): Baratssag ali paidastuo imati
+        (ORM-1)</p>
+      <p><hi rend="bold">boršt</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● gozd, boršt: Log inu Worſte (LJU-8), ta Log inu Worſt (LJU-8),
+        Vborstu (LJU-11), Gmain meſta Worſte (LJU-16), na mestni Borſt inu Hosto (NME-3), mestniga
+        borsta (NME-3), tega mestniga borsta (NME-4)</p>
+      <p><hi rend="bold">boršten</hi>
+        <hi rend="underline">prid.</hi> ● gozden (nanašajoče se na mestni boršt): uſso borstno Skodo
+        (NME-4), u eni borstni Skodi (NME-4)</p>
+      <p><hi rend="bold">borštnar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● gozdar (gozdni hlapec) – gl. Besedišče</p>
+      <p><hi rend="bold">božni</hi> posam. ● ubogi, revni: tak Bosnumu (ORM-2), kak Bosnumu
+        (ORM-2)</p>
+      <p><hi rend="bold">brumen</hi>
+        <hi rend="underline">prid.</hi> ● vrl, dober, kreposten, pobožen: enimu brumnimu Burgariu
+        (LJU-1), enimu brumnimu Podloſsniku (LJU-12)</p>
+      <p><hi rend="bold">bukve</hi>
+        <hi rend="underline">sam.</hi> ž mn. ● knjiga/knjige: noter te bucque samerkouanu
+        (LJU-5)</p>
+      <p><hi rend="bold">burgar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● meščan – gl. tudi: purgar – gl. Besedišče</p>
+      <p><hi rend="bold">burgermajster</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mestni župan – gl. tudi: bürgermajster, purgermajster – gl.
+        Besedišče</p>
+      <p><hi rend="bold">bürgermajster</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mestni župan – gl. tudi: burgermajster, purgermajster – gl.
+        Besedišče</p>
+      <p><hi rend="bold">cajt</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● čas <list>
+          <item><hi rend="bold">pred cajtam</hi> = prezgodaj: pred zaitam sa upalli (NME-2)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">cegel*</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● opeka: <hi rend="italic">obene škode per cegli</hi>
+        (LJU-18)</p>
+      <p><hi rend="bold">cegelski</hi>
+        <hi rend="underline">prid.</hi> ● opekarski <list>
+          <item><hi rend="bold">cegelski mojster</hi> = opekarski mojster:<hi rend="italic"> to
+              šlužbo enga cegelskega moistra</hi> (LJU-18), <hi rend="italic">cegelskega
+              moistra</hi> (LJU-18)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">ceglar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● opekar: na zeglarie (LJU-11), na /.../ zeglarie (LJU-15)</p>
+      <p><hi rend="bold">cimperman</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● tesar – gl. tudi: cimpermon – gl. Besedišče</p>
+      <p><hi rend="bold">cimpermon</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● tesar – gl. tudi: cimperman – gl. Besedišče</p>
+      <p><hi rend="bold">cimprske</hi>
+        <hi rend="underline">prid.</hi> ● tesarski: ta zimpersche leſs (LJU-15) – gl. tudi:
+        cimprski</p>
+      <p><hi rend="bold">cimprski</hi>
+        <hi rend="underline">prid.</hi> ● tesarski: drusiga zimperschega Lesa (LJU-9 – pripis),
+        druſsiga zimperschega lesa (LJU-14), tega zimperschega leſsa (LJU-15) – gl. tudi:
+        cimprske</p>
+      <p><hi rend="bold">cimprajne</hi>
+        <hi rend="underline">sam.</hi> s ● tesarjenje, tesarska dela: ketemo zimprainu (LJU-9 –
+        pripis)</p>
+      <p><hi rend="bold">cirati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● krasiti, varovati*,
+        paziti,* skrbeti za*:lepo zirat (LJU-8)</p>
+      <p><hi rend="bold">col</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mitnina, carina: na /.../ Zolech (KRA-1), tiga spodobniga
+        zolla (LJU-5), ta ſpodobni Zol (LJU-6)</p>
+      <p><hi rend="bold">časen</hi>
+        <hi rend="underline">prid.</hi> ● časen <list>
+          <item><hi rend="bold">časna gosposka</hi> = zhes zhasno Gosposko inu Rath (NME-1)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">čo</hi> – gl. hoteti</p>
+      <p><hi rend="bold">čuti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● paziti: boste /.../ u vaschim sluschnim tednu suesto
+        zhulli (NME-2) <list>
+          <item><hi rend="bold">čuti na</hi>
+            <hi rend="underline">glag.</hi>
+            <hi rend="underline">nedov.</hi> ● paziti na: na mestni Borſt inu Hosto dobru zhuti
+            (NME-3), na uſse taistu achtati inu zhuti (NME-3)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">dača</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● dajatev, breme: vsze Dache (ORM-3 – prim. v nem. različici:
+        alle lasten)</p>
+      <p><hi rend="bold">dajn</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● dan: na denesni dain (ORM-2)</p>
+      <p><hi rend="bold">daleta</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● delati: Suestu daleta
+        (LJU-13)</p>
+      <p><hi rend="bold">dapernesti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● opraviti, izpolniti, izvršiti: uſse moje dolschnosti /.../
+        toku resnizhnu dapernesti (NME-2), <hi rend="italic">letu imam inu óčem</hi> /.../ <hi
+          rend="italic">toku gvišnu dapernesti</hi> (LJU-19) – gl. tudi: dopernesti</p>
+      <p><hi rend="bold">dapouniti</hi> glag. <hi rend="underline">dov.</hi> ● opraviti, izpolniti,
+        izvršiti: boste /.../ fliſseck inu suestu dapounili (NME-2), vascho Sluschbo inu leto
+        persego suestu dapouniti (NME-3) </p>
+      <p><hi rend="bold">denešen</hi>
+        <hi rend="underline">prid.</hi> ● današnji: na denesni dain (ORM-2)</p>
+      <p><hi rend="bold">deželski</hi>
+        <hi rend="underline">prid.</hi> ● deželni: deselskimu Firſtu (LJU-1), deschelſkimo Fürsto
+        (LJU-1 – pripis), deshelskimu Firſtu (LJU-12), uſse deſchelske Gospuske (NME-1), deſchelſke
+        Gosposke (NME-1) </p>
+      <p><hi rend="bold">djane</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● delovanje: moie Purgarſke perſege, ſevese, handla inu diana
+        (LJU-1) – gl.tudi: djanje</p>
+      <p><hi rend="bold">djanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● delovanje: use moie sauese, handla inu diania (LJU-12) – gl.
+        tudi: djane</p>
+      <p><hi rend="bold">djati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● početi, delati: Vſe to diathi (KRA-1)</p>
+      <p><hi rend="bold">dolijemajne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● nazadovanje, manjšanje, izgubljanje: uſse dolijemaine inu
+        Schkodo (NME-1)</p>
+      <p><hi rend="bold">doli položiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● položiti – gl. tudi: dolpoložiti <list>
+          <item><hi rend="bold"> persego doli položiti</hi> = priseči: boste /.../ resnizhno persego
+            dolli poloschili (NME-2), boste /.../ eno suesto persego doli poloschili (NME-3)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">dolpoložiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● položiti – gl. tudi: doli položiti <list>
+          <item><hi rend="bold">persego dolpoložiti</hi> = priseči: bodete /.../ <hi rend="italic"
+              >eno persego</hi> /.../<hi rend="italic"> dolpoložili</hi> (LJU-19)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">doli sekati</hi>
+        <hi rend="underline">glag.</hi> nedov. ● sekati: puſtiti doli, ſekhat (LJU-8)</p>
+      <p><hi rend="bold">dolterejne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● kvarjenje, nazadovanje, uničevanje: pred tatvino, doltereinam,
+        inu uſsacko Sckodo obvarvat (NME-3)</p>
+      <p><hi rend="bold">donašati</hi>
+        <hi rend="underline">glag.</hi> nedov. ● prinašati, povzročati: en Haszen donaſsanyu
+        (ORM-3), Sgodu donaſsanÿu (ORM-3 – prim. v nem. različici: Vortheil zugehet, Schaden
+        erreget)</p>
+      <p><hi rend="bold">dopernesti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● izpolniti: ſturiti, inu doperneſti (LJU-7) – gl. tudi:
+        dapernesti</p>
+      <p><hi rend="bold">dopomagati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● pomagati: dopomagathj (KRA-3), naprey dopomagathj
+        (KRA-3)</p>
+      <p><hi rend="bold">dopouniti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● izpolniti, izvršiti: <hi rend="italic">zapoudi inu
+          poveille</hi> /.../ <hi rend="italic">dopouniti</hi> (LJU-19) –</p>
+      <p>gl. tudi: dapouniti</p>
+      <p><hi rend="bold">dostonjati se</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● spodobiti se: sze jednomo Purgari dosztonÿa (ORM-3)</p>
+      <p><hi rend="bold">dotikati se</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● zadevati: kaiſze /.../
+        potrebach dotiche (ORM-2)</p>
+      <p><hi rend="bold">douh</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● dolg: leta douh (MET-2) <list>
+          <item><hi rend="bold">nadouh</hi> = dolžan, na dolgu: Richtig nadouch Ostale
+            (MET-2)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">dovolejne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● pristanek, privolitev: vasche dovoleine sravin dati
+        (NME-1)</p>
+      <p><hi rend="bold">dozevjati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● klicati*: kaibi szuproti Varaské prauiczé doszeuialo
+        (ORM-1)</p>
+      <p><hi rend="bold">držan</hi>
+        <hi rend="underline">del.</hi> ● najet: sa gmain meſta uola sekazhi bodeio dershani
+        (LJU-8)</p>
+      <p><hi rend="bold">držati</hi>
+        <hi rend="bold"> 1</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● spoštovati, upoštevati: Sapuuid Inu prepouid derſchati
+        (KRA-1), sapouidi, prepouidi, pocorno derſati (LJU-1), pocornu dershati (LJU-12)</p>
+      <p><hi rend="bold">držati 2</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● držati <list>
+          <item><hi rend="bold">držati čez</hi> = držati proti (nekomu):derſzati /.../ Ces
+            Neprÿatela (ORM-2)</item>
+          <item><hi rend="bold">držati poleg</hi> = držati (z nekom): derſzati polek Prÿatela
+            (ORM-2)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">držati se</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● vesti se, ravnati: se
+        Vletim Vſim, taku derſati (LJU-1), se v´letim uſim taku dershati (LJU-12)</p>
+      <p><hi rend="bold">duželski</hi>
+        <hi rend="underline">prid.</hi> ● deželni: <hi rend="italic">duželske Gosposke</hi> (LJU-19
+        – 2-krat) </p>
+      <p><hi rend="bold">dvojen</hi>
+        <hi rend="underline">prid.</hi> ● dvojen <list>
+          <item><hi rend="bold">dvojno mišlenje</hi> = neiskrenost: vszega sznotraſsnyoga dvoinoga
+            Miſslenya (ORM-3 – prim. v nem. različici: ohne Gemüthshinterhaltung und zweydeutigen
+            Verstand)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">ener</hi>
+        <hi rend="underline">zaim.</hi> ● noben: eneriga Strachu (KRA-2), Skhoſi eneriga mitu
+        (KRA-3), ſkhuſi enerj peryaſni (KRA-3), ſa enerj peryaſni (KRA-4)</p>
+      <p><hi rend="bold">eno</hi>
+        <hi rend="underline">vez.</hi> ● in:Eno leta Praescista (LJU-8 – pripis)</p>
+      <p><hi rend="bold">erb</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● dedič: od tech Erbam (KRM-1), <hi rend="italic">inu Erbou</hi>
+        (LJU-19), <hi rend="italic">njeh Erbe</hi> (LJU-19 – 2-krat) – gl. tudi: irb</p>
+      <p><hi rend="bold">falšija</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● goljufija: sfalshio oli neiſuestio skusi pomagat (LJU-8),
+        Sfalshio /.../ Skusj pomagat (LJU-16)</p>
+      <p><hi rend="bold">farlikost</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nevarnost: pres use farlikoſti (LJU-1), breſs use farlicosti
+        (LJU-12); prim. v nem. različicah za LJU-1, LJU-2 in LJU-12: ohne geuarde, ohn alle geüarde,
+        ohne geuärde – gl. tudi: gefarlikost, gfarlikost</p>
+      <p><hi rend="bold">ferdaman</hi> del. ● pogubljen: odlozhen inu Ferdaman Bodem (KAM-1)</p>
+      <p><hi rend="bold">ferdamanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● pogubljenje: praklestuo alle ferdamanie (MET-1) – gl. tudi:
+        ferdamejne</p>
+      <p><hi rend="bold">ferdamejne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● pogubljenje: Sam Sebe kuezhnimu Ferdameinu isda (MET-1) – gl.
+        tudi: ferdamanje</p>
+      <p><hi rend="bold">ferhindrati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● preprečiti: ſouwraſchtua verhindrat (KRA-3)</p>
+      <p><hi rend="bold">fidrati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● pospeševati: <hi
+          rend="italic">kulker je mogoče fidrati</hi> (LJU-18) </p>
+      <p><hi rend="bold">firšt</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● knez – gl. Besedišče <list>
+          <item><hi rend="bold">deželski firšt</hi> = deželni knez – gl. Besedišče </item>
+          <item><hi rend="bold">erbč firšt</hi> = dedni knez – gl. Besedišče</item>
+          <item><hi rend="bold">vikši firšt</hi> = nadvojvoda – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">flis</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● vnema, marljivost:ozhem moÿ flÿſs imeti (LJU-8)</p>
+      <p><hi rend="bold">flisek 1</hi>
+        <hi rend="underline">prid.</hi> ● marljiv, vesten: <hi rend="italic">na eniga /.../ flissek
+          služabnika</hi> (LJU-18) – gl. tudi: flisig 1</p>
+      <p><hi rend="bold">flisek 2</hi>
+        <hi rend="underline">prisl.</hi> ● marljivo, vestno: fliſseck inu suestu dapounili (NME-2),
+          <hi rend="italic">skrbnu inu flissek, bres golfije oprauiti</hi> (LJU-18) – gl. tudi:
+        flisig 2</p>
+      <p><hi rend="bold">flisig 1</hi>
+        <hi rend="underline">prid.</hi> ● marljiv, vesten: flisig inu pokorn Shitni Merzhun (LJU-2),
+        enu ordenlich inu fliſsig gori gledanie (LJU-2), fliſsig, pernareden inu zhuiezh biti
+        (LJU-2), fliſsig inu pokorn (LJU-3), fliſsig inu pokoren (LJU-6), enu fliſsig gori gledanie
+        (LJU-7 – 2-krat), en /.../ flyſsig Forstnar (LJU-8), pernareden inu flissig Valput (LJU-11),
+        enu fliſsig gori gladanie (LJU-11), perpraulen, inu fliſsig Vaupet (LJU-15), enu fliſsig
+        gorj Gledaine (LJU-15), fliſsig inu pokoren Solski Merzhun (LJU-17) – gl. tudi: flisek 1</p>
+      <p><hi rend="bold">flisig 2</hi>
+        <hi rend="underline">prisl.</hi> ● marljivo, vestno: ſueſtu inu flissig /.../ meriti
+        (LJU-2), ſuestu inu fliſsig /.../ meriti (LJU-3), sueſtu uuernu, inu tude fliſsig (LJU-4),
+        suestu inu fliſsig (LJU-5), fliſsig merkati (LJU-5), Suestu inu fliſig /.../ meriti (LJU-17)
+        – gl. tudi: flisek 2</p>
+      <p><hi rend="bold">forstnar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● gozdar (gozdni hlapec) – gl. Besedišče</p>
+      <p><hi rend="bold">fortel</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● pristranskost: bres uſsiga fortelna meriti (LJU-2), breſs
+        uſiga fortelna meriti (LJU-3), bres uſega fortelna (LJU-4), breſs usega fortelna mere
+        (LJU-5), breſ usega fortelna mereti (LJU-6), bres uſega fortelna (LJU-11), pres suega
+        fortelna (LJU-13), Breſs Vſsega fortelna (LJU-15), breſs uſega fortelna (LJU-17)</p>
+      <p><hi rend="bold">fortelnasti</hi> posam. ● pristranski: nezh fortelnastiga (LJU-15), nezh
+        fortelnastiga (LJU-16) </p>
+      <p><hi rend="bold">fraščina</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● svoboščina, pravica: Fraschine (ORM-2)</p>
+      <p><hi rend="bold">frej</hi>
+        <hi rend="underline">prid.</hi> ● prost, svoboden: <list>
+          <item><hi rend="bold">frej sturiti</hi> = razvezati (se) obveze: sem ſe iest /.../ dolshan
+            /.../ freÿ inu ledig, ſturiti (LJU-1)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">gefarlikost</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nevarnost: pres uſe gefarlikosti (LJU-17) – gl. tudi:
+        farlikost, gfarlikost</p>
+      <p><hi rend="bold">gfarlikost</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nevarnost: breſs uſse gfarlikoſti (LJU-2), breſs uſe
+        gfarlikoſti (LJU-3) – gl. tudi: farlikost, gefarlikost</p>
+      <p><hi rend="bold">gledati k</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● dovoljevati, dopuščati: khobeni nespodobnoſti gledat, inu
+        perpuſtiti (LJU-4)</p>
+      <p><hi rend="bold">gledati na</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● paziti na: <hi rend="italic">na usso Škodo, kar je na nas
+          ležeče</hi>, <hi rend="italic">gledati</hi> (LJU-19) </p>
+      <p><hi rend="bold">glih 1</hi>
+        <hi rend="underline">prid.</hi> ● enak: Eno glich Jenu pravo praudo (KRA-2), edno glich mero
+        (LJU-2), eno glih mero (LJU-3), Glichi uiſshi, sto Vachto (LJU-2), eno glich mero (LJU-17),
+        Vglihi Vishi (MET-1)</p>
+      <p><hi rend="bold">glih 2</hi>
+        <hi rend="underline">prisl.</hi> ● enako, ravno: glich derſchati (KRA-3), en glich praui
+        Richtar (KRA-3), glich prauo praudo (KRA-3)</p>
+      <p><hi rend="bold">gemajn</hi>
+        <hi rend="underline">prid.</hi> ● celoten – gl. Besedišče: gemajn mesto </p>
+      <p><hi rend="bold">gmajn</hi>
+        <hi rend="underline">prid.</hi> ● celoten – gl. Besedišče: gmajn mesto, gmajn mestni</p>
+      <p><hi rend="bold">gmajna 1</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● meščanska občina – gl. Besedišče</p>
+      <p><hi rend="bold">gmajna 2</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● skupnost, občestvo: gmeine useh Suetnikou inu Suetniz
+        (MET-2)</p>
+      <p><hi rend="bold">gmajnšoft</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● skupnost, občestvo: od gmeinschoffte (KAM-1)</p>
+      <p><hi rend="bold">gnada</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● milost: Svete gnade inu miloste (KAM-1), negoua naisrezhena
+        Gnada (MET-1), od Soie Suete Gnade ienu milosti (MET-2)</p>
+      <p><hi rend="bold">gore gledanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● nadzor: enu ſuestu gore gledanie zhem naniè iemeti (LJU-4) –
+        gl. tudi: gori gladanje, gori gledajne, gori gledanje</p>
+      <p><hi rend="bold">gori gladanje</hi>
+        <hi rend="underline">sam.</hi> s ● nadzor: enu fliſsig gori gladanie imeti (LJU-11) – gl.
+        tudi: gore gledanje, gori gledajne, gori gledanje</p>
+      <p><hi rend="bold">gori gledajne</hi>
+        <hi rend="underline">sam.</hi><hi rend="underline"> s</hi> ● nadzor: enu fliſsig gorj
+        Gledaine, inu pomerkuaine imetj (LJU-15) – gl. tudi: gore gledanje, gori gladanje, gori
+        gledanje</p>
+      <p><hi rend="bold">gori gledanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● nadzor: enu ordenlich inu fliſsig gori gledanie imetj (LJU-2),
+        enu fliſsig gori gledanie imeti (LJU-7 – 2-krat) – gl. tudi: gore gledanje, gori gladanje,
+        gori gledajne</p>
+      <p><hi rend="bold">gori gledati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● nadzorovati: tega shita kupuuaine /.../ gorj gledati
+        (LJU-4), na teiſte /.../ merkati, inu gori gledati (LJU-5)</p>
+      <p><hi rend="bold">gorijemajne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● napredovanje, večanje, rast: prauizo ienu Gorijemaine iskati
+        (KRM-1), gorijemaine ohranit (NME-1), gorijemaine tega zelga Meſta (NME-1) – gl. tudi:
+        gorjemanje</p>
+      <p><hi rend="bold">gorjemanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● napredovanje, večanje, rast: gorjemanie tega mestniga borsta
+        (NME-4) – gl. tudi: gorijemajne</p>
+      <p><hi rend="bold">gori obdržati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> dov.</hi> ● ohraniti: uſso dobro
+        Ordengo inu zhednoſt /.../ gori obderschat (NME-2)</p>
+      <p><hi rend="bold">gori poskakuvati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● dvigovati (ceno): s tem
+        kupom gorj poskakuuati (LJU-4)</p>
+      <p><hi rend="bold">gori vzdignen</hi> del. ● dvignjen: gori Vſdignenimj prſtmi (KRA-4) – gl.
+        tudi gori vzignjen</p>
+      <p><hi rend="bold">gori vzdigneti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● dvigniti: ima trÿ perste gori Vsdignet (MET-2)</p>
+      <p><hi rend="bold">gori vzet</hi> del. ● sprejet (v službo): khenimu Vuratariu /.../ gori uset
+        (LJU-7), sa Borstnarja gori uset (NME-3)</p>
+      <p><hi rend="bold">gori vzignjen</hi> del. ● dvignjen: ſmoÿmi gori Vſignienimi Perſti (LJU-3)
+        – gl. tudi gori vzdignen</p>
+      <p><hi rend="bold">gospocka</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● gosposka – gl. Besedišče</p>
+      <p><hi rend="bold">gospod(i)n</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● gospod: Goszpodnu (ORM-1) – gl. tudi: gospon</p>
+      <p><hi rend="bold">gospodšina</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● gosposka – gl. Besedišče</p>
+      <p><hi rend="bold">gospon</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● gospod: Gospona Richtara (ORM-2) – gl. tudi: gospod(i)n</p>
+      <p><hi rend="bold">gospošina</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● gosposka – gl. Besedišče</p>
+      <p><hi rend="bold">gosposčina</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● gosposka – gl. Besedišče</p>
+      <p><hi rend="bold">grunten</hi>
+        <hi rend="underline">prid.</hi> ● zemljiški <list>
+          <item><hi rend="bold"> gruntna gosposka</hi> = zemljiška gosposka – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">gvišno</hi> prisl. ● gotovo, zagotovo, resnično: toko gwishno (VGO-1) – gl.
+        tudi: gvišnu</p>
+      <p><hi rend="bold">gvišnu</hi> prisl. ● gotovo, zagotovo, resnično: <hi rend="italic">Kaker
+          gvišnu</hi> (LJU-18), <hi rend="italic">toku gvišnu</hi> (LJU-19) – gl. tudi: gvišno</p>
+      <p><hi rend="bold">handl*</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● ravnanje: moie Purgarſke perſege, ſevese, handla inu diana
+        (LJU-1), use moie sauese, handla inu diania (LJU-12)</p>
+      <p><hi rend="bold">handlati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● ravnati: napre uſeti alli
+        handlati (LJU-1), prauizhnu handlati (LJU-11), handlati (LJU-12), prouizhnu handlatj
+        (LJU-15), nezh /.../ na Suestiga handlatj (LJU-15) – gl. tudi: handleti</p>
+      <p><hi rend="bold">handleti</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● ravnati: Sturittj, allj
+        handletj (LJU-14), Sturiti, allj handletj (LJU-15), handletj (LJU-16) – gl. tudi:
+        handlati</p>
+      <p><hi rend="bold">hasen 1</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● korist: Niihou haszen na dobro pomochi szprauliati (ORM-1), na
+        haſszen biti (ORM-2)</p>
+      <p><hi rend="bold">hasen 2</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● sebičnost: presz vszega Haszna (ORM-3 – prim. v nem.
+        različici: Eigennutz)</p>
+      <p><hi rend="bold">hoču</hi> – gl. hoteti</p>
+      <p><hi rend="bold">hoteti</hi>
+        <hi rend="underline">glag. nedov.</hi> ● hoteti, želeti – gl. tudi: oteti, teti <list>
+          <item><hi rend="bold">čo</hi> 1. os. edn. = bom, hočem: da tſcho Jeſt /.../ witti (KRA-2),
+            da Zho Jeſt /.../ witi (KRA-3) </item>
+          <item><hi rend="bold">hoču</hi> 1 os. edn. = bom, hočem: hochiu pomochi braniti (ORM-1 –
+            2-krat)</item>
+          <item><hi rend="bold">neščem</hi>
+            <hi rend="underline">1. os. edn. nikalno</hi> = ne bom, nočem: neschem /.../ biti
+            (ORM-1), neschem /.../ imati (ORM-1)</item>
+          <item><hi rend="bold">nešču</hi>
+            <hi rend="underline">1. os. edn. nikalno</hi> = ne bom, nočem: neschu gouoriti (ORM-1)
+          </item>
+        </list>
+      </p>
+      <p><hi rend="bold">iliti</hi> vez. ● ali: illiti (ORM-2 – 3-krat), iliti (ORM-2)</p>
+      <p><hi rend="bold">invoner</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● (mestni) gostač – gl. Besedišče</p>
+      <p><hi rend="bold">irb</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● dedič: uſsech niech Irbou (NME-1), zhes nich Irbe (NME-1),
+        nich Irbe (NME-1) – gl. tudi: erb</p>
+      <p><hi rend="bold">iringa</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● razprtija, (sodni) spor: ueno irringo ali prauda ratal
+        (LJU-12) – gl. tudi: irunga</p>
+      <p><hi rend="bold">irunga</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● razprtija, (sodni) spor: ueno Irungo, ali praudo ratall
+        (LJU-1) – gl. tudi: iringa</p>
+      <p><hi rend="bold">iskati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● zavzemati se za: Gorijemaine iskati (KRM-1)</p>
+      <p><hi rend="bold">istinsko</hi>
+        <hi rend="underline">prisl.</hi> ● resnično: isztinszko (ORM-3)</p>
+      <p><hi rend="bold">izdati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● prepustiti, izročiti: Sam Sebe kuezhnimu Ferdameinu isda
+        (MET-1)</p>
+      <p><hi rend="bold">izkazati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● naznaniti, sporočiti: Skodliuza prezej per Kammre iſskasat
+        (LJU-16), temu na prei poſtaulenmu Richtarju inu Rathu prezei iskasat (NME-1), vaschim
+        vickſchim iskasat (NME-2), leti gruntni gosposkÿ iskasat (NME-3), leti borstni gosposkÿ
+        iskasat (NME-4)</p>
+      <p><hi rend="bold">izročen</hi> del. ● izročen, zaupan: vam isrozheno vachtarsko sluschbo
+        (NME-2), vam isrozheno borstnarsko Sluschbo (NME-4)</p>
+      <p><hi rend="bold">iztovernati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> dov.</hi> ● iztočiti: saſse kupil alli
+        istouernal (LJU-5)</p>
+      <p><hi rend="bold">izvržen</hi> del. ● izobčen, izločen, izgnan: Isuershen bodem (MET-1)</p>
+      <p><hi rend="bold">jeden</hi>
+        <hi rend="underline">štev.</hi> ● eden, en: Jeden ſzebran Ratnik (ORM-2), kÿednomu /.../
+        Magistratuſu (ORM-2)</p>
+      <p><hi rend="bold">jednako</hi>
+        <hi rend="underline">prisl.</hi> ● enako, prav tako: Jednako (ORM-2)</p>
+      <p><hi rend="bold">jemé</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● ime: nich kraleuske Suitloste Jeme (KRM-1), umoiem iemeni
+        preneſti (LJU-1), v´moiem iemeni (LJU-12), iemena tich Skodliuzou (LJU-8), <hi rend="italic"
+          > per /.../ dobrumo Jemenu</hi> (LJU-19) </p>
+      <p><hi rend="bold">jemenovan</hi> del. ● imenovan: teiſtu bi moglu iemenouano biti
+        (LJU-12)</p>
+      <p><hi rend="bold">kakav, -kva, -kvo</hi>
+        <hi rend="underline">zaim.</hi> ● kakšen: koja kakvo Sgodu donaſsanÿu (ORM-3)</p>
+      <p><hi rend="bold">kadar</hi>
+        <hi rend="underline">vez.</hi> ● če, kadar, ko:kadar ſse moja Duscha od telleſsa Lozhila
+        Bode (KAM-1), Inu kadar, bi ieſt, ueno Irungo, ali praudo ratall (LJU-1), kadar bi pak iest
+        /.../ se hotil pod druga Goſposka podati (LJU-1), kadar bi potreba bilu (LJU-7), kadar /.../
+        sekazhi bodeio dershani (LJU-8), ponozhi, kadar bo letega ura (LJU-8), Inu kadar bi iest
+        ueno irringo ali prauda ratal (LJU-12), kadar bi pak iest /.../ se hotil pod druga Gosposka
+        podati (LJU-12), kadar se moia Dusha Steleſsa lozhila bode (MET-1), Kadar ozhe eden persezhe
+        (MET-2) – gl. tudi: kader</p>
+      <p><hi rend="bold">kader</hi>
+        <hi rend="underline">vez.</hi> ● če, kadar, ko: kader bi mi /.../ kei teskega na prei padlo
+        (KRM-1), Vselaj kader kej Speut /.../ ali drusiga na prudej pride (LJU-9), Vselaj kader kej
+        Speut na prudej pride (LJU-14), kader be pak katerÿga per Sekainu Samerkou (LJU-16), kader
+        Se moia Dushiza ad telesa lozhila bode (MET-1) – gl. tudi: kadar </p>
+      <p><hi rend="bold">kamra</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● (mestna) komora – gl. Besedišče</p>
+      <p><hi rend="bold">kamrar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● (mestni) komornik – gl. tudi: kamrski gospud, štat kamrar,
+        štatkamrer – gl. Besedišče</p>
+      <p><hi rend="bold">kamrski</hi>
+        <hi rend="underline">prid.</hi>● komoren: <list>
+          <item><hi rend="bold">kamrski gospud</hi> =mestni komornik – gl. tudi: kamrar, štat
+            kamrar, štatkamrer – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">kar</hi>
+        <hi rend="underline">zaim.</hi> ● kar, kolikor: kar bode meni nar uezh mogozhe (LJU-8), <hi
+          rend="italic">na usso Škodo, kar je na nas ležeče,</hi>
+        <hi rend="italic">gledati</hi> (LJU-19) – gl. tudi: kari</p>
+      <p><hi rend="bold">kari</hi>
+        <hi rend="underline">zaim.</hi> ● kar, kolikor: kari se bode /.../ predalu (LJU-9 – pripis)
+        – gl. tudi: kar</p>
+      <p><hi rend="bold">kelder</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● klet: noter v´kelder (LJU-5)</p>
+      <p><hi rend="bold">kervo perseči</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● po krivem priseči – gl. tudi: kervu perseči</p>
+      <p><hi rend="bold">kervu perseči</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● po krivem priseči – gl. tudi: kervo perseči</p>
+      <p><hi rend="bold">kervu persežen</hi>
+        <hi rend="underline">prid.</hi>● krivoprisežen: <list>
+          <item><hi rend="bold">kervu perseženi člouk</hi> = krivoprisežnik – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">kir 1</hi>
+        <hi rend="underline">zaim.</hi> ● kateri, ki: Letu Vinu kir bom ieſt saſse kupil (LJU-5), na
+        te kmete, kir so bliſu okuli sedezhi (LJU-8), tudi moÿga Touarsha ali ſraun forſtnaria, kir
+        bi skriuaie eniga otil sakriti, nozhem schonnat (LJU-8)</p>
+      <p><hi rend="bold">kir 2</hi>
+        <hi rend="underline">prisl.</hi> ● kjer: <hi rend="italic">tam, kir bodete od eniga takšniga
+          skrivniga Tovarštua ali Sklepanja kei slišali</hi> (LJU-19) </p>
+      <p><hi rend="bold">kir 3</hi>
+        <hi rend="underline">vez.</hi> ● ker: Potehmal kir sem ieſt /.../ khenimu Vuratariu /.../
+        gori uset (LJU-7), Kir ste vi per temu Mestu sa Borstnarja gori uset (NME-3)</p>
+      <p><hi rend="bold">kir 4</hi>
+        <hi rend="underline">vez.</hi> ● če: Samuzh kir edniga oli uezh per ſsekanim sauernem
+        (LJU-8)</p>
+      <p><hi rend="bold">kir kol</hi>
+        <hi rend="underline">prisl.</hi> kjer koli: kir kol boſte od tazich Skriunich Sberalschou
+        inu Suetou kei Saſchliſchali (NME-1)</p>
+      <p><hi rend="bold">koji, -a, -e</hi>
+        <hi rend="underline">zaim.</hi> ● kateri, ki: ona paku, koja kakvo Sgodu donaſsanÿu
+        (ORM-3)</p>
+      <p><hi rend="bold">kolkaj</hi>
+        <hi rend="underline">prisl.</hi> ● koliko: Inu kolkai tega lesa sem predau (LJU-13) </p>
+      <p><hi rend="bold">kontraband</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● tihotapstvo:obena kriuiza, alli Contrabandt delatti (LJU-9),
+        obenae keruizae allj Contrabanda dellatj (LJU-14) – gl. tudi: kontrabandel</p>
+      <p><hi rend="bold">kontrabandel</hi>
+        <hi rend="underline">sam.</hi><hi rend="underline"> m</hi> ● tihotapstvo:Na te contrabandel
+        (LJU-5) – gl. tudi: kontraband</p>
+      <p><hi rend="bold">kop</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● nakup, kupčija:hkenimu, prauimu kopu (LJU-4) – gl. tudi: kup
+        2</p>
+      <p><hi rend="bold">kopuvanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● kupovanje: per kopuuaniu tega Leſsa (LJU-14)</p>
+      <p><hi rend="bold">koz</hi> predl. ● skozi: kos ne Suestio Skusj pomagat (LJU-16) – gl. tudi:
+        kuz</p>
+      <p><hi rend="bold">krajcer</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● krajcar:aden kraizer (LJU-9 – pripis)</p>
+      <p><hi rend="bold">krajl</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● kralj – gl. Besedišče</p>
+      <p><hi rend="bold">krajshauptman</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● okrožni glavar – gl. Besedišče</p>
+      <p><hi rend="bold">krejl</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● kralj – gl. Besedišče</p>
+      <p><hi rend="bold">kriv</hi>
+        <hi rend="underline">prid.</hi> ● kriv, napačen <list>
+          <item><hi rend="bold">kriva ali zuper vola</hi> = krivoverstvo: obenj krÿui ali ſuper
+            uolli inu miſli ſe poduretshi (LJU-1 – prim. v nem. različici: kheiner verführerischen
+            Sectischen lehr vnnd opinion), obeni kriui alli super uoli inu miſli se poduretzhi
+            (LJU-12 – prim. v nem. različici: kheiner verführerischen Sectischen lehr vnd
+            glaubens)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">krvica</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● krivica: obenae keruizae (LJU-14)</p>
+      <p><hi rend="bold">kudur</hi>
+        <hi rend="underline">zaim.</hi> ● kdor: badj kudur ozhe (LJU-16)</p>
+      <p><hi rend="bold">kup 1</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mera, cena: s tem kupom gorj poskakuuati (LJU-4), ta praui kup
+        pouedati (LJU-8), ta praui kup uſelei pouedati (LJU-11), ta prauj kup pouedatj (LJU-14), ta
+        prauj kup, po Vrednaſtj /.../ pouedatj (LJU-15)</p>
+      <p><hi rend="bold">kup 2</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● nakup, kupčija: na kup Spustitj (LJU-9 – pripis), na kup
+        pouedat, allj Spustitj (LJU-14) – gl. tudi: kop</p>
+      <p><hi rend="bold">kuz</hi>
+        <hi rend="underline">predl.</hi> ● skozi: kuſs druge Sturitj puſtiti (LJU-16) – gl. tudi:
+        koz</p>
+      <p><hi rend="bold">ledig</hi>
+        <hi rend="underline">prid.</hi> ● prost, svoboden, oproščen <list>
+          <item><hi rend="bold">ledig sturiti</hi> = razvezati (se) obveze: sem ſe iest /.../
+            dolshan /.../ freÿ inu ledig, ſturiti (LJU-1), sem se ieſt /.../ dolshan /.../ ledig
+            sturiti (LJU-12)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">lesten</hi>
+        <hi rend="underline">prid.</hi> ● lasten: Suä Lestna Roko (MET-2), moje lestnu blagu
+        (NME-5)</p>
+      <p><hi rend="bold">ležeč</hi>
+        <hi rend="underline">del.</hi> ● mogoče, moč: kolker bo nad vam leschezhe (NME-2), <hi
+          rend="italic">kar je na nas ležeče</hi> (LJU-19 – prim. v nem. različici: so viel an euch
+        ist)</p>
+      <p><hi rend="bold">lis</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● les: lisu predalu (LJU-9 – pripis)</p>
+      <p><hi rend="bold">lubje</hi> prid. (im. mn.) ● ljubi: Vuſue lubie Suetnike (LJU-8 –
+        pripis)</p>
+      <p><hi rend="bold">magistratuš</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● magistrat – gl. tudi: magištratuš – gl. Besedišče</p>
+      <p><hi rend="bold">magištratuš</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● magistrat – gl. tudi: magistratuš – gl. Besedišče</p>
+      <p><hi rend="bold">makula</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● madež: preſ ſzuega greha ÿ Macule (ORM-1), pres ſzue Makule ÿ
+        greha (ORM-2)</p>
+      <p><hi rend="bold">malefic</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● zločin, hudo kaznivo dejanje: Malefizi (KRA-3)</p>
+      <p><hi rend="bold">margraf</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mejni grof – gl. Besedišče</p>
+      <p><hi rend="bold">mej</hi>
+        <hi rend="underline">predl.</hi> ● med: mey ſebo (KRA-3)</p>
+      <p><hi rend="bold">merčun</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● merilec <list>
+          <item><hi rend="bold">vinski merčun</hi> – gl. Besedišče</item>
+          <item><hi rend="bold">solski merčun</hi> = solni merilec – gl. Besedišče</item>
+          <item><hi rend="bold">žitni merčun</hi> – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">merčunski</hi>
+        <hi rend="underline">prid.</hi> ● merilski: merzunsko slusbo (LJU-6)</p>
+      <p><hi rend="bold">mereti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● meriti: breſ usega fortelna mereti (LJU-6)</p>
+      <p><hi rend="bold">merk</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● pozornost: tudi moi dober merkh na /.../ imeti (LJU-8)</p>
+      <p><hi rend="bold">merkati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● nadzorovati,
+        paziti:merkati inu gorj gledati (LJU-4), na teiſte /.../ fliſsig merkati (LJU-5)</p>
+      <p><hi rend="bold">mesic</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mesec: dan, ura inu meſsiz(LJU-8)</p>
+      <p><hi rend="bold">minje</hi>
+        <hi rend="underline">prisl.</hi> ● manj: she minie sa tega uola (LJU-8)</p>
+      <p><hi rend="bold">mito</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● podkupnina: Skhoſi eneriga mitu (KRA-3), Dar, ali Mittu
+        (ORM-2), bres uſega fortelna, mita, ali schenkunge (LJU-4), breſs obeniga sashonenia darù
+        alli mitti (LJU-5), mite alli shenkunge (LJU-8)</p>
+      <p><hi rend="bold">moduš</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● način: ſzpodabnem moduſsem (ORM-2)</p>
+      <p><hi rend="bold">moštvo</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● možatost: per vaschimu poſteinu inu mostvo oblubili
+        (NME-2)</p>
+      <p><hi rend="bold">mrmranje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● ugovarjanje: presz Mermranya (ORM-3 – prim. v nem. različici:
+        ohne Widerrede)</p>
+      <p><hi rend="bold">naizrečen</hi>
+        <hi rend="underline">prid.</hi> ● neizmeren: negoua naisrezhena Gnada (MET-1)</p>
+      <p><hi rend="bold">najpako</hi>
+        <hi rend="underline">prisl.</hi> ● posebej, zlasti: naipako bale ſzraſzumom (ORM-2)</p>
+      <p><hi rend="bold">najprvo</hi> prisl. ● naprej <list>
+          <item><hi rend="bold">najprvo dati</hi> = naprej dati, naprej povedati: naiperuo Dati
+            (ORM-2) </item>
+        </list>
+      </p>
+      <p><hi rend="bold">nakamer</hi> – gl. nihče </p>
+      <p><hi rend="bold">na prej (nesen, pasti, pernesti, pisan, pisati, postavlen, postavleni,
+          priti, stati, vzeti)</hi> – gl. naprej (nesen, pasti, pernesti, pisan, pisati, postavlen,
+        postavleni, priti, stati, vzeti)</p>
+      <p><hi rend="bold">naprej dan</hi> del. ● predložèn: utem naprei danemu Specificationu
+        (MET-2)</p>
+      <p><hi rend="bold">napredržan</hi>
+        <hi rend="underline">del.</hi> ● predstavljen, prebran: <hi rend="italic">Koker je meni zdej
+          naprederžanu</hi> (LJU-19) </p>
+      <p><hi rend="bold">naprej nesen</hi>
+        <hi rend="underline">del.</hi> ● predstavljen, prebran: koker je meni Sdei na prei neſsenu
+        /.../ blu (NME-1), koker je meni tukaj k mojmu sadersku naprei neſsenu blu (NME-2), Koker je
+        meni tukei na prei neſsenu /.../ blu (NME-4)</p>
+      <p><hi rend="bold">naprej pasti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zgoditi se, pripetiti se: kei teskega na prei padlo
+        (KRM-1)</p>
+      <p><hi rend="bold">naprej pernesti 1</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● posredovati, povedati naprej: pro naprey perneſti
+        (KRA-3)</p>
+      <p><hi rend="bold">naprej pernesti 2</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● izreči, govoriti: zhes nez inu gorijemaine tega zelga Meſta
+        kei na prei perneslu (NME-1)</p>
+      <p><hi rend="bold">naprepernešen</hi>
+        <hi rend="underline">del.</hi> ● izrečen, govorjen: <hi rend="italic">čez nuc tega mesta
+          naprepernešenu inu sklepanu bilu</hi> (LJU-19)</p>
+      <p><hi rend="bold">naprej pisan</hi> del. ● predpisan, zahtevan: k moimu Saderscku na prei
+        piſsanu blu (NME-1), k moimu sadersku na prei piſsanu blu (NME-4)</p>
+      <p><hi rend="bold">naprej pisati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● predpisovati, zahtevati: negova sluschba inu dolschnoſt
+        sturiti na prei piſche inu postavi (NME-2)</p>
+      <p><hi rend="bold">naprepostavlen</hi> del. ● nadrejen: ktemu naprepoſtaulenich Goſpudou
+        (LJU-7), napreposztavlena Goszpoczka (ORM-3) – gl. tudi: napre postavlen, naprej postavlen
+        1</p>
+      <p><hi rend="bold">napre postavlen</hi>
+        <hi rend="underline">del.</hi> ● nadrejen: temo napre postaulenmo Creis Haubtmano (KRM-1 –
+        2-krat) </p>
+      <p><hi rend="bold">naprej postavlen 1</hi> del. ● nadrejen: tega na prei poſtauleniga zhasniga
+        Magistrata (NME-1), zhes tega na prei poſtauleniga zhasniga Richtarja inu zeliga Ratha
+        (NME-1), temu na prei poſtaulenmu Richtarju inu Rathu (NME-1) – gl. tudi: naprepostavlen,
+        napre postavlen</p>
+      <p><hi rend="bold">naprej postavlen</hi>
+        <hi rend="bold">2</hi> del.● predpisan, določen, ukazan: Koker mi je tukaj na prei
+        postaulenu (NME-3)</p>
+      <p><hi rend="bold">naprej postavleni</hi>
+        <hi rend="underline">posam.</hi> ● nadrejeni: Vaschim na prei postaulenim (NME-2)</p>
+      <p><hi rend="bold">naprej priti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zgoditi se*, izvedeti*, zdeti se*: kar vam zhes Polizai
+        ordengo na prei pride (NME-2)</p>
+      <p><hi rend="bold">naprej stati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● predpisano biti, naloga biti: kar enimu ſueſtimu
+        slushabniku na prei stoÿ (LJU-9), per niegovi Veisti inu persegi sturiti na prei stoÿ
+        (NME-3), gosposkinimu sluschabniku sturiti na prej stoji (NME-4) – gl. tudi: naprejstati
+        1</p>
+      <p><hi rend="bold">naprejstati 1</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● predpisano biti, naloga biti: kakor ſse enimu ſuestimu
+        Vuratariu inu ſluſabniku /.../ napreiſtoi (LJU-7) – gl. tudi: naprej stati</p>
+      <p><hi rend="bold">naprejstati 2</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● voditi, načelovati: ſlusbo sueſtu oprauiti inu teiſti
+        napreiſtati (LJU-7)</p>
+      <p><hi rend="bold">naprej vzet</hi>
+        <hi rend="underline">del.</hi>● sklenjen, dogovorjen: Khar khulj Wſwety wode naprey Vſetu
+        (KRA-2)</p>
+      <p><hi rend="bold">napre vzeti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● lotiti se, storiti: nister napre uſeti (LJU-1), nishter
+        napre useti (LJU-12) – gl. tudi: naprej vzeti</p>
+      <p><hi rend="bold">naprej vzeti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● lotiti se, storiti: na nobeno visho kei na prei uſseti
+        (NME-1) – gl. tudi: napre vzeti</p>
+      <p><hi rend="bold">napumen dati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● naznaniti: <hi rend="italic">napumen daste nezamoučate</hi>
+        (LJU-19)</p>
+      <p><hi rend="bold">napumer si držati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● paziti na: <hi
+          rend="italic">nec inu Pogmiranje napumer si deržati</hi> (LJU-19)</p>
+      <p><hi rend="bold">nargnadlivši</hi>
+        <hi rend="underline">prid.</hi> ● najmilostljivejši: <hi rend="italic">nargnadlivšiga
+          Cesarja, Kraila</hi> (LJU-19)</p>
+      <p><hi rend="bold">nar (poprej, poprejt)</hi> – gl. narpoprej, narpoprejt</p>
+      <p><hi rend="bold">narpoprej</hi>
+        <hi rend="underline">prisl</hi> ● najprej: nar po prej (LJU-9 – pripis), nar poprej (LJU-14)
+        – gl. tudi: narpoprejt</p>
+      <p><hi rend="bold">narpoprejt</hi>
+        <hi rend="underline">prisl</hi> ● najprej: nar popreit (MET-2) – gl. tudi: narpoprej</p>
+      <p><hi rend="bold">nec</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● korist: Nez (KRM-1), Nez (NME-1), nez (NME-1), <hi
+          rend="italic">nec</hi> (LJU-19) – gl. tudi: nuc</p>
+      <p><hi rend="bold">neč</hi>
+        <hi rend="underline">zaim.</hi> ● nič: nez naspodobniga (LJU-9 – pripis), nezh upuuati
+        (LJU-11), nezh naprauizhniga (LJU-14), nezh Sturiti (LJU-15), nezh fortelnastiga (LJU-15),
+        nezh taziga Sturitj (LJU-16), nezh fortelnastiga (LJU-16), nezh Sataiti (LJU-17)</p>
+      <p><hi rend="bold">nego</hi>
+        <hi rend="underline">vez.</hi> ● ampak, temveč: Negho Goszpodnu Rihtaru (ORM-1), Negho
+        kuliko mie moguchié (ORM-1), nego tak Bosnumu (ORM-2)</p>
+      <p><hi rend="bold">nejzvest</hi>
+        <hi rend="underline">sam. ž</hi> ● nepoštenost, goljufija: sfalshio oli neiſuestio skusi
+        pomagat (LJU-8) – gl. tudi: nezvest</p>
+      <p><hi rend="bold">nezvest</hi>
+        <hi rend="underline">sam. ž</hi> ● nepoštenost, goljufija: obenimu /.../ kos ne Suestio
+        Skusj pomagat (LJU-16) – gl. tudi: nejzvest</p>
+      <p><hi rend="bold">nekomro</hi> – gl. nihče</p>
+      <p><hi rend="bold">neprekup</hi>
+        <hi rend="underline">sam. ž</hi> ● preprodaja: zheſh uso neſpodobno neprekup (LJU-4)</p>
+      <p><hi rend="bold">nespodoben</hi>
+        <hi rend="underline">prid.</hi> ● krivičen, nepravičen: zheſh uso neſpodobno neprekup
+        (LJU-4)</p>
+      <p><hi rend="bold">nespodobnost</hi>
+        <hi rend="underline">sam. ž</hi> ● krivičnost, nepravičnost: khobeni nespodobnoſti gledat,
+        inu perpuſtiti (LJU-4)</p>
+      <p><hi rend="bold">neščem</hi> – gl. hoteti</p>
+      <p><hi rend="bold">nešču</hi> – gl. hoteti</p>
+      <p><hi rend="bold">nevola</hi>
+        <hi rend="underline">sam. ž</hi> ● težava: zheſh neuolo pomagat (LJU-4)</p>
+      <p><hi rend="bold">nigder</hi>
+        <hi rend="underline">prisl.</hi> ● nikjer drugje: ieſt netshem nigder, kakor pred leto, moio
+        gosposhino (LJU-1)</p>
+      <p><hi rend="bold">nihče</hi>
+        <hi rend="underline">zaim</hi><hi rend="underline">.</hi> ● nihče <list>
+          <item><hi rend="bold">nakamer</hi> = nikomur: nakamer niz vpati (LJU-9 – pripis) – gl.
+            tudi: nekomro</item>
+          <item><hi rend="bold">nekomro</hi> = nikomur: nekhomro nitz Vpati (LJU-7) – gl. tudi:
+            nakamer</item>
+        </list>
+      </p>
+      <p><hi rend="bold">nijeden</hi>
+        <hi rend="underline">zaim.</hi> noben: niednomu drugomu Goszpodnu (ORM-1), sz niednem
+        (ORM-1)</p>
+      <p><hi rend="bold">nikakov</hi>
+        <hi rend="underline">zaim.</hi>● nikakršen: nikakou (ORM-1)</p>
+      <p><hi rend="bold">ništar</hi>
+        <hi rend="underline">zaim.</hi>● nič, ničesar: niſtar (LJU-8), nistar (ORM-2 – 2-krat) – gl.
+        tudi: ništer <list>
+          <item><hi rend="bold">ništar manje</hi> = nič manj: Niſtar manie (ORM-2) </item>
+        </list>
+      </p>
+      <p><hi rend="bold">ništer</hi>
+        <hi rend="underline">zaim.</hi>● nič, ničesar: niſchter dyati (KRA-3), nister napre uſeti
+        (LJU-1), niſster samolzhati (LJU-11), nishter napre useti (LJU-12) – gl. tudi: ništar</p>
+      <p><hi rend="bold">noter jemanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● prejemanje, pobiranje: noter iemania tiga spodobniga zolla
+        (LJU-5)</p>
+      <p><hi rend="bold">noter jemati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● prejemati, pobirati: od tech iſtich Vuin noter iemati
+        (LJU-6)</p>
+      <p><hi rend="bold">noter kupuvanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● kupovanje, odkupovanje: stem noter kupuuaniam (LJU-11), Stem
+        noter kupuuaniam (LJU-15)</p>
+      <p><hi rend="bold">noter perhodiše</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● prihodek: na te denarie inu noter perhodiſshe (LJU-2) – gl.
+        tudi: perhodiše</p>
+      <p><hi rend="bold">nuc</hi>
+        <hi rend="underline">sam. m</hi> ● korist: nuz (KRA-1), gmein Nutza (KRA-2), nuz inu prid
+        (LJU-1), gmain meſta nuzu (LJU-8), nuz, inu prid (LJU-12), k nuzu inu pobulschko (NME-3),
+          <hi rend="italic">ta nuz inu dobiček</hi> (LJU-18), <hi rend="italic">čez nuc tega
+          Mesta</hi> (LJU-19) – gl. tudi: nec</p>
+      <p><hi rend="bold">obarovati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● obvarovati: obarouati (LJU-1), ſuestu obarouatj (LJU-11),
+        obarouati (LJU-12)</p>
+      <p><hi rend="bold">obečovati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● obljubljati: obechuiem (ORM-2)</p>
+      <p><hi rend="bold">občinski</hi> posam. ● splošni, javni: vu obchinszkum (ORM-3) – gl. tudi:
+        abčinski</p>
+      <p><hi rend="bold">obdržavati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● izpolnjevati: obderſsavati (ORM-3 – v nem. različici:
+        befolgen)</p>
+      <p><hi rend="bold">obeden</hi>
+        <hi rend="underline">zaim.</hi>● nobeden, nihče: obednimu /.../ skusi pomagat (LJU-8),
+        obedniga (LJU-8)</p>
+      <p><hi rend="bold">oben</hi>
+        <hi rend="underline">zaim.</hi>● noben: Sa obeniga daru (KRA-4), Sa obene Rezhi volo
+        (KRA-4), obeniga neſnaniga (LJU-1), uobeni ſtalti (LJU-1), obenj krÿui ali ſuper
+        uolli(LJU-1), khobeni nespodobnoſti (LJU-4), breſs obeniga sashonenia (LJU-5), obeni uiſhi
+        (LJU-5), breſ obeniga ſhonania (LJU-7), obenimu (LJU-7), obenimu, slaſti sunainimu zhloueku
+        (LJU-8), obena kriuiza (LJU-9),obeniga naſnaniga (LJU-9), sa obeniga darù (LJU-10), obenimu
+        (LJU-11), obeniga neſnaniga (LJU-12), v´obeni stalti (LJU-12), inu obeni kriui alli super
+        uoli (LJU-12), obenae keruizae (LJU-14), obenimu nezh vpatj (LJU-15), obenimu kmetu
+        (LJU-16), obeniga derueſsa (LJU-16), obenimu Sfalshio (LJU-16), <hi rend="italic">obene
+          škode</hi> (LJU-18), de obene Saschihernost (VGO-1)</p>
+      <p><hi rend="bold">oblumiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● obljubiti: oblumim (LJU-3) </p>
+      <p><hi rend="bold">obnašati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● opravljati: vsza ona Poszla /.../ obnaſsati (ORM-3),
+        obnaſsati more (ORM-3 – prim. v nem. različici: jederzeit unternerhmen)</p>
+      <p><hi rend="bold">obrečen</hi> del. ● obtožen: po nadolschno obrezhen (KAM-1)</p>
+      <p><hi rend="bold">obrovnati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● ravnati z: letu Vuſe sueſtù obrounate (LJU-4)</p>
+      <p><hi rend="bold">obtožnik</hi>
+        <hi rend="underline">sam. m</hi> ● toženec: temo moimo Optoschniko (VGO-1)</p>
+      <p><hi rend="bold">óče</hi>,<hi rend="bold"> óčem</hi>,<hi rend="bold"> óčete</hi>,<hi
+          rend="bold"> óčo</hi>, <hi rend="bold">óčte</hi> – gl. oteti </p>
+      <p><hi rend="bold">očitu</hi>
+        <hi rend="underline">prisl.</hi> ● vidno, očitno: Skhriuſchi olli otſchitu preneſti
+        (KRA-1)</p>
+      <p><hi rend="bold">odantvertvati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● izročati, izplačevati: pres suega fortelna gospudi
+        Camrariu odanvertuat – gl. tudi: antbertuvati</p>
+      <p><hi rend="bold">odbijati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● izogibati se: szkerblivno odbijati (ORM-3 – v nem.
+        različici: sorgfälttigist meiden)</p>
+      <p><hi rend="bold">od delen</hi> – gl. oddelen</p>
+      <p><hi rend="bold">oddelen</hi> del. ● izločen: imam od delen ienu potren biti (MET-1) </p>
+      <p><hi rend="bold">odgovoriti se</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● odpovedati se: Se odgouori uſsemu poshteinu tega sueta
+        (MET-1)</p>
+      <p><hi rend="bold">od ločam</hi> – gl. odločam</p>
+      <p><hi rend="bold">odločam</hi> del. ● ločen, izključen, izobčen: od Lozham bodem (MET-2) –
+        gl. tudi: odločen</p>
+      <p><hi rend="bold">odločen</hi> del. ● ločen, izključen, izobčen: odlozhen inu Ferdaman Bodem
+        (KAM-1) – gl. tudi: odločam</p>
+      <p><hi rend="bold">odrajtati</hi> – gl. adrajtati</p>
+      <p><hi rend="bold">odvrniti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● preprečiti, odvrniti: uſselei varvat inu prezh odvernit
+        (NME-1), po nozhi inu podnevi odverniti (NME-2), kar vam zhes Polizai ordengo na prei pride
+        odverniti (NME-2), kolker vam bode mogozhe odvernit (NME-4)</p>
+      <p><hi rend="bold">oku</hi>
+        <hi rend="underline">vez.</hi> ● ako, če: Oku jest (MET-2)</p>
+      <p><hi rend="bold">okuli znesti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● razširiti (novico): boste /.../ ne /.../ resodelli inu
+        okuli snesli (NME-2)</p>
+      <p><hi rend="bold">oli</hi>
+        <hi rend="underline">vez.</hi> ● ali: oli (LJU-2, LJU-4, LJU-8), olÿ (LJU-8)</p>
+      <p><hi rend="bold">ordenga</hi>
+        <hi rend="underline">sam. ž</hi> ● red: uſso dobro Ordengo /.../ gori obderschat (NME-2) –
+        gl. tudi: ordnunga, policaj ordenga</p>
+      <p><hi rend="bold">ordenlich</hi>
+        <hi rend="underline">prid.</hi> ● pravi, pravilen: enu ordenlich inu fliſsig gori gledanie
+        (LJU-2)</p>
+      <p><hi rend="bold">ordnunga</hi>
+        <hi rend="underline">sam. ž</hi> ● red: ordnunge /.../ pocorno derſati (LJU-1), ordnungo inu
+        nauada, iskati (LJU-1), po praui ordnungi (LJU-5), ordnunge /.../ pocornu dershati (LJU-12)
+        – gl. tudi: ordenga</p>
+      <p><hi rend="bold">oteti</hi>
+        <hi rend="underline">glag. nedov.</hi> ● hoteti, želeti: be eden otel (LJU-4), eniga otil
+        sakriti (LJU-8) – gl. tudi: hoteti, teti <list>
+          <item><hi rend="bold">óče</hi> 3. os. edn. = bo, hoče: badj kudur ozhe (LJU-16), ozhe
+            /.../ persezhe (MET-2), pomagat ozhe (NME-1, NME-2, NME-3, NME-4, NME-5)</item>
+          <item><hi rend="bold"> óčem</hi>
+            <hi rend="underline">1. os. edn.</hi> = bom, hočem: ozem /.../ bitti (KRM-1), otzhem
+            /.../ biti (LJU-1), ozhem /.../ pomagat terditi, shirmati (LJU-1), ozhem /.../ biti
+            (LJU-2, LJU-3), ozhem /.../ pouedati (LJU-5), ozhem /.../ merkati (LJU-5), ozhem /.../
+            biti (LJU-6), ozhem /.../ oprauiti (LJU-7), ozhem /.../ biti (LJU-8), ozhem /.../ imeti
+            (LJU-8), Ozem /.../ datj (LJU-9 – pripis), ozem /.../ pouedati (LJU-9 – pripis), ozhem
+            /.../ biti (LJU-12), ozhem /.../ pomagat terditi, shirmati (LJU-12), otzem /.../ biti
+            (LJU-13), ozhem /.../ datj (LJU–14), ozhem /.../ bittj (LJU-15), otzem /.../ bitj
+            (LJU-16), ozhem /.../ bitti (LJU-17), ozhem Se /.../ Saderschat (NME-1), ozhem /.../ se
+            /.../ saderschati (NME-4)</item>
+          <item><hi rend="bold"> óčete</hi> 2. os. mn. = hočete: ozhete /.../ opravit (NME-2),
+            ozhete /.../ odverniti (NME-2), ozhete /.../ dapouniti (NME-3), se ozhete /.../
+            saderschati (NME-3), ozhete /.../ opraulat (NME-4)</item>
+          <item><hi rend="bold"> óčo</hi>
+            <hi rend="underline">1. os. edn.</hi> = hočem: Khokher Jeſt otſcho /.../ Vſchiti
+            (KRA-3)</item>
+          <item><hi rend="bold">óčte</hi>
+            <hi rend="underline">2. os. mn.</hi> = hočete: <hi rend="italic">dopouniti očte</hi>
+            (LJU-19), ozhte /.../ iskasat (NME-1)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">ovde</hi> prisl. ● tukaj: oude (ORM-2)</p>
+      <p><hi rend="bold">pagjervati</hi>
+        <hi rend="underline">glag.</hi> nedov. ● zahtevati: leta douh katerga iest pagieruam (MET-2)
+        – gl. tudi: pogerovati, pogervati</p>
+      <p><hi rend="bold">pajdaštvo</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● prijateljstvo, pajdaštvo: Baratssag ali paidastuo (ORM-1)</p>
+      <p><hi rend="bold">pajduč</hi>
+        <hi rend="underline">del.</hi> ● sproten, tekoč: paiduche y Vſzako Vureme (ORM-2)</p>
+      <p><hi rend="bold">pajduče</hi>
+        <hi rend="underline">del.</hi> ● sproten, tekoč: najperuo vu paiduche Potreboche pouerauati
+        (ORM-2)</p>
+      <p><hi rend="bold">pajduče</hi>
+        <hi rend="underline">prisl.</hi> ● v bodoče: paiduche (ORM-2 – 2-krat)</p>
+      <p><hi rend="bold">pergovar</hi>
+        <hi rend="underline">sam. m</hi> ● govorica, pregovor: Vpergouaru mei ludmi oſstati
+        (MET-1)</p>
+      <p><hi rend="bold">perhodiše</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● prihodki: tu perhodishe (LJU-7) – gl. tudi: noter
+        perhodiše</p>
+      <p><hi rend="bold">perjazen</hi>
+        <hi rend="underline">sam. ž</hi> ● prijaznost, naklonjenost: Skhoſi eneriga daru, peryaſni.
+        (KRA-2)</p>
+      <p><hi rend="bold">perložiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● dodati, priložiti: kei Perloschitti (KRM-1)</p>
+      <p><hi rend="bold">pernareden</hi> del. ● pripraven, koristen: pernareden Burgar (LJU-1),
+        fliſsig, pernareden inu zhuiezh biti (LJU-2), pernareden, inu flissig Valput (LJU-11),
+        pernareden hlabez (LJU-13) – gl. tudi: pernerejen, perpravlen <list>
+          <item><hi rend="bold">pernareden biti</hi>
+            <hi rend="bold">(komu)</hi> = pripravljen pomagati: uſsakaterimu pernareden biti
+            (LJU-2), uſakaterimu pernareden biti (LJU-3), Vſakiterimu pernareden bitti
+            (LJU-17)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">pernerejen</hi> del. ● pripraven, koristen: smoio merzunsko, slusbo pokoren
+        inu pernereien biti (LJU-6) – gl. tudi: pernareden, perpravlen</p>
+      <p><hi rend="bold">perpraviti</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> dov.</hi> ● spraviti ob (kaj): perpraue
+        Tega, Super katerega gauori, Satu niegouo (MET-1)</p>
+      <p><hi rend="bold">perpravlen</hi> del. ● pripraven, koristen: perpraulen, inu fliſsig Vaupet
+        (LJU-15) – gl. tudi: pernareden, pernerejen</p>
+      <p><hi rend="bold">perpustiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● dovoliti, dopustiti: khobeni nespodobnoſti gledat, inu
+        perpuſtiti (LJU-4)</p>
+      <p><hi rend="bold">peršona</hi>
+        <hi rend="underline">sam. ž</hi> ● oseba: <list>
+          <item><hi rend="bold"> vikši peršona</hi> = visoka osebnost: zeſsarscke kraileuske
+            Suetlusti vickſchi Perschono (NME-1)</item>
+          <item><hi rend="bold">narveči peršona</hi> = najvišja osebnost: <hi rend="italic">čez njeh
+              cesarske kraileve Svetlosti narveči Peršono</hi> (LJU-19)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">petler</hi>
+        <hi rend="underline">sam. m</hi> ● berač: na te kuſhne ludi, inu petlerie (LJU-7)</p>
+      <p><hi rend="bold">plac</hi>
+        <hi rend="underline">sam. m</hi> ● trg: netem Plazu, tukaie Vlubnani (LJU-4)</p>
+      <p><hi rend="bold">platiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● plačati: vszigdar dobrovolno platiti (ORM-3 – v nem.
+        različici: tragen)</p>
+      <p><hi rend="bold">pobulšek</hi>
+        <hi rend="underline">sam. m</hi> ● izboljšanje, dvig: k nuzu inu pobulschko mestniga borsta
+        (NME-3)</p>
+      <p><hi rend="bold">poflisati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> dov.</hi> ● potruditi se: boste uſse
+        navarnosti /.../ odverniti inu varvat vas pofliſsali (NME-2)</p>
+      <p><hi rend="bold">pogerovati</hi>
+        <hi rend="underline">glag.</hi><hi rend="underline"> nedov.</hi> ● zahtevati: od mere
+        pogerouati (LJU-3) – gl. tudi: pagjervati, pogervati</p>
+      <p><hi rend="bold">pogervan</hi> del. ● zahtevan: Sa pogerwane Shkodo (VGO-1)</p>
+      <p><hi rend="bold">pogervati</hi>
+        <hi rend="underline">glag.</hi> nedov. ● zahtevati: ta Spodobna prauizo od mere pogeruati
+        (LJU-17) – gl. tudi: pagjervati, pogerovati</p>
+      <p><hi rend="bold">poglavit 1</hi>
+        <hi rend="underline">prid.</hi> ● častit: kÿednomu postuvanomu ÿ poglauitomu Magistratuſu
+        (ORM-2), poglauitoga Magistratuſa (ORM-2)</p>
+      <p><hi rend="bold">poglavit 2</hi>
+        <hi rend="underline">prid.</hi> ● glavni – gl. Besedišče: glavno mesto</p>
+      <p><hi rend="bold">pogmiranje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● povečanje, pomnožitev, rast: <hi rend="italic">nec inu
+          Pogmiranje</hi> (LJU-19)</p>
+      <p><hi rend="bold">poklar</hi>
+        <hi rend="underline">prisl.</hi> ● potem: poklar She le (LJU-9 – pripis) – gl. tudi:
+        pokler</p>
+      <p><hi rend="bold">pokler</hi> prisl. ● potem: pokler tem drugim purgarjam (LJU-9 – pripis) –
+        gl. tudi: poklar</p>
+      <p><hi rend="bold">policaj ordenga</hi>
+        <hi rend="underline">sam. ž</hi> ● policijski red: zhes Polizai ordengo (NME-2)</p>
+      <p><hi rend="bold">polužiti</hi>* <hi rend="underline">glag.</hi><hi rend="underline">
+          dov.</hi> ● položiti: kar bodo /.../ sa enu uinu polushil (LJU-5)</p>
+      <p><hi rend="bold">pomerkvanje</hi>
+        <hi rend="underline">sam. s</hi> ● pozornost <list>
+          <item><hi rend="bold">pomerkvajne obrniti</hi> = biti pozoren:na uſse nasrezhe inu
+            navarnosti vasche pomerkuaine obernili (NME-2), vasche pomerkuanie po vaschim
+            premoscheniu oberniti (NME-4)</item>
+          <item><hi rend="bold">pomerkvajne imeti</hi> = biti pozoren:enu fliſsig gorj Gledaine, inu
+            pomerkuaine imetj (LJU-15) </item>
+        </list>
+      </p>
+      <p><hi rend="bold">pomoči</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● pomagati: pomochi braniti (ORM-1 – 2-krat)</p>
+      <p><hi rend="bold">ponucati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● porabiti: ka se sa gmein mesta ponuza (LJU-13)</p>
+      <p><hi rend="bold">porajtati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● poračunati: nisem iest /.../ Leteh imenuaneh posht nabenkat
+        poraitau (MET-2)</p>
+      <p><hi rend="bold">porečejne</hi>
+        <hi rend="underline">sam. s</hi> ● ukaz: zeſs /.../ porezeinne Gospuda Meſtniga Camraria
+        (LJU-15)</p>
+      <p><hi rend="bold">poročene</hi>
+        <hi rend="underline">sam. s</hi> ● ukaz: samuzh po porozheni (LJU-8)</p>
+      <p><hi rend="bold">poročiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● ukazati: Jenu meni porotzhe (KRA-3)</p>
+      <p><hi rend="bold">posehmal</hi>
+        <hi rend="underline">prisl.</hi> ● odslej: poſsehmal usaki teden (LJU-5)</p>
+      <p><hi rend="bold">posel</hi>
+        <hi rend="underline">sam. m</hi> ● opravilo: vsza ona poszla (ORM-3 – prim. v nem.
+        različici: alle jene Handlungen)</p>
+      <p><hi rend="bold">postava</hi>
+        <hi rend="underline">sam. ž</hi> ● zakon, predpis: nich poſtaue (LJU-1), niech postaue
+        (LJU-12)</p>
+      <p><hi rend="bold">postiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi>● pustiti, spustiti v: noter tu meſtu poſtiti (LJU-7)</p>
+      <p><hi rend="bold">pošta</hi>
+        <hi rend="underline">sam. ž</hi> ● postavka, točka: utem naprei danemu Specificationu
+        imenuane poshte (MET-2), Leteh imenuaneh posht (MET-2)</p>
+      <p><hi rend="bold">poštuvan</hi> del. ● spoštovan, častit: kÿednomu postuvanomu ÿ poglauitomu
+        (ORM-2)</p>
+      <p><hi rend="bold">potehmal</hi>
+        <hi rend="underline">prisl.</hi> ● zato ker: Potehmal kir sem ieſt (LJU-7)</p>
+      <p><hi rend="bold">potrahtati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● gledati na: nuz potrachtati (KRA-1), gmein Nutza pomagati
+        potrachtatj (KRA-2)</p>
+      <p><hi rend="bold">potrebača</hi>
+        <hi rend="underline">sam. ž</hi> ● naloga, potreba: ſze /.../ potrebach dotiche (ORM-2) –
+        gl. tudi: potreboča</p>
+      <p><hi rend="bold">potreboča</hi>
+        <hi rend="underline">sam. ž</hi> ● naloga, potreba: Potreboche pouerauati (ORM-2) – gl.
+        tudi: potrebača</p>
+      <p><hi rend="bold">potren</hi>
+        <hi rend="underline">del.</hi> ● strt, uničen: imam od delen ienu potren biti (MET-1)</p>
+      <p><hi rend="bold">povedeta</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● povedati: pouedeta, komu, Inu kolkai (LJU-13)</p>
+      <p><hi rend="bold">povele</hi>
+        <hi rend="underline">sam. s</hi> ● ukaz, dovoljenje*: breſs pouela (LJU-7), preſs pouella
+        (LJU-9), pres pouella (LJU-14), taiste skriune povella (NME-2)</p>
+      <p><hi rend="bold">poveravati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● poverjati, zaupati, nalagati: Potreboche pouerauati
+        (ORM-2)</p>
+      <p><hi rend="bold">pravda</hi>
+        <hi rend="underline">sam. ž</hi> ● pravica: prauo Praudo inu Sodbo (KRM-1 – prim. v nem.
+        različici: ein gleiches Recht und Gericht) </p>
+      <p><hi rend="bold">pravdno rečenje</hi>
+        <hi rend="underline">sam. s</hi> ● izrek sodbe – gl. Besedišče</p>
+      <p><hi rend="bold">pravica</hi>
+        <hi rend="underline">sam. ž</hi> ● dajatev, pristojbina: ta spodobna prauiza teh denariou
+        (LJU-3), tiga spodobniga zolla alli prauize (LJU-5), ta ſpodobni Zol inu prauiza (LJU-6 –
+        prim. v nem. različici: die gebüer vnd alt herkhumen), ta Spodobna prauizo od mere
+        (LJU-17)</p>
+      <p><hi rend="bold">predajati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● prodajati: is Gmain Meſta Camre predaiati (LJU-11), is
+        gmain Mestnae Cammre praedaejatj (LJU-15)</p>
+      <p><hi rend="bold">predati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● prodati: kari se bode /.../ ketemo zimprainu lisu predalu
+        (LJU-9 – pripis), kar iest predam (LJU-13), kolkai tega lesa sem predau (LJU-13)</p>
+      <p><hi rend="bold">premožejne</hi>
+        <hi rend="underline">sam. s</hi> ● moč, zmožnost: po moyem premoſcheineim (KRA-3), kolker u
+        vaſchim premoscheinu ſtoji (NME-1), uſse moje dolschnosti po mojim premoscheinu toku
+        resnizhnu dapernesti (NME-2) – gl. tudi: premoženje, promožejne</p>
+      <p><hi rend="bold">premoženje</hi>
+        <hi rend="underline">sam. s</hi> ● moč, zmožnost: vasche pomerkuanie po vaschim premoscheniu
+        oberniti (NME-4) – gl. tudi: premožejne, promožejne</p>
+      <p><hi rend="bold">preseči</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● priseči: preszechem (ORM-3)</p>
+      <p><hi rend="bold">preštimati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● pretehtati, preceniti: ſzraſzumom Moÿega ſznania prestimati
+        (ORM-2), prestimati Rodbinstvu (ORM-2) </p>
+      <p><hi rend="bold">pretežati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● preobremeniti, oškodovati: nickhoger preteſchati
+        (KRA-2)</p>
+      <p><hi rend="bold">prez</hi>
+        <hi rend="underline">predl.</hi> ● brez: pres use farlikoſti (LJU-1), pres vshega madesha
+        (LJU-1),preſs pouella (LJU-9), pres suega fortelna (LJU-13), pres Suega madesha (LJU-13),
+        pres uſe gefarlikosti (LJU-17), pres Vſega Madeſsha (LJU-17), pres greha (ORM-1), pres ſzue
+        Makule (ORM-1), pres ſzue Makule (ORM-2), presz vszega sznotraſsnyoga (ORM-3), presz
+        Mermranya (ORM-3), presz vszega Haszna (ORM-3)</p>
+      <p><hi rend="bold">pričeoč</hi>
+        <hi rend="underline">del.</hi> ● navzoč: temu prizheozhimu Johan Malneritshe (MET-2)</p>
+      <p><hi rend="bold">prijet</hi>
+        <hi rend="underline">del.</hi> ● spočet: preſ ſzuega greha ÿ Macule Prÿeta (ORM-1), pres
+        ſzue Makule ÿ greha prÿeta (ORM-2)</p>
+      <p><hi rend="bold">prikazen</hi>
+        <hi rend="underline">sam. ž</hi> ● podkupnina*: Sa Vole Schlachte, priasnasti, prikasni
+        (KRM-1)</p>
+      <p><hi rend="bold">pristan</hi>
+        <hi rend="underline">prid.</hi> ● pravi, resnični: pristhan Senator (ORM-2)</p>
+      <p><hi rend="bold">pristanje</hi>
+        <hi rend="underline">sam. s</hi> ● pristanek: Pristania Valie Moÿe (ORM-2)</p>
+      <p><hi rend="bold">pristojati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● spodobiti se: pruti nega goſpodſchini. priſtoy
+        (KRA-1)</p>
+      <p><hi rend="bold">pro</hi>
+        <hi rend="underline">prisl.</hi> ● prav, pravilno: pro naprey perneſti (KRA-3) </p>
+      <p><hi rend="bold">promožejne</hi>
+        <hi rend="underline">sam. s</hi> ● moč, zmožnost: po moyem promoſcheinem (KRA-2) – gl. tudi:
+        premožejne</p>
+      <p><hi rend="bold">provizor</hi>
+        <hi rend="underline">sam. m</hi> ● začasni organ (npr. v času kuge) – gl. Besedišče</p>
+      <p><hi rend="bold">prutje</hi>
+        <hi rend="underline">predl.</hi> ● proti, k: prutie Gospud Bogu (LJU-17)</p>
+      <p><hi rend="bold">pukša</hi>
+        <hi rend="underline">sam. ž</hi> ● pušica, blagajna: noter uuta pukſcha pride (LJU-2), uta
+        Pukſha poloſhiti (LJU–7)</p>
+      <p><hi rend="bold">purgar</hi>
+        <hi rend="underline">sam. m</hi> ● meščan – gl. tudi: burgar – gl. Besedišče</p>
+      <p><hi rend="bold">purgarski</hi>
+        <hi rend="underline">prid.</hi> ● meščanski – gl. Besedišče</p>
+      <p><hi rend="bold">purgermajster</hi>
+        <hi rend="underline">sam. m</hi> ● mestni župan – gl. tudi: burgermajster, bürgermajster –
+        gl. Besedišče</p>
+      <p><hi rend="bold">rajniš</hi>
+        <hi rend="underline">sam. m</hi> ● (renski) goldinar: ot ſakia rainisa (LJU-9 – pripis)</p>
+      <p><hi rend="bold">rajtenga</hi>
+        <hi rend="underline">sam. ž</hi> ● račun, obračun (tudi pri poslednji sodbi): kraitenge Stau
+        bodem (MET-1), per nashi Sadni Raitenge (MET-2), imenuana Raitenga (MET-2)</p>
+      <p><hi rend="bold">rat</hi>
+        <hi rend="underline">sam. m</hi> ● mestni svet – gl. Besedišče</p>
+      <p><hi rend="bold">ratati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● priti, zaplesti se: ueno Irungo, ali praudo ratall (LJU-1),
+        ueno irringo ali prauda ratal (LJU-12)</p>
+      <p><hi rend="bold">ratni gaspud</hi>
+        <hi rend="underline">sam. m</hi> ● mestni svétnik – gl. tudi: ratni gospod, ratni gospud –
+        gl. Besedišče</p>
+      <p><hi rend="bold">ratni gospod</hi> sam. m ● mestni svétnik – gl. tudi: ratni gaspud, ratni
+        gospud – gl. Besedišče</p>
+      <p><hi rend="bold">ratni gospud</hi>
+        <hi rend="underline">sam. m</hi> ● mestni svétnik – gl. tudi: ratni gaspud, ratni gospod –
+        gl. Besedišče</p>
+      <p><hi rend="bold">ratnik</hi>
+        <hi rend="underline">sam. m</hi> ● mestni svétnik – gl. tudi: ratni gaspud, ratni gospod,
+        ratni gospud gl. Besedišče</p>
+      <p><hi rend="bold">raufarija</hi>
+        <hi rend="underline">sam. ž</hi> ● tepež, pretep: Raufarie, tumulte inu uſſe Exceſse
+        (NME-2)</p>
+      <p><hi rend="bold">rešpekt</hi>
+        <hi rend="underline">sam. m</hi> ● spoštovanje: ta dolschne Respect (NME-2)</p>
+      <p><hi rend="bold">rezbijen</hi>
+        <hi rend="underline">del.</hi> ● uničen: resbien biti (MET-1)</p>
+      <p><hi rend="bold">rezodeti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● razodeti, razkriti: boste /.../ resodelli, inu okuli snesli
+        (NME-2)</p>
+      <p><hi rend="bold">rezodeti (čez sebe)</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● spraviti (nadse): koku eno Strashno Sodbo sam zehs sebe oku
+        kriuu perseshesh, resodenesh (MET-1)</p>
+      <p><hi rend="bold">rihta</hi>
+        <hi rend="underline">sam. ž</hi> ● sodišče – gl. Besedišče</p>
+      <p><hi rend="bold">rihtar</hi>
+        <hi rend="underline">sam. m</hi> ● (mestni) sodnik – gl. tudi: rihter – gl. Besedišče</p>
+      <p><hi rend="bold">rihtarski</hi>
+        <hi rend="underline">prid.</hi> ● sodniški – gl. Besedišče</p>
+      <p><hi rend="bold">rihten</hi>
+        <hi rend="underline">prid.</hi> ● sodni: <list>
+          <item><hi rend="bold">rihtna palica</hi> = sodna palica – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">rihter</hi>
+        <hi rend="underline">sam. m</hi> ● (mestni) sodnik – gl. tudi: rihtar – gl. Besedišče</p>
+      <p><hi rend="bold">rihtig</hi>
+        <hi rend="underline">prisl.</hi> ● prav, pravilno: richtig oprauite (LJU-17), Richtig
+        nadouch Ostale (MET-2)</p>
+      <p><hi rend="bold">rištenga</hi>
+        <hi rend="underline">sam. ž</hi> ● oprema, orodje: <hi rend="italic">per Apni, per Špevtah,
+          per Rištengi</hi> (LJU-18)</p>
+      <p><hi rend="bold">rodbinstvo</hi>
+        <hi rend="underline">sam. s</hi> ● sorodstvo: Rodbinstvu (ORM-2)</p>
+      <p><hi rend="bold">rota</hi>
+        <hi rend="underline">sam. ž</hi> ● prisega – gl. Besedišče</p>
+      <p><hi rend="bold">rotba</hi>
+        <hi rend="underline">sam. ž</hi> ● prisega – gl. Besedišče</p>
+      <p><hi rend="bold">rubežen</hi>
+        <hi rend="underline">sam. m</hi> ● rubež, zasežene stvari: rubeſhen Gospodu Camrariu
+        antbertuuat (LJU-8) – gl. tudi: rubežna</p>
+      <p><hi rend="bold">rubežna</hi>
+        <hi rend="underline">sam. ž</hi> ● rubež, zasežene stvari: Rubesno, inu Skodliuza prezej per
+        Kammre iſskasat (LJU-16) – gl. tudi: rubežen</p>
+      <p><hi rend="bold">sak</hi>
+        <hi rend="underline">zaim.</hi> ● vsak: Saki theden (LJU-9 – pripis), ot ſakia rainisa
+        (LJU-9 – pripis)</p>
+      <p><hi rend="bold">samozveličan</hi> prid. ● edino zveličaven: ta ſueta samoſuelizhana,
+        kershanſka, Catoliska, Rimſka, stara uero (LJU-1) – gl. tudi: samo zveličan</p>
+      <p><hi rend="bold">samo zveličan</hi>
+        <hi rend="underline">prid.</hi> ● edino zveličaven: ta sueta samo suelizhano, karſhanska,
+        Catoliska Rimſka stara Vera (LJU-12) – gl. tudi: samozveličan</p>
+      <p><hi rend="bold">samuč</hi>
+        <hi rend="underline">vez.</hi> ● temveč, ampak: Samuzh (LJU-8 – 2-krat), samuzh tu, kar ie
+        menj uedetzhe (LJU-10) – gl. tudi: semuč, tamuč, temuč</p>
+      <p><hi rend="bold">sav, sva, sve</hi>
+        <hi rend="underline">zaim.</hi> ● ves: <list>
+          <item><hi rend="bold">sva</hi> = vsa: pres ſzue Makule (ORM-2)</item>
+          <item><hi rend="bold">sve 1</hi><hi rend="underline">=</hi> vse: Sue taistu (LJU-13)– gl.
+            tudi: se</item>
+          <item><hi rend="bold">sve 2</hi> = vsi: Sue Suetniki (LJU-13), Sue Suetnikj, inu Suetnizae
+            (LJU-15), Sue Suetnikj inu Suetnize (LJU-16) – gl. tudi: svi, vse</item>
+          <item><hi rend="bold">svega</hi> = vsega:Bres Suega madesha Spozeta (LJU-14), Braes Suega
+            madesha Spozeta (LJU-15), Breſs Suega madesha Spozeta (LJU-16), preſ ſzuega greha ÿ
+            Macule (ORM-1) – gl. tudi: vuse</item>
+          <item><hi rend="bold">svi</hi> = vsi: Sui Suetniki (LJU-14), ſzui ſzuetchi (ORM-1), ſzui
+            Bosi ſzuetchi (ORM-2) – gl. tudi: sve, vse</item>
+        </list>
+      </p>
+      <p><hi rend="bold">savez</hi>
+        <hi rend="underline">sam. m</hi> ● zaveza, obljuba, prisega: Szaues Jednoga Ratnika, illiti
+        Senatora (ORM-2) </p>
+      <p><hi rend="bold">se</hi> zaim. ● vse: ſe mena pouedati (LJU-9 – pripis) – gl. tudi: sve</p>
+      <p><hi rend="bold">sebran</hi> del. ● izvoljen: ſzebran Ratnik illiti pristhan Senator
+        (ORM-2)</p>
+      <p><hi rend="bold">secej</hi>
+        <hi rend="underline">vez.</hi> ● sicer: sezej (LJU-2), sezei (LJU-3), sezej (LJU-7), inu
+        sezej (LJU-8 – 2-krat), sezej (LJU-11) – gl. tudi: sicej, secer</p>
+      <p><hi rend="bold">secer</hi>
+        <hi rend="underline">vez.</hi> ● sicer: sezer (LJU-11 – popravljeno iz: sezej) – gl. tudi:
+        secej, sicej</p>
+      <p><hi rend="bold">sedeč</hi>
+        <hi rend="underline">del.</hi> ● naseljen, živeč: na te kmete, kir so bliſu okuli sedezhi
+        (LJU-8) <list>
+          <item><hi rend="bold">sedeč sturiti</hi> = naseliti se: bi /.../ se hotil /.../ pod druga
+            Goſposka podati, alli sedezh sturiti (LJU-1), bi /.../ se hotil pod druga Gosposka
+            podati alli sedezh sturiti (LJU-12)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">semuč</hi>
+        <hi rend="underline">vez.</hi> ● temveč, ampak: semuzh (LJU-5), semuzh (LJU-8) – gl. tudi:
+        samuč, tamuč, temuč</p>
+      <p><hi rend="bold">senator</hi>
+        <hi rend="underline">sam. m</hi> ● mestni svétnik – gl. Besedišče</p>
+      <p><hi rend="bold">sicej</hi>
+        <hi rend="underline">vez.</hi> ● sicer: inu sizej (LJU-8 – popravljeno iz: sezei – 2-krat) –
+        gl. tudi: secej, secer</p>
+      <p><hi rend="bold">skazati 1</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● povedati: drugu Skhaſati (KRA-3), wodete /.../ pouedallj,
+        Jenu ſkhaſalli (KRA-4), per redi skasat (LJU-8)</p>
+      <p><hi rend="bold">skazati 2</hi>
+        <hi rend="underline">glag.</hi> dov. ● izkaz(ov)ati: ta dolschne Respect inu pokorschino
+        skasat (NME-2)</p>
+      <p><hi rend="bold">skrblivno</hi>
+        <hi rend="underline">prisl.</hi> ● skrbno: szkerblivno odbijati (ORM-3)</p>
+      <p><hi rend="bold">skrivši</hi>
+        <hi rend="underline">del.</hi> ● skrivaj: Skhriuſchi olli otſchitu preneſti (KRA-1)</p>
+      <p><hi rend="bold">skrovnost</hi>
+        <hi rend="underline">sam. ž</hi> ● skrivnost, tajnost: Magistratuſsa Nigoue ſzkrounosti, ÿ
+        Talnacnoſti (ORM-2)</p>
+      <p><hi rend="bold">skupe</hi>
+        <hi rend="underline">prisl.</hi> ● skupaj: Skupeie Vek Vekomai Sgublenu (MET-1)</p>
+      <p><hi rend="bold">skupejzberalše</hi>
+        <hi rend="underline">sam. s</hi> ● zbor, zborovanje, sestanek: <hi rend="italic">takšnem
+          Touarštvami ali Skupeizberalšami</hi> (LJU-19)</p>
+      <p><hi rend="bold">slehoterni</hi> zaim. ● vsak, sleheren: na ſslechoterniga (LJU-8)</p>
+      <p><hi rend="bold">slišati 1</hi>
+        <hi rend="underline">glag.</hi> nedov. ● pripadati: katerimu nashlishi (MET-1)</p>
+      <p><hi rend="bold">slišati 2</hi>
+        <hi rend="underline">glag.</hi> nedov. ● spodobiti se: pruti nega goſpodſchini. priſtoy.
+        Jenu Sliſchi (KRA-1)</p>
+      <p><hi rend="bold">slobodnost</hi> sam. ž ● svoboščina, pravica: ſzlobodnosti (ORM-2)</p>
+      <p><hi rend="bold">specifikacijon</hi>
+        <hi rend="underline">sam. m</hi> ● popis, seznam: utem naprei danemu Specificationu imenuane
+        poshte (MET-2)</p>
+      <p><hi rend="bold">spodoben</hi>
+        <hi rend="underline">prid.</hi> ● pravičen: tiga spodobniga zolla (LJU-5), ta ſpodobni Zol
+        (LJU-6), ta Spodobna prauizo (LJU-17)</p>
+      <p><hi rend="bold">spominati se</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● pogovarjati se: ſze met ſzvunskemi ſzpominati (ORM-2)</p>
+      <p><hi rend="bold">spomišlen</hi>
+        <hi rend="underline">del.</hi> ● mišljen: per tem petem perstu Spomishlenu (MET-1)</p>
+      <p><hi rend="bold">sramba</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● shramba: uſse Gmain Meſta srambe (LJU-11)</p>
+      <p><hi rend="bold">sroščina</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● uboštvo: Savol moje Sroschzhine (VGO-1)</p>
+      <p><hi rend="bold">stalno</hi>
+        <hi rend="underline">prisl.</hi> ● vedno: vszakichasz sztalno (ORM-3)</p>
+      <p><hi rend="bold">stan</hi>
+        <hi rend="underline">sam.</hi> m ● sposobnost, zmožnost <list>
+          <item><hi rend="bold">biti v stanu</hi> = biti sposoben, zmožen: dati jeno Sturiti nisſem
+            u Stane (VGO-1)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">striti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● storiti: <hi rend="italic">na nobeno vižo kei striti</hi>
+        (LJU-19)</p>
+      <p><hi rend="bold">sva, sve, svega</hi> – gl. sav, -sva, -sve </p>
+      <p><hi rend="bold">suprat</hi>
+        <hi rend="underline">predl.</hi> ● proti, zoper: ſzuprat tomu (ORM-2) – gl. tudi:
+        suproti</p>
+      <p><hi rend="bold">suprativnost</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nasprotnost: ſzupratiunost ſzvunſzke Tusbe (ORM-2)</p>
+      <p><hi rend="bold">suproti</hi>
+        <hi rend="underline">predl.</hi> ● zoper, proti: szuproti (ORM-1) – gl. tudi: suprat</p>
+      <p><hi rend="bold">suraštvo</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● sovraštvo: Suraſtua (LJU-9 – pripis), Suraſtua (LJU-14)</p>
+      <p><hi rend="bold">suseb</hi>
+        <hi rend="underline">prisl.</hi> ● zlasti, še posebej: suseb na te kmete (LJU-8)</p>
+      <p><hi rend="bold">svaketeri</hi>
+        <hi rend="underline">zaim.</hi> ● vsak, vsakdo: od suaketeriga Wirta (LJU-5) – gl. tudi:
+        vsakateri, vsakiteri</p>
+      <p><hi rend="bold">svega mogočen</hi>
+        <hi rend="underline">prid.</hi> ● vsemogočen: boghu Suega Mogoznimu (LJU-13), boghu Suega
+        Mogoznimu (LJU-16) </p>
+      <p><hi rend="bold">svet 1</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● zbor, posvet: od tazich Skriunich Sberalschou inu Suetou
+        (NME-1)</p>
+      <p><hi rend="bold">svet 2</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● dovoljenje, pristanek*, nasvet: wreſch nich Sweta (KRA-3),
+        breſs sueta (LJU-7), bres niegouiga sueta alli uolle (LJU-11), Breſs Sueta allj Volle
+        (LJU-15)</p>
+      <p><hi rend="bold">svetek</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● svetník: ſzui ſzuetchi (ORM-1), ſzui Bosi ſzuetchi (ORM-2)</p>
+      <p><hi rend="bold">svi</hi> – gl. sav, -sva, -sve </p>
+      <p><hi rend="bold">šenkenga</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● darilo, podkupnina: ne Sauola Daru, Shenkenge (LJU-9 –
+        pripis), skuſs schenkengo (KAM-1) – gl. tudi: šenkinga, šenkunga</p>
+      <p><hi rend="bold">šenkinga</hi> sam. <hi rend="underline">ž</hi> ● darilo, podkupnina: ne
+        Sauole daru, Shenkinge, allj Pijatshe (LJU-16) – gl. tudi: šenkenga, šenkunga</p>
+      <p><hi rend="bold">šenkunga</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● darilo, podkupnina: bres uſega fortelna, mita, ali schenkunge
+        (LJU-4), mite alli shenkunge iemati (LJU-8) – gl. tudi: šenkenga, šenkinga</p>
+      <p><hi rend="bold">šentjernejski</hi>
+        <hi rend="underline">prid.</hi> ● na dan sv. Jerneja: na Sadnimu Schentjerneiskimu Seimu
+        tukai u mesto (NME-5)</p>
+      <p><hi rend="bold">širmati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● ščititi, varovati: stara uero pomagat /.../ shirmati
+        (LJU-1), stara Vera pomagat /.../ shirmati (LJU-12)</p>
+      <p><hi rend="bold">škodo podstopiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● škoditi: Sckhodo podſtopiti (KRA-1)</p>
+      <p><hi rend="bold">šonanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● prizanašanje: breſ obeniga ſhonania (LJU-7) – gl. tudi:
+        zašonenje</p>
+      <p><hi rend="bold">šonati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● prizanašati: nozhem schonnat, oli sadershati (LJU-8)</p>
+      <p><hi rend="bold">špevta</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● špelta, velik kos lesa: kej Speut, ali drusiga zimperschega
+        Lesa (LJU-9), kader kej Speut na prudej pride (LJU-14), zimperschega leſsa inu Speutah
+        (LJU-15), per Apni, per Špevtah, per Rištengi (LJU-18)</p>
+      <p><hi rend="bold">štacjon</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● postaja, klicno mesto: na tech postaulenich Stazionach klizali
+        (NME-2)</p>
+      <p><hi rend="bold">štalt</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● podoba, oblika, način: uobeni ſtalti (LJU-1), obeni uiſhi
+        alli, stalti (LJU-5), v´obeni stalti alli uiſhi (LJU-12)</p>
+      <p><hi rend="bold">štat kamrar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mestni komornik: Stat Camrariu (LJU 11 – pripis) – gl. tudi:
+        kamrar, štatkamrer</p>
+      <p><hi rend="bold">štatkamrer</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m </hi> ● mestni komornik – gl. tudi: kamrar, štat kamrar – gl.
+        Besedišče</p>
+      <p><hi rend="bold">štrafan</hi>
+        <hi rend="underline">del.</hi> ● kaznovan: s pravizo straffan (KAM-1), na letem Sueitu
+        uprizha Straffan (MET-2)</p>
+      <p><hi rend="bold">štrafati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dvovid.</hi> ● kaznovati: Tho chudu Straffatj (KRA-3)</p>
+      <p><hi rend="bold">štuk</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● kos (blaga): taisti Stuki (NME-5)</p>
+      <p><hi rend="bold">taku dobru – koker</hi>
+        <hi rend="underline">vez.</hi> ● tako – kot: taku dobru per Vode, koker drugimu delu
+        (LJU-13)</p>
+      <p><hi rend="bold">talati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● deliti: talati (ORM-2)</p>
+      <p><hi rend="bold">talnačnost</hi><hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nanašajoče se na mestni svet, lahko tudi skupščina,
+          zbor*:<note place="end"> Prim. kajkavski izraz <hi rend="italic">tolnačtvo</hi>
+          (tolnachtvo, lat. consultatio, delibaratio) in madž. <hi rend="italic">tanács</hi> (zbor,
+          skupščina, svet) oz. <hi rend="italic">városi tanács</hi> (mestni svet).</note>
+        poglauitomu Magistratuſu Talnacnosti (ORM-2), Magistratuſsa Nigoue ſzkrounosti ÿ Talnacnoſti
+        (ORM-2)</p>
+      <p><hi rend="bold">tamuč</hi>
+        <hi rend="underline">vez.</hi> ● temveč, ampak: tamuzh (LJU-1) – gl. tudi: temuč, samuč,
+        semuč</p>
+      <p><hi rend="bold">tarditi</hi> – gl. trditi</p>
+      <p><hi rend="bold">teloven</hi> prid. ● telesen: ſzmoium Telounum priſzegum (ORM-2),
+        resznichno telovno Priszego (ORM-3)</p>
+      <p><hi rend="bold">temuč</hi>
+        <hi rend="underline">vez.</hi> ● temveč, ampak: Temuzh (KRM-1), temuzh (LJU-1), Temuzh
+        (LJU-7), temuzh (LJU-12 – 2-krat), temuzh (LJU-14) – gl. tudi: tamuč, samuč, semuč</p>
+      <p><hi rend="bold">teti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● hoteti: Sche pa oni na bojo tellÿ kupit (LJU-9 – pripis),
+        She pa onÿ na bojo tellÿ kupit (LJU-14) – gl. tudi: hoteti, oteti</p>
+      <p><hi rend="bold">tovarš</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● sodelavec v pomenu sogozdar: tudi moÿga Touarsha ali ſraun
+        forſtnaria (LJU-8)</p>
+      <p><hi rend="bold">tovarštvo</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● družba: <hi rend="italic">takšnem Touarštvami ali
+          Skupeizberalšami</hi> (LJU-19 – prim. v nem. različici: Gemeinschaft), od eniga takšniga
+        skrivniga Tovarštua ali Sklepanja (LJU-19) – prim. v nem. različici: heimlichen Verſammlung)
+        – gl. tudi: zastopnast, zberalše</p>
+      <p><hi rend="bold">trditi</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● braniti, krepiti, utrjevati: Sapoudi, prepoudi braniti
+        inu Tarditi (KRM-1), stara uero pomagat terditi (LJU-1), stara Vera pomagat terditi
+        (LJU-12)</p>
+      <p><hi rend="bold">tukaje</hi>
+        <hi rend="underline">prisl.</hi> ● tukaj: tukaie Vlubnani (LJU-4)</p>
+      <p><hi rend="bold">tulikajše</hi>
+        <hi rend="underline">prisl.</hi> ● prav tako, enako: Niſtar manie Tulikaiſze (ORM-2), Tulikaiſze is
+        Rata Naſseg(a) (ORM-2) </p>
+      <p><hi rend="bold">tumult</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● direndaj, izgred: Raufarie, tumulte inu uſse Exceſse
+        (NME-2)</p>
+      <p><hi rend="bold">tužba</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● tožba: ſzvunſzke Tusbe (ORM-2)</p>
+      <p><hi rend="bold">unkaj</hi>
+        <hi rend="underline">prisl.</hi> ● ven: Vnkaj Smeſta pustite (LJU-14) – gl. tudi: vunkaj</p>
+      <p><hi rend="bold">unkoštenga</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● stroški: Sa Unkoshtenga (VGO-1)</p>
+      <p><hi rend="bold">unordnenga</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● nered, nepravilnost: uſse Unordnenge (NME-2)</p>
+      <p><hi rend="bold">upati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● posojati: nekhomro nitz Vpati (LJU-7), nakamer niz vpati
+        (LJU-9), obenimu nezh vpatj (LJU-15) – gl. tudi: upuvati</p>
+      <p><hi rend="bold">upuvati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● posojati: bres niegouiga sueta alli uolle nezh upuuati
+        (LJU-11) – gl. tudi: upati</p>
+      <p><hi rend="bold">uržah</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● razlog, vzrok: is kar koli sa enga urschacha (NME-4)</p>
+      <p><hi rend="bold">usledni</hi> zaim. ● vsak, kdor koli: enimu uſlednimu (LJU-4), enimu
+        uſlednimu (LJU-6), enimu vſlednimo (LJU-6), enimu uſlednimu (LJU-6) </p>
+      <p><hi rend="bold">užitek</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● korist, podkupnina: Sa obeniga daru. olli Vſchitckha vollo
+        (KRA-4 – prim. v nem. različici: Von wegen kheiner gab, noch myet, gar nichts angeſehen)</p>
+      <p><hi rend="bold">vahta</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● straža: Glichi uiſshi, sto Vachto (LJU-2), na to uachto priti
+        (LJU-2), </p>
+      <p><hi rend="bold">vahtaječ</hi>
+        <hi rend="underline">del.</hi> ● čuječ, buden: en sueſt, Vachtaiezh, flyſsig Forstnar
+        (LJU-8) – gl. tudi: vahtejoč</p>
+      <p><hi rend="bold">vahtejoč</hi>
+        <hi rend="underline">del.</hi> ● čuječ, buden: Vahtejozh bitj (LJU-16) – gl. tudi:
+        vahtaječ</p>
+      <p><hi rend="bold">vahtar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● (mestni) stražnik – gl. Besedišče</p>
+      <p><hi rend="bold">vahtarski</hi>
+        <hi rend="underline">prid.</hi> ● stražniški – gl. Besedišče</p>
+      <p><hi rend="bold">vahtmajster</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m </hi> ● (mestni) stražni mojster – gl. Besedišče</p>
+      <p><hi rend="bold">vajvoda</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● vojvoda – gl. Besedišče <list>
+          <item><hi rend="bold">vikši vajvoda</hi> = nadvojvoda – gl. Besedišče</item>
+        </list>
+      </p>
+      <p><hi rend="bold">valput</hi>
+        <hi rend="underline">sam.</hi> m ● valpet (v nem. različici Ambtmann) – gl. tudi: vaupet –
+        gl. Besedišče</p>
+      <p><hi rend="bold">valunjem</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov. 1. os. edn.</hi> ● obljubljam: Sztem valunyem jasz (ORM-3 –
+        prim. v nem. različici: gelobe)</p>
+      <p><hi rend="bold">varaš</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● mesto – gl. Besedišče</p>
+      <p><hi rend="bold">varaški</hi>
+        <hi rend="underline">prid.</hi> ● mestni – gl. Besedišče</p>
+      <p><hi rend="bold">varvati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov. </hi> ● varovati: Suestu Varuatj (LJU-16), uſselei varvat
+        (NME-1), varvat (NME-2), uſso borstno Skodo inu tatvine varvat (NME-4)</p>
+      <p><hi rend="bold">vaupet</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● valpet (v nem. različici Ambtmann) – gl. tudi: valput – gl.
+        Besedišče</p>
+      <p><hi rend="bold">vedeč</hi>
+        <hi rend="underline">povdk.</hi> ● vedoče, znano: khar ye Vom Vedetſch olli Veſtnu (KRA-4) –
+        gl. tudi: vedeče, vedeoče, vestno, videoče</p>
+      <p><hi rend="bold">vedeče</hi>
+        <hi rend="underline">povdk.</hi> ● vedoče, znano: kar ie menj uedetzhe (LJU-10) – gl. tudi:
+        vedeč, vestno, videoče</p>
+      <p><hi rend="bold">vedejoče</hi>
+        <hi rend="underline">del.</hi> ● védnost – breſs uedejozhe tega posteniga magistrata
+        (LJU-16) – gl. tudi: vedeč, vedeče, vestno, videoče</p>
+      <p><hi rend="bold">vekši</hi> posam. ● večji: manſchega olli Veckhſchiga (KRA-2) – gl. tudi:
+        vikši</p>
+      <p><hi rend="bold">ven metajne</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● metanje iz: Sa vol ven metaina moiga Blaga (VGO-1)</p>
+      <p><hi rend="bold">ventati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● odvrniti: ſchkhodo Ventati (KRA-2) </p>
+      <p><hi rend="bold">verno</hi>
+        <hi rend="underline">prisl.</hi> ● zvesto: verno (ORM-3)</p>
+      <p><hi rend="bold">vest</hi>
+        <hi rend="bold">1</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● védenje, ukaz*: breſs uesti eniga poſteniga Ratu (LJU-8)</p>
+      <p><hi rend="bold">vest 2</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● vest <list>
+          <item><hi rend="bold">dobra vest</hi> = čista vest: ſdobro uestio (LJU-1), sdobro uestio
+            (LJU-12)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">vestno</hi> povdk. ● vedoče, znano: vedeče, znano: khar ye Vom Vedetſch
+        olli Veſtnu (KRA-4)</p>
+      <p><hi rend="bold">videoč</hi>
+        <hi rend="underline">del.</hi> ● znan: de /.../ ie temu /.../ videozha bla Leta /.../
+        Raitenga (MET-2) </p>
+      <p><hi rend="bold">videoče</hi> povdk. ● vedoče, znano: deb blu mene Videozhe (MET-2) – gl.
+        tudi: vedeč, vedeče, vedeoče, vestno</p>
+      <p><hi rend="bold">vikši</hi> posam.● višji, nadrejeni: vaschim vickſchim inu zellimu Mesſtu
+        (NME-2), vaschimu pervimu vickſchimu (NME-2), vaschim vickſchim (NME-2), mojim vickſchim
+        (NME-2) – gl. tudi: vekši, vikši firšt, vikši peršona, vikši vajvoda</p>
+      <p><hi rend="bold">virt</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● krčmar: od suaketeriga Wirta (LJU-5)</p>
+      <p><hi rend="bold">viža</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● način: vte vischi (KAM-1), vte vische (KAM-1), Vglihi Vishi
+        (MET-1), na nobeno visho (NME-1), obeni uiſhi alli, stalti (LJU-5), v´obeni stalti alli
+        uiſhi (LJU-12), taki uisi imeti (LJU-9 – pripis), <hi rend="italic">na nobeno vižo</hi>
+        (LJU-19)</p>
+      <p><hi rend="bold">vpriča</hi>
+        <hi rend="underline">prisl.</hi> ● pri priči, takoj: na letem Sueitu uprizha Straffan
+        (MET-2) </p>
+      <p><hi rend="bold">vreme</hi>
+        <hi rend="underline">sam.</hi> s ● čas: uſzako vreme (ORM-2), Vuſzako vreme (ORM-2) – gl.
+        tudi: vureme</p>
+      <p><hi rend="bold">vsakateri</hi>
+        <hi rend="underline">zaim.</hi> ● vsak, vsakdo: uſsakaterimu (LJU-2), uſakaterimu (LJU-3) –
+        gl. tudi: svaketeri, vsakiteri</p>
+      <p><hi rend="bold">vsakiteri</hi>
+        <hi rend="underline">zaim.</hi> ● vsak, vsakdo: Vſakiterimu (LJU-17) – gl. tudi: svaketeri,
+        vsakateri</p>
+      <p><hi rend="bold">vse</hi>
+        <hi rend="underline">zaim.</hi> ● vsi: vse Boſsie Suetniki (LJU-17) – gl. tudi: sav, -sva,
+        -sve</p>
+      <p><hi rend="bold">vselaj</hi>
+        <hi rend="underline">prisl.</hi> ● vselej: uſselai (LJU-8 – pozneje popravljeno v: uſselei),
+        ùſelai (LJU-9), Vselaj (LJU-9 – pripis), Vselaj (LJU-14), uſelaj (LJU-14)</p>
+      <p><hi rend="bold">vsikdar</hi>
+        <hi rend="underline">prisl.</hi> ● vselej, vedno: vszigdar (ORM-3 – 2-krat)</p>
+      <p><hi rend="bold">vu</hi>
+        <hi rend="underline">predl.</hi> ● v: noter uuta pukſcha (LJU-2), uuletim obedniga (LJU-8),
+        vu raſzumnosti (ORM-2), vu paiduche (ORM-2), vu Naimenſsem (ORM-2), uu ſzem (ORM-2), Vuſzako
+        vreme (ORM-2), vu obchinszkum (ORM-3)</p>
+      <p><hi rend="bold">vuola</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● volja: bresniech uuole (LJU-4)</p>
+      <p><hi rend="bold">vunkaj</hi>
+        <hi rend="underline">prisl.</hi> ● ven: uunkai pellati (LJU-8), uunkai Smeſta (LJU-9),
+        Vunkaj pelatj (LJU-16) – gl. tudi: unkaj</p>
+      <p><hi rend="bold">vunkaj klicanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● klicanje, oznanjanje: uunkai klizaniem tiga ognia (LJU-2)</p>
+      <p><hi rend="bold">vun povedati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● razkriti, povedati naprej: vun pouedati (ORM-2)</p>
+      <p><hi rend="bold">vureme</hi>
+        <hi rend="underline">sam.</hi> s ● čas: Vſzako Vureme (ORM-2) – gl. tudi: vreme</p>
+      <p><hi rend="bold">vusak</hi>
+        <hi rend="underline">zaim.</hi> ● vsak: uuſaki (LJU-6) </p>
+      <p><hi rend="bold">vus</hi>
+        <hi rend="underline">zaim.</hi> ● vse: preſs Vuſsega madescha (LJU-8 – pripis)</p>
+      <p><hi rend="bold">vusue</hi>
+        <hi rend="underline">zaim. (im. mn.)</hi> ● vsi: Vuſue lubie Suetnike (LJU-8 – pripis)</p>
+      <p><hi rend="bold">vužite</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● užiti: morem Vushite (LJU-6)</p>
+      <p><hi rend="bold">zadržati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zamolčati, zadržati zase: nozhem schonnat, oli sadershati
+        (LJU-8) </p>
+      <p><hi rend="bold">zadržati se</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● vesti se, obnašati se: V Moÿe Slusbi toku se Sadersati
+        (KRM-1), poniegovi sapoudi inu Prepoudi Se uſselei Suestu inu pokornu Saderschati (NME-1),
+        oblubim inu ozhem Se toku Suestu inu pokonu (sic!) Saderschat (NME-1), se toku suestu inu
+        pokorno Saderschat (NME-2), se ozhete u vaſchi sluschbi toku saderschati (NME-3), oblubim
+        inu perseschem bred bogam se toku suesto saderschat (NME-3), u uſsech vaschich douſchnostich
+        se toku saderschati (NME-4), se toku suestu inu pokornu saderschati (NME-4), <hi
+          rend="italic">po letemu sse zaderžati ssem zauižan bil</hi> (LJU-19)</p>
+      <p><hi rend="bold">zadržek</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● vedénje, obnašanje, ravnanje: k moimu Saderscku na prei
+        piſsanu blu (NME-1), koker je meni tukaj k mojmu sadersku naprei neſsenu blu (NME-2), k
+        moimu Sadersku resodetu blo (NME-3), k moimu sadersku na prei piſsanu blu (NME-4) </p>
+      <p><hi rend="bold">zadrženje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● oklevanje, zadržek: bres sadershenia (LJU-8)</p>
+      <p><hi rend="bold">zahvalenje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● zahvala: ſdobro uestio, inu sahualeniem (LJU-1 – prim. v nem.
+        različici: mit Dankhsagung), sdobro uestio inu shualeniem (LJU-12 – prim. v nem. različici:
+        mit dankhsagung)</p>
+      <p><hi rend="bold">zakriti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● prikriti, skriti: bi skriuaie eniga otil sakriti
+        (LJU-8)</p>
+      <p><hi rend="bold">zamerkati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zalotiti: be /.../ per Sekainu Samerkou (LJU-16)</p>
+      <p><hi rend="bold">zamerkovan</hi>
+        <hi rend="underline">del.</hi> ● zapisan, vpisan: noter te bucque samerkouanu biti
+        (LJU-5)</p>
+      <p><hi rend="bold">zamučeč</hi>
+        <hi rend="underline">del.</hi> ● zamolčaje: zamuchech (ORM-3 – prim. v nem. različici:
+        verschwiegen) </p>
+      <p><hi rend="bold">zapopasti</hi> glag. <hi rend="underline">dov.</hi> ● vsebovati: kai kriuo
+        persega Vſsebe ima alle Sapopade (MET-1)</p>
+      <p><hi rend="bold">zapopaden</hi>
+        <hi rend="underline">del.</hi> ● prijet, zasačen: nobeniga u eni taki Skodi sapopadenga
+        (NME-4)</p>
+      <p><hi rend="bold">zapovedati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● ukazati: zapovedu bude (ORM-3)</p>
+      <p><hi rend="bold">zapernašati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● prizanašati: nobeniga ne is perjasnasti, ne is milosti
+        sapernaschat al samouzhat (NME-3)</p>
+      <p><hi rend="bold">zapernesti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● prizanesti: sa mouzhati al sapernesti (NME-4)</p>
+      <p><hi rend="bold">zaslišati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov. </hi> ● slišati, izvedeti, zaznati: boſte od tazich Skriunich
+        Sberalschou inu Suetou kei Saſchliſchali ali zhutili (NME-1)</p>
+      <p><hi rend="bold">zastoplen</hi>
+        <hi rend="underline">del.</hi> ● razumljen, mišljen: per Tem zhetertem perstu Sastoplena
+        (MET-1)</p>
+      <p><hi rend="bold">zastopnast</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● zbor, sestanek: h tackim Skriunim Saſtopnaſtim inu Sberalscham
+        (NME-1 – prim. v nem. različici: Gemeinschaft) – gl. tudi: tovarštvo</p>
+      <p><hi rend="bold">zašonenje</hi>
+        <hi rend="underline">sam.</hi> s ● prizanašanje: breſs obeniga sashonenia (LJU-5) – gl.
+        tudi: šonanje</p>
+      <p><hi rend="bold">zatajiti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zatajiti, zamolčati: richtig oprauite inu nezh Sataiti
+        (LJU-17)</p>
+      <p><hi rend="bold">zaveza</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● zaveza, obljuba: use moie sauese (LJU-12) – gl. tudi:
+        zeveza</p>
+      <p><hi rend="bold">zavezuvanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● zaveza, prisega: Priſzegu ſzaveſzuvanie (ORM-2)</p>
+      <p><hi rend="bold">zavižan</hi>
+        <hi rend="underline">del.</hi> ● opozorjen: <hi rend="italic">po letemu sse zaderžati ssem
+          zauižan</hi>
+        <hi rend="italic">bil</hi> (LJU-19)</p>
+      <p><hi rend="bold">zavol</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: Savol moje Sroschzhine (VGO-1) – gl. tudi: za
+        vol, zavola, za (tega) vola, zavole, zavole, za volo</p>
+      <p><hi rend="bold">za vol</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: Sa vol ven metaina (VGO-1) – gl. tudi: zavol,
+        zavola, za (tega) vola, zavole, za vole, za volo</p>
+      <p><hi rend="bold">zavola</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: ne Sauola Daru (LJU-9 – pripis) – gl. tudi:
+        zavol, za vol, za (tega) vola, zavole, za vole, za volo</p>
+      <p><hi rend="bold">za (tega) vola</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: sa same pravize volla (KAM-1), she minie sa tega
+        uola (LJU-8), sa gmain meſta uola (LJU-8), Satega Volla (MET-1) – gl. tudi: zavol, za vol,
+        zavola, zavole, za vole, za volo</p>
+      <p><hi rend="bold">zavole</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: Sauole Shenkenge, Perjasnaſtj (LJU-14), ne
+        Sauole daru, Shenkinge, allj Pijatshe (LJU-16) – gl. tudi: zavol, za vol, zavola, za (tega)
+        vola, za vole, za volo</p>
+      <p><hi rend="bold">za vole</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: Sa Vole Schlachte (KRM-1) – gl. tudi: zavol, za
+        vol, zavola, za (tega) vola, za vole, za volo</p>
+      <p><hi rend="bold">za volo</hi>
+        <hi rend="underline">predl.</hi> ● zavoljo: Sa obeniga daru. olli Vſchitckha vollo (KRA-4),
+        Sa obene Rezhi volo (KRA-4), sa obeniga darù, oli druge retzhi uollo (LJU-10) – gl. tudi:
+        zavol, za vol, zavola, za (tega) vola, zavole, za vole</p>
+      <p><hi rend="bold">zavrniti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zalotiti: per ſsekanim sauernem (LJU-8)</p>
+      <p><hi rend="bold">zažihernost</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● jamstvo: obene Saschihernost Sa Unkoshtenga (VGO-1)</p>
+      <p><hi rend="bold">zberalše</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● zbor, zborovanje, sestanek: h: tackim Skriunim Saſtopnaſtim
+        inu Sberalscham (NME-1 – prim. v nem. različici: Verſammlungen), od tazich Skriunich
+        Sberalschou inu Suetou (NME-1 – prim. v nem. različici: heimlichen Verſammlung) – gl. tudi:
+        skupejzberalše </p>
+      <p><hi rend="bold">zbrati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● izbrati*, skleniti*: mey, ſebo ſwero (KRA-3)</p>
+      <p><hi rend="bold">zeveza</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● zaveza, obljuba: moie Purgarſke perſege, ſevese (LJU-1) – gl.
+        tudi: zaveza</p>
+      <p><hi rend="bold">zmisleti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● pomisliti, predstavljati si: Smisle, ô kershanski zlouek
+        (MET-1), more enu prau kershansku Serze smislet (MET-1), dobru Smislet (MET-1)</p>
+      <p><hi rend="bold">znajden</hi>
+        <hi rend="underline">del.</hi> ● zasačen: Katir bo u eni al drugi Sckodi snaiden (NME-3)</p>
+      <p><hi rend="bold">znajti</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">dov.</hi> ● zasačiti: katire boste u eni borstni Skodi ali tatvini
+        Snaidli (NME-4)</p>
+      <p><hi rend="bold">znajti se</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● nahajati se: katir se tukai per Richte Snaidejo
+        (NME-5)</p>
+      <p><hi rend="bold">znanje</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● vednost, védenje: Moÿega ſznania (ORM-2) <list>
+          <item><hi rend="bold">na znanje dati</hi> = naznaniti: na Snanie datj (LJU-9 – pripis),
+            Suestu na Snaine dat (LJU-13), na Snanie datj (LJU-14)</item>
+        </list>
+      </p>
+      <p><hi rend="bold">znotrašnji</hi> prid. ● notranji: sznotraſsnyoga dvoinoga Miſslenya
+        (ORM-3)</p>
+      <p><hi rend="bold">zosebni</hi> posam. ● posebno: zoszebnum (ORM-3 – prim. v nem. različici:
+        im besondern)</p>
+      <p><hi rend="bold">zraven</hi>
+        <hi rend="underline">predl.</hi> ● poleg, ob: srauen moie Merzhunske slushbe (LJU-5)</p>
+      <p><hi rend="bold">zraven forstnar</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">s</hi> ● sogozdar: moÿga Touarsha, ali ſraun forſtnaria (LJU-8)</p>
+      <p><hi rend="bold">zuper</hi>
+        <hi rend="underline">predl.</hi> ● zoper, proti: super teiſto (LJU-1), super teiſte
+        (LJU-12)</p>
+      <p><hi rend="bold">zvest (?)*</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž </hi> ● prisega* – gl. Besedišče</p>
+      <p><hi rend="bold">zvršavati</hi>
+        <hi rend="underline">glag.</hi>
+        <hi rend="underline">nedov.</hi> ● izvajati, izvrševati: ſzuerſzauati (ORM-2) </p>
+      <p><hi rend="bold">zvunski 1</hi>
+        <hi rend="underline">posam.</hi> ● zunanji, tuj: sz niednem szuunszkem (ORM-1), met
+        ſzvunskemi (ORM-2)</p>
+      <p><hi rend="bold">zvunski 2</hi>
+        <hi rend="underline">prid.</hi> ● zunanji, tuj: ſzvunſzke Tusbe (ORM-2)</p>
+      <p><hi rend="bold">život</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">m</hi> ● (posvetno) življenje: Sasuoiga shiuota na letem Suetu tega
+        Shiuleine nabode imu (MET-1)</p>
+      <p><hi rend="bold">žlahta</hi>
+        <hi rend="underline">sam.</hi>
+        <hi rend="underline">ž</hi> ● sorodstvo: Sa Vole Schlachte (KRM-1)</p>
+    </div>
+  </div>
