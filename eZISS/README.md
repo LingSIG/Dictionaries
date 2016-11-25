@@ -16,7 +16,3 @@ together according to their domain and encoded as tables:
 
 - eziss-prisege1-dict.xml: taken from http://nl.ijs.si/e-zrc/prisege/index-en.html, in particular http://nl.ijs.si/e-zrc/prisege/html/Slovar.html
 - eziss-prisege2-dict.xml: taken from http://nl.ijs.si/e-zrc/prisege2/index-en.html, in particular http://nl.ijs.si/e-zrc/prisege2/html/prisege2-back.1_div.3.html
-
-2. Examples from Freising Monuments
-
-- bsLX.xml: taken from http://nl.ijs.si/e-zrc/bs/index-en.html in particular from http://nl.ijs.si/e-zrc/bs/html/bsLX.html This is the complete glossary, encoded in P3.
