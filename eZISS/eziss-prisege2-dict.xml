@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="section">
+    <head>Besedišče in slovarček</head>
+    <p>Ker so oblastni, upravni, poklicni in sodni pojmi razmeroma slabo raziskano
+        področje slovenskega zgodovinskega besedišča, vključuje pričujoča objava nabor
+            (<hi rend="italic">Besedišče</hi>) vseh tovrstnih izrazov in njihovih
+        pojavitev v obravnavanih prisežnih besedilih, ki mu sledi <hi rend="italic"
+            >Slovarček manj znanih izrazov.</hi> V obeh – Besedišču in Slovarčku – so
+        navedki pojavitev v diplomatičnem prepisu oziroma objavljeni transkripciji, če
+        ni ohranjen izvirnik.</p>
+    <div type="subsection">
+        <head>Besedišče – oblastni, upravni, poklicni in sodni pojmi</head>
+        <div type="subsubsection">
+            <head>1. Vladarski naslovi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">cesar</cell>
+                </row>
+                <row>
+                    <cell>– svetli</cell>
+                    <cell>IDR-RUD-1: pruti suetlimu Caeſsarju<lb/>IDR-RUD-1: naſhimu
+                        svetlimo Caeſsarju Franciscu temu pervimu tega
+                        jemena<lb/>IDR-RUD-1: pruti niegovimu Svetlimu Caeſsarju</cell>
+                </row>
+                <row>
+                    <cell>– avstrijanski</cell>
+                    <cell>IDR-RUD-2: po boshji miloſti zeſar auſtrianſki</cell>
+                </row>
+                <row>
+                    <cell role="label">cesarski</cell>
+                </row>
+                <row>
+                    <cell>– cesarski</cell>
+                    <cell>IDR-RUD-1: tega Caeſsarskiga Blaga<lb/>IDR-RUD-2: vikſhim
+                        zeſarskim ſhluſhabnikam<lb/>IDR-RUD-1: Caeſsarſkimu Oberamtu
+                    </cell>
+                </row>
+                <row>
+                    <cell role="label">cesarsko-kraljevi</cell>
+                </row>
+                <row>
+                    <cell>– cesarski kraljevi</cell>
+                    <cell>IDR-RUD-2: zeſarskiga kraljeviga Bergamta v’
+                        Idrii<lb/>IDR-RUD-2: zeſ. kralj. Bergamta v Idrii<lb/>IDR-RUD-2:
+                        zeſ. kralj. Bergamtu v’ Idrii’<lb/>IDR-RUD-2: zeſ. kralj.
+                        Oberbergamta in Berggerihta</cell>
+                </row>
+                <row>
+                    <cell role="label">kralj</cell>
+                </row>
+                <row>
+                    <cell>– ogrski in češki itd.</cell>
+                    <cell>IDR-RUD-2: kralj ogerſki in zheſhki Peti tega imena, kralj
+                        lombardiſki in beneſhki, dalmatinski, hrovaſhki, ſlavonſki,
+                        galiſhki, lodomerſki in ilirſki, kralj Jerusalema</cell>
+                </row>
+                <row>
+                    <cell role="label">kraljevi/kraljevski </cell>
+                </row>
+                <row>
+                    <cell>– kraljevi/kraljevski</cell>
+                    <cell>REČ-1: od te desheuske kral: svetle Hoffkammre</cell>
+                </row>
+                <row>
+                    <cell role="label">kraljevi</cell>
+                </row>
+                <row>
+                    <cell>– kraleski</cell>
+                    <cell>ČRE-ČEV-1: vetoj Králeszkoj nam vszeim vö danoj
+                        praviczi<lb/>ČRE-ČEV-2: stere sze vetoj králeszkoj
+                        praviczi</cell>
+                </row>
+                <row>
+                    <cell role="label">knez</cell>
+                </row>
+                <row>
+                    <cell>– knez</cell>
+                    <cell>IDR-RUD-2: Knesu in Gospodu</cell>
+                </row>
+                <row>
+                    <cell role="label">nadvojvoda</cell>
+                </row>
+                <row>
+                    <cell>– nadvojvoda avstrijanski</cell>
+                    <cell>IDR-RUD-2: Nadvojvoda auſtrianſki</cell>
+                </row>
+                <row>
+                    <cell role="label">vojvoda</cell>
+                </row>
+                <row>
+                    <cell>– vojvoda Lotringije itd.</cell>
+                    <cell>IDR-RUD-2: vojvoda Lotringije, Salzburga, Shtajarſkiga,
+                        koroſhkiga, krajnskiga, sgorne in dolne Shleſie</cell>
+                </row>
+                <row>
+                    <cell role="label">veliki knez</cell>
+                </row>
+                <row>
+                    <cell>– velki knez sedmograški</cell>
+                    <cell>IDR-RUD-2: Velki knes Sedmograſhki<lb/></cell>
+                </row>
+                <row>
+                    <cell role="label">grof</cell>
+                </row>
+                <row>
+                    <cell>– grof Morovije</cell>
+                    <cell>IDR-RUD-2: grof morovije</cell>
+                </row>
+                <row>
+                    <cell role="label">pokneženi grof</cell>
+                </row>
+                <row>
+                    <cell>– knezogrof Habsburgije in Tirolskiga</cell>
+                    <cell>IDR-RUD-2: kneso grof Habsburgije in Tirolſkiga</cell>
+                </row>
+                <row>
+                    <cell role="label">deželni knez</cell>
+                </row>
+                <row>
+                    <cell>– deželski poglovar</cell>
+                    <cell>IDR-RUD-2: deſhelſkimu poglovarju</cell>
+                </row>
+                <row>
+                    <cell role="label">dedič/naslednik (vladarski)</cell>
+                </row>
+                <row>
+                    <cell>– nastopnik</cell>
+                    <cell>IDR-RUD-2: naſtopnikam njega kervi in rodu</cell>
+                </row>
+                <row>
+                    <cell role="label">knezoškof</cell>
+                </row>
+                <row>
+                    <cell>– firšt</cell>
+                    <cell>REČ-1: Gnadlivich Firsthou</cell>
+                </row>
+                <row>
+                    <cell role="label">škof</cell>
+                </row>
+                <row>
+                    <cell>– škof</cell>
+                    <cell>REČ-1: Lublanskich Scoffou</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>2. Obči oblastni pojmi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">nadrejena gosposka</cell>
+                </row>
+                <row>
+                    <cell>– viši gosposka</cell>
+                    <cell>PTG-1: od te Vischi Gosposke</cell>
+                </row>
+                <row>
+                    <cell>– naprepostavlena gospodska</cell>
+                    <cell>SRE-3: naprepostavlena gospodska /: poglavarstvo :/<lb/>SRE-4:
+                        naprepostavleni gospodski</cell>
+                </row>
+                <row>
+                    <cell>– poglavarstvo</cell>
+                    <cell>SRE-3: naprepostavlena gospodska /: poglavarstvo :/</cell>
+                </row>
+                <row>
+                    <cell role="label">zapovednik</cell>
+                </row>
+                <row>
+                    <cell>– oblastnik</cell>
+                    <cell>IDR-RUD-1: tem drugim Gospudam Officirjam inu Oblaſtnikam
+                        (nem. <hi rend="italic">Befehlshaber</hi>)</cell>
+                </row>
+                <row>
+                    <cell role="label">uradnik</cell>
+                </row>
+                <row>
+                    <cell>– oficir</cell>
+                    <cell>IDR-RUD-1: tem drugim Gospudam Officirjam inu
+                        Oblaſtnikam</cell>
+                </row>
+                <row>
+                    <cell role="label">trg</cell>
+                </row>
+                <row>
+                    <cell>– trg</cell>
+                    <cell>MOZ-1: temo Tergo <lb/>STA-1: v' Polansko Tergo</cell>
+                </row>
+                <row>
+                    <cell>– gmajn trg</cell>
+                    <cell>LEN-1: tega gmein Terga S: Leonarda<lb/>REČ-1: gmain tergo u
+                        Rezize</cell>
+                </row>
+                <row>
+                    <cell>– pošten trg</cell>
+                    <cell>REČ-1: temo posthenimo Tergo</cell>
+                </row>
+                <row>
+                    <cell>– varaš</cell>
+                    <cell>LJT-1: vu o[vem Lotm]erkom varaſso<lb/>LJT-1: postenomo
+                        varaſho<lb/>SRE-1/A: k tomo Varaſsu Serdiskhomo<lb/>SRE-1/A:
+                        Celomo Varaschu<lb/>SRE-1/B: k tomo Varaſsu
+                        Serdiskomo<lb/>SRE-1/B: Celomo Varaschu <lb/>SRE-3: celemu
+                        purgarstvu ali varašu <lb/>SRE-4: enemu purgaru serdiškoga
+                        varaša<lb/>SRE-4: varaša</cell>
+                </row>
+                <row>
+                    <cell>– varoš</cell>
+                    <cell>LJT-1: kres varoſh</cell>
+                </row>
+                <row>
+                    <cell role="label">zemljiško gospostvo</cell>
+                </row>
+                <row>
+                    <cell>– gospostvo</cell>
+                    <cell>VGO-ČEV-1: Visenskega Gospostua Richte </cell>
+                </row>
+                <row>
+                    <cell>– grešina</cell>
+                    <cell>VGO-ČEV-1: te Greschine Vischne Gore</cell>
+                </row>
+                <row>
+                    <cell role="label">oskrbnik zemljiškega gospostva</cell>
+                </row>
+                <row>
+                    <cell>– flegar</cell>
+                    <cell>VGO-ČEV-1: Flegaria jenu Richtniga Namestnika te Greschine
+                        Vischne Gore</cell>
+                </row>
+                <row>
+                    <cell role="label">gospoščinski</cell>
+                </row>
+                <row>
+                    <cell>– gesposkin</cell>
+                    <cell>STA-1: ke gesposkene kaste</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>3. Državni organi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">najvišji dvorni urad (nem. <hi rend="italic"
+                            >Hofstelle</hi>)</cell>
+                </row>
+                <row>
+                    <cell>– narvikša dvorna gosposka</cell>
+                    <cell>IDR-RUD-2: po nar vikſhi dvorni goſpoſki</cell>
+                </row>
+                <row>
+                    <cell role="label">erar</cell>
+                </row>
+                <row>
+                    <cell>– narvikši erar</cell>
+                    <cell>IDR-RUD-2: narvikſhimu Erarju</cell>
+                </row>
+                <row>
+                    <cell role="label">dvorna komora</cell>
+                </row>
+                <row>
+                    <cell>– »deželska« kral(jevska) svetla hofkamra</cell>
+                    <cell>REČ-1: od te desheuske kral: svetle Hoffkammre</cell>
+                </row>
+                <row>
+                    <cell>– svetla kamra</cell>
+                    <cell>IDR-RUD-1: pruti naſhi suetli kamri (nem. <hi rend="italic"
+                            >gegen unsere hohe Hofkammer</hi>)</cell>
+                </row>
+                <row>
+                    <cell role="label">deželni vicedom</cell>
+                </row>
+                <row>
+                    <cell>– landsvicedom</cell>
+                    <cell>KRN-ZID-1: od gnadlouga gospod groffa landsvicedoma </cell>
+                </row>
+                <row>
+                    <cell role="label">vicedomski urad</cell>
+                </row>
+                <row>
+                    <cell>– vicdamíja</cell>
+                    <cell>VGO-ČEV-1:per Vizdamÿe</cell>
+                </row>
+                <row>
+                    <cell role="label">višji rudarski urad (in rudarsko sodišče)</cell>
+                </row>
+                <row>
+                    <cell>– cesarski oberamt</cell>
+                    <cell>IDR-RUD-1: Caeſsarſkimu Oberamtu (nem. <hi rend="italic">k. k.
+                            Oberbergamte</hi>)</cell>
+                </row>
+                <row>
+                    <cell>– cesarski kraljevi oberbergamt in berggeriht</cell>
+                    <cell>IDR-RUD-2: zeſ. kralj. Oberbergamta in Berggerihta</cell>
+                </row>
+                <row>
+                    <cell role="label">cesarsko-kraljevi rudarski urad</cell>
+                </row>
+                <row>
+                    <cell>– cesarski kraljevi bergamt</cell>
+                    <cell>IDR-RUD-2: zeſarskiga kraljeviga Bergamta v’
+                        Idrii<lb/>IDR-RUD-2: zeſ. kralj. Bergamta v Idrii<lb/>IDR-RUD-2:
+                        zeſ. kralj. Bergamtu v’ Idrii’</cell>
+                </row>
+                <row>
+                    <cell role="label">rudarski svétnik</cell>
+                </row>
+                <row>
+                    <cell>– bergrat</cell>
+                    <cell>IDR-RUD-1: viſsoku zhasti vrednimu gnadlivimo Bergrathu (nem.
+                            <hi rend="italic">hochverehrungs würdigen gnädigen Herrn
+                            Bergrathe</hi>)<lb/>IDR-RUD-2: pred uſim drugim
+                        predpoſtaulenimu Goſpodu Bergratu</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>4. Trški organi, službe in nazivi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">trški sodnik</cell>
+                </row>
+                <row>
+                    <cell>– rihtar</cell>
+                    <cell>LEN-1: naprö postablenemo Richtarü</cell>
+                </row>
+                <row>
+                    <cell>– rihter</cell>
+                    <cell>LJT-1: posten Richter<lb/>MOZ: 1 Goſpodu
+                        Richterjo<lb/>SRE-1/A: goſsponna Richtera<lb/>SRE-1/B: goſsponna
+                        Richtera</cell>
+                </row>
+                <row>
+                    <cell role="label">namestnik trškega sodnika</cell>
+                </row>
+                <row>
+                    <cell>– namestnik</cell>
+                    <cell>MOZ-1: Naméſtniko</cell>
+                </row>
+                <row>
+                    <cell role="label">trški magistrat</cell>
+                </row>
+                <row>
+                    <cell>– magistrat</cell>
+                    <cell>MOZ-1: temo Magiſtrato<lb/>SRE-4: slavnemu magistratu </cell>
+                </row>
+                <row>
+                    <cell>– magištratuš/magistratuš</cell>
+                    <cell>SRE-1/A: plemenitoga Magistratuscha<lb/>SRE-1/B: plemenitoga
+                        Magiſtratuscha <lb/>SRE-2: Plemenitomu y Veliko poſstovanomu
+                        Magiſstratuſsu<lb/>SRE-3: magistratuš serdiški</cell>
+                </row>
+                <row>
+                    <cell role="label">trški svet</cell>
+                </row>
+                <row>
+                    <cell>– rat</cell>
+                    <cell>LJT-1: Rath</cell>
+                </row>
+                <row>
+                    <cell>– cöllen rat</cell>
+                    <cell>LEN-1: enemo zöllenemo Rathü</cell>
+                </row>
+                <row>
+                    <cell role="label">tržanska občina</cell>
+                </row>
+                <row>
+                    <cell>– gmajna</cell>
+                    <cell>LJT-1: Posten gmeina</cell>
+                </row>
+                <row>
+                    <cell>– gmajn purgaršoft</cell>
+                    <cell>LEN-1: zölli gmein Purgarschofti</cell>
+                </row>
+                <row>
+                    <cell>– purgarstvo</cell>
+                    <cell>SRE-3: celemu purgarstvu</cell>
+                </row>
+                <row>
+                    <cell role="label">trška občina</cell>
+                </row>
+                <row>
+                    <cell>– varaška občina</cell>
+                    <cell>SRE-4: na varasko občino (nem. <hi rend="italic">die
+                            Marktgemeinde</hi>) </cell>
+                </row>
+                <row>
+                    <cell role="label">tržan</cell>
+                </row>
+                <row>
+                    <cell>– burgar</cell>
+                    <cell>LJT-1: Sa iednoga burgara<lb/>REČ-1: enimo poſtenimo
+                        Burgario<lb/>STA-1: v Se burgarie ad Stariga terga
+                        Polanach</cell>
+                </row>
+                <row>
+                    <cell>– burger</cell>
+                    <cell>REČ-1: Burger<lb/>STA-1: v' Polansko Tergo Staneozech
+                        Burgeriou</cell>
+                </row>
+                <row>
+                    <cell>– purgar</cell>
+                    <cell>LEN-1: Svöstemo Purgarü<lb/>SRE-3: na purgare<lb/>SRE-3:
+                        pravostvoren purgar<lb/>SRE-4: enemu purgaru serdiškoga
+                        varaša<lb/>SRE-4: z-drugemi purgarmi</cell>
+                </row>
+                <row>
+                    <cell>– purger</cell>
+                    <cell>MOZ-1: perſéshemo Purgerjo<lb/>LJT-1: trugi purgeri</cell>
+                </row>
+                <row>
+                    <cell>– trški purgar</cell>
+                    <cell>LEN-1: sa eniga Terschkiga Purgara</cell>
+                </row>
+                <row>
+                    <cell role="label">sosed/sotržan</cell>
+                </row>
+                <row>
+                    <cell>– sused</cell>
+                    <cell>LJT-1: Suſedom<lb/></cell>
+                </row>
+                <row>
+                    <cell>– susid</cell>
+                    <cell>LJT-1: Suſida moiega</cell>
+                </row>
+                <row>
+                    <cell role="label">trške pravice </cell>
+                </row>
+                <row>
+                    <cell>– trške pravice</cell>
+                    <cell>MOZ-1: tershkih Praviz ino Frejeſti</cell>
+                </row>
+                <row>
+                    <cell>– varaša pravice</cell>
+                    <cell>SRE-1/A: toga Varascha Serdiskhoga prauitche<lb/>SRE-1/B: toga
+                        Varascha Serdiskhoga prauitche</cell>
+                </row>
+                <row>
+                    <cell>trške svoboščine</cell>
+                </row>
+                <row>
+                    <cell>– frejesti</cell>
+                    <cell>MOZ-1: tershkih Praviz ino Frejeſti</cell>
+                </row>
+                <row>
+                    <cell>– frajesti</cell>
+                    <cell>REČ-1: poteriene Frajjeste</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>5. Poklicni in cehovski nazivi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">rudar</cell>
+                </row>
+                <row>
+                    <cell>– rudokop</cell>
+                    <cell>IDR-RUD-2: Sa sleherne rudokope ali knape<lb/>IDR-RUD-2:
+                        rudokopi zeſ. kralj. Bergamta v Idrii</cell>
+                </row>
+                <row>
+                    <cell>– knap</cell>
+                    <cell>IDR-RUD-2: Sa sleherne rudokope ali knape</cell>
+                </row>
+                <row>
+                    <cell role="label">rudarski</cell>
+                </row>
+                <row>
+                    <cell>– knapovski</cell>
+                    <cell>IDR-RUD-1: Knapouſka Perſega</cell>
+                </row>
+                <row>
+                    <cell role="label">redna plača</cell>
+                </row>
+                <row>
+                    <cell>– normalski šihtenlon</cell>
+                    <cell>IDR-RUD-2: v’normalskim Schihtenlonu ſtojezhi rudokopi</cell>
+                </row>
+                <row>
+                    <cell role="label">(rudarska) izmena</cell>
+                </row>
+                <row>
+                    <cell>– šiht</cell>
+                    <cell>IDR-RUD-2: na vaſhe Schihte /.../ perſhli<lb/>IDR-RUD-2: med
+                        ſhihtam /.../ delali</cell>
+                </row>
+                <row>
+                    <cell role="label">rudarski paznik</cell>
+                </row>
+                <row>
+                    <cell>– hutman</cell>
+                    <cell>IDR-RUD-2: naprejpostauljene Hutmane in Aufsihte</cell>
+                </row>
+                <row>
+                    <cell role="label">rudarski nadzornik</cell>
+                </row>
+                <row>
+                    <cell>– aufziht</cell>
+                    <cell>IDR-RUD-2: naprejpostauljene Hutmane in Aufsihte</cell>
+                </row>
+                <row>
+                    <cell role="label">zidarski polir </cell>
+                </row>
+                <row>
+                    <cell>– Maurer Pollier</cell>
+                    <cell>KRN-ZID-1: <hi rend="italic">Maurer Pollier in Crain</hi>
+                        (izraz je zapisan v nemščini)</cell>
+                </row>
+                <row>
+                    <cell role="label">ceh</cell>
+                </row>
+                <row>
+                    <cell>– cej</cell>
+                    <cell>ČRE-ČEV-1: Czej (2-krat)</cell>
+                </row>
+                <row>
+                    <cell>– cejh</cell>
+                    <cell>ČRE-ČEV-2: plemenitoga Czejha<lb/>ČRE-ČEV-2: Czeih</cell>
+                </row>
+                <row>
+                    <cell role="label">cehovski</cell>
+                </row>
+                <row>
+                    <cell>– cejški</cell>
+                    <cell>ČRE-ČEV-1: Szkrivnoga Czejskoga zprávischa <lb/>ČRE-ČEV-1:
+                        poglavárom nassim Czejskim<lb/>ČRE-ČEV-2: vsze Czejske
+                        zkrovnoszti<lb/>ČRE-ČEV-2: Articulusih Czejskih<lb/>ČRE-ČEV-2:
+                        ka etoj Czejskoi Brátji</cell>
+                </row>
+                <row>
+                    <cell role="label">cehovski bratje </cell>
+                </row>
+                <row>
+                    <cell>– cejška bratja</cell>
+                    <cell>ČRE-ČEV-2: ka etoj Czejskoi Brátji</cell>
+                </row>
+                <row>
+                    <cell role="label">cehovski mojster</cell>
+                </row>
+                <row>
+                    <cell>– cemešter</cell>
+                    <cell>ČRE-ČEV-2: Czemester<lb/>ČRE-ČEV-2: za Czemestra iliti
+                        poglavára</cell>
+                </row>
+                <row>
+                    <cell>– poglavar (cejški)</cell>
+                    <cell>ČRE-ČEV-1: poglavárom nassim Czejskim<lb/>ČRE-ČEV-2: za
+                        Czemestra iliti poglavára</cell>
+                </row>
+                <row>
+                    <cell role="label">cehovsko zborovanje</cell>
+                </row>
+                <row>
+                    <cell>– cejško spravišče</cell>
+                    <cell>ČRE-ČEV-1: Czejskoga zprávischa </cell>
+                </row>
+                <row>
+                    <cell role="label">cehovski privilegij</cell>
+                </row>
+                <row>
+                    <cell>– kraleska pravica, (kniga) ali artikuluši (cejški)</cell>
+                    <cell>ČRE-ČEV-1: vetoj Králeszkoj nam vszeim vö danoj praviczi ali
+                        v-Articulusi<lb/>ČRE-ČEV-2: vetoj králeszkoj praviczi, knigi ali
+                        Articulusih Czejskih</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>6. Sodni pojmi</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">Božje sodišče</cell>
+                </row>
+                <row>
+                    <cell>– Božni sod (relig.)</cell>
+                    <cell>SRE-3 in 4: pred božnem sodom</cell>
+                </row>
+                <row>
+                    <cell role="label">deželsko sodišče</cell>
+                </row>
+                <row>
+                    <cell>– rihta</cell>
+                    <cell>VGO-ČEV-1: Visenskega Gospostua Richte</cell>
+                </row>
+                <row>
+                    <cell role="label">namestnik deželskega sodnika</cell>
+                </row>
+                <row>
+                    <cell>– rihtni namestnik</cell>
+                    <cell>VGO-ČEV-1: Richtniga Namestnika te Greschine Vischne
+                        Gore</cell>
+                </row>
+                <row>
+                    <cell role="label">sodba</cell>
+                </row>
+                <row>
+                    <cell>– sudba</cell>
+                    <cell>LJT-1: nikei Sudbe /.../ vun povedati</cell>
+                </row>
+                <row>
+                    <cell role="label">pravda</cell>
+                </row>
+                <row>
+                    <cell>– pravda</cell>
+                    <cell>STA-1: Sa vole tlake praudo dobili (STA-1)</cell>
+                </row>
+                <row>
+                    <cell role="label">sklep, razsodba</cell>
+                </row>
+                <row>
+                    <cell>– abšid</cell>
+                    <cell>VGO-ČEV-1: Themo Abshido Gliha</cell>
+                </row>
+                <row>
+                    <cell role="label">priča</cell>
+                </row>
+                <row>
+                    <cell>– priča</cell>
+                    <cell>PTG-1: k heni pritzhi na pre postaulen</cell>
+                </row>
+                <row>
+                    <cell role="label">pričati</cell>
+                </row>
+                <row>
+                    <cell>– priča djati</cell>
+                    <cell>GRE-1: wäſchä Pritſchä /.../ diättÿ</cell>
+                </row>
+                <row>
+                    <cell role="label">pozvan za pričo</cell>
+                </row>
+                <row>
+                    <cell>– k (h)eni priči napre postavlen</cell>
+                    <cell>PTG-1: k heni pritzhi na pre postaulen</cell>
+                </row>
+                <row>
+                    <cell role="label">pozvan (pred sodišče)</cell>
+                </row>
+                <row>
+                    <cell>– citiran</cell>
+                    <cell>STA-1: nashech Citiranech /.../ Burgeriou</cell>
+                </row>
+                <row>
+                    <cell role="label">sodni dan</cell>
+                </row>
+                <row>
+                    <cell>– sodni dan (relig.)</cell>
+                    <cell>PTG-1: na sodni Dan</cell>
+                </row>
+                <row>
+                    <cell>– sadne dan (relig.)</cell>
+                    <cell>GRE-1: Na Sadne dän</cell>
+                </row>
+                <row>
+                    <cell role="label">sodni stroški</cell>
+                </row>
+                <row>
+                    <cell>– ekspenzi</cell>
+                    <cell>VGO-ČEV-1: te Expense Plazhati</cell>
+                </row>
+            </table>
+        </div>
+        <div type="subsubsection">
+            <head>7. Priseganje</head>
+            <table rend="frame">
+                <row>
+                    <cell role="label">priseči/prisegati komu</cell>
+                </row>
+                <row>
+                    <cell>– perseči</cell>
+                    <cell>GRE-1: wadetä khwogu Perſeglÿ<lb/>MOZ-1: perſeshem h'
+                        Bogu<lb/>PTG-1: oblubim inu persheschem Gospudi Bogu
+                        nebeskhimu<lb/>REČ-1: perſeschem inu oblubim Gospod
+                        Bogu<lb/>STA-1: Persheshmo jnu per nashe Persege
+                        oblubima<lb/>IDR-RUD-1: Bodete vi tedei oblubili inu prud
+                        vezhnimu Bogu inu uſsim Svetnikam perſegli<lb/>IDR-RUD-2:
+                        Perſegli boſte pred Bogam usigamogozhnim<lb/>IDR-RUD-2: Na dalej
+                        boſte perſegli<lb/>IDR-RUD-2: Vi boſte na dalej
+                        perſégli<lb/>IDR-RUD-2: Sadnizh boſte persegli<lb/>KRN-ZID-1:
+                        persesem gospodo uſsega mogoznemo eno resnizno
+                        persego<lb/>VGO-ČEV-1: perseſhem Gospud Bogu eno zhisto
+                        persego</cell>
+                </row>
+                <row>
+                    <cell>– pers(e)gniti</cell>
+                    <cell>LEN-1: persgnem Bogu Samemo Mogazhnemo eno pravizhno
+                        persego</cell>
+                </row>
+                <row>
+                    <cell>– prisegniti</cell>
+                    <cell>SRE-3: jas prisegnem</cell>
+                </row>
+                <row>
+                    <cell>– priseči</cell>
+                    <cell>SRE-1/A: priſscheſsem k tomo Varaſsu Serdiskhomo ÿ
+                        obechem<lb/>Tomu Bogu Nebeskhumu<lb/>SRE-1/B: priſscheſsem k
+                        tomo Varaſsu Serdiskomo ÿ obechem Tomu Bogu Nebeskhumu</cell>
+                </row>
+                <row>
+                    <cell>– prisegati</cell>
+                    <cell>SRE-2: Jasz priszegam Vu Imeni Otcza ÿ Szina ÿ Duha
+                        Szvetoga<lb/>SRE-2: Priszegam Plemenitomu y Veliko poſstovanomu
+                        Magiſstratuſsu Muju praviczu Pred Bogom ÿ Szvezi
+                        nyegovemi<lb/>ČRE-ČEV-1: priszégam na 'sivoga Bogá ki je Ocsa,
+                        Szin ÿ Düh Szveti, na Bla'seno Diviczu Mariju ÿ na vsze Szvétze
+                        Bo'se<lb/>ČRE-ČEV-2: priszégam na 'sivoga Bogá ki je Ocsa, Szin,
+                        ÿ<lb/>Düh Szveti, na Blaseno Diviczu Mario ÿ na vsze
+                        Szvétze<lb/>Bo'se</cell>
+                </row>
+                <row>
+                    <cell>– položiti prisego</cell>
+                    <cell>SRE-3: položim k Bogu vsegamogučnemu i vseznajučemu /.../ eno
+                        čisto, nekrivično prisego</cell>
+                </row>
+                <row>
+                    <cell>– persego dol položiti </cell>
+                    <cell>IDR-RUD-1: te Perſege niſsa dol poloshili</cell>
+                </row>
+                <row>
+                    <cell>– iz persego potrditi</cell>
+                    <cell>IDR-RUD-1: is eno Perſego uſse le tu poterditi</cell>
+                </row>
+                <row>
+                    <cell>– jurament obečati</cell>
+                    <cell>LJT-1: obetscham i[...Bogo........]ga i vſem Svezom iedem
+                        tshiſt Jurament</cell>
+                </row>
+                <row>
+                    <cell role="label">prisega</cell>
+                </row>
+                <row>
+                    <cell>– persega</cell>
+                    <cell>LEN-1: eno pravizhno persego<lb/>MOZ-1: Purgerska
+                        Perſéga<lb/>STA-1: per nashe Persege<lb/>IDR-RUD-1: Knapouſka
+                        Perſega<lb/>IDR-RUD-1: Perſega<lb/>IDR-RUD-1: is eno
+                        Perſego</cell>
+                </row>
+                <row>
+                    <cell>– prisega</cell>
+                    <cell>REČ-1: Purgerska Priſega<lb/>SRE-3: eno čisto, nekrivično
+                        prisego</cell>
+                </row>
+                <row>
+                    <cell>– jurament</cell>
+                    <cell>LJT-1: Ju[rament...]<lb/>LJT-1: iedem tshiſt Jurament</cell>
+                </row>
+                <row>
+                    <cell role="label">službena prisega</cell>
+                </row>
+                <row>
+                    <cell>– šlužbna persega</cell>
+                    <cell>IDR-RUD-2: Schlushbna persega </cell>
+                </row>
+                <row>
+                    <cell role="label">rudarska prisega</cell>
+                </row>
+                <row>
+                    <cell>– knapovska persega</cell>
+                    <cell>IDR-RUD-1: Knapouſka Perſega</cell>
+                </row>
+                <row>
+                    <cell role="label">tržanska prisega</cell>
+                </row>
+                <row>
+                    <cell>– purgerska persega</cell>
+                    <cell>MOZ-1: Purgerska Perſéga</cell>
+                </row>
+                <row>
+                    <cell>– purgerska prisega</cell>
+                    <cell>REČ-1: Purgerska Priſega</cell>
+                </row>
+                <row>
+                    <cell role="label">zaprisežen tržan </cell>
+                </row>
+                <row>
+                    <cell>– persežen purger</cell>
+                    <cell>MOZ-1: enimo salmo sraun tudi perſéshemo Purgerjo</cell>
+                </row>
+            </table>
+        </div>
+    </div>
+    <div type="subsection">
+        <head>Slovarček manj znanih izrazov, oblik in pomenov<note place="end">
+                <p>Oblika slovarčka se zgleduje po: Majda Merše idr.: Wortschatz der
+                    slowenischen Bibelübersetzungen des 16. Jahrhunderts. V: <hi
+                        rend="italic">Biblia Slavica. Serie IV. Südslavische Bibeln,
+                        Band 3, 2: Kommenare</hi>. Paderborn-München-Wien-Zürich:
+                    Ferdinand Schöningh, 2006.</p>
+            </note></head>
+        <p>Sestava slovarskega sestavka</p>
+        <p>Slovarski sestavek uvaja iztočnica, ki se ravna po zapisu v
+            kritičnem prepisu. Sledijo oznaka besedne vrste, sodobni pomen besede in vsi
+            primeri pojavljanja v prisežnih besedilih (v diplomatičnem prepisu oz.
+            transkripciji, glede na zaporedje poglavij in besedil v njih). Po potrebi je
+            dodano napotilo na pomensko enake ali sorodne izraze. Nekatera slovarska
+            gesla vsebujejo tudi spregatvene in sklanjatvene oblike ter besedne zveze, v
+            katerih se iztočnica pojavlja. Nezanesljive oblike in pomeni so označeni z
+            znakom *. Oblike kratkega nedoločnika so navedene z dolgim nedoločnikom
+            (npr. <hi rend="italic">naprej postaviti</hi>).</p>
+        <p>Okrajšave: </p>
+        <p>čl. = člen</p>
+        <p>člen. = členek</p>
+        <p>del. = deležnik</p>
+        <p>edn. = ednina </p>
+        <p>gl. = glej</p>
+        <p>glag. dov. = dovršni glagol </p>
+        <p>glag. dvovid. = dvovidski glagol</p>
+        <p>glag. nedov. = nedovršni glagol</p>
+        <p>im. = imenovalnik</p>
+        <p>mn. = množina<note place="end"> Oznaka je dodana pravim
+                množinskim samostalnikom (<hi rend="italic">bratja</hi>) in tistim, ki
+                se pojavljajo samo v množioni (<hi rend="italic"
+                >artikuluši</hi>).</note></p>
+        <p>nem. = nemško</p>
+        <p>os. = oseba</p>
+        <p>povdk. = povedkovnik</p>
+        <p>posam. = posamostaljeno</p>
+        <p>predl. = predlog</p>
+        <p>prid. = pridevnik</p>
+        <p>prim. = primerjaj</p>
+        <p>prisl. = prislov</p>
+        <p>sam. m = samostalnik moškega spola</p>
+        <p>sam. s = samostalnik srednjega spola</p>
+        <p>sam. ž = samostalnik ženskega spola </p>
+        <p>štev. = števnik</p>
+        <p>vel. = velelnik</p>
+        <p>vez. = veznik</p>
+        <p>zaim. = zaimek</p>
+        <p>zaim. m = zaimek moškega spola</p>
+        <p>zaim. s = zaimek srednjega spola</p>
+        <p>1., 2., 3. os. = prva, druga, tretja oseba</p>
+        <p>/.../ = znak za izpust besedila</p>
+        <p><hi rend="bold">abšid</hi> sam. m ● sklep, razsodba: Themo
+            Abshido Gliha (VGO-ČEV-1)</p>
+        <p><hi rend="bold">ajn</hi> čl. ● en, eden: ainemu wrumnemo
+            Prauitſchnemo (GRE-1)</p>
+        <p><hi rend="bold">aliti</hi> vez. ● ali: allitj (SRE-1/A),
+            alitj (SRE-1/A), alliti SRE-1/B), aliti (SRE-1/B)</p>
+        <p><hi rend="bold">antvert</hi> sam. m (ali ž) ● odgovor</p>
+        <p> – antuert dati = odgovoriti: bodem mogu antuert dati
+            (PTG-1)</p>
+        <p><hi rend="bold">artikuluši</hi> sam. m mn. ● privilegij,
+            členi privilegija: vetoj Králeszkoj nam vszeim vö danoj praviczi ali
+            v-Articulusi (ČRE-ČEV-1), vetoj králeszkoj praviczi, knigi ali Articulusih
+            Czejskih (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">aufziht</hi> sam. m ● rudarski
+            nadzornik:naprejpostauljene Hutmane in Aufsihte (IDR-RUD-2)</p>
+        <p><hi rend="bold">badeta, bade, badi</hi> – gl. biti</p>
+        <p><hi rend="bold">bergamt</hi> sam. m ● rudarski urad:
+            zeſarskiga kraljeviga Bergamta v’ Idrii (IDR-RUD-2), zeſ. kralj. Bergamta v
+            Idrii (IDR-RUD-2), zeſ. kralj. Bergamtu v’ Idrii’ (IDR-RUD-2), </p>
+        <p><hi rend="bold">berggeriht</hi> sam. m ● rudarsko sodišče:
+            ukasam zeſ. kralj. Oberbergamta in Berggerihta (IDR-RUD-2)</p>
+        <p><hi rend="bold">bergrat</hi> sam. m ● rudarski svétnik:
+            gnadlivimo Bergrathu (IDR-RUD-1), Goſpodu Bergratu (IDR-RUD-2)</p>
+        <p><hi rend="bold">biti</hi> glag. nedov. ● biti:</p>
+        <p>– badeta 2. os. edn. = Wÿ wadetä /.../ Perſeglÿ, da wadetä
+            /.../ Powedellÿ (GRE-1), wÿ wadetä /.../ Präſchänÿ (GRE-1)</p>
+        <p>– bade 3. os. edn. = wämb wäde Prÿede derſchäno (GRE-1)</p>
+        <p>– badi 3. os. edn. vel. = wadiſa däru /.../ wolla</p>
+        <p><hi rend="bold">blago</hi> sam. s ● lastnina: tega
+            Caeſsarskiga Blaga (IDR-RUD-1)</p>
+        <p><hi rend="bold">Boug</hi> sam. m ● Bog: Boug (ČRE-ČEV-1,
+            ČRE-ČEV-2)</p>
+        <p><hi rend="bold">Božni</hi> prid. ● Božji: pred božnem sodom
+            (SRE-3 in 4)</p>
+        <p><hi rend="bold">bratja</hi> sam. ž mn. ● bratje:ka etoj
+            Czejskoi Brátji (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">brumen</hi> prid. ● vrl, dober, kreposten,
+            pobožen: ainemu wrumnemo Prauitſchnemo (GRE-1)</p>
+        <p><hi rend="bold">burgar</hi> sam. m ● tržan: Sa iednoga
+            burgara (LJT-1), enimo poſtenimo Burgario (REČ-1), v Se burgarie (STA-1) –
+            gl. tudi: burger, purgar, purger</p>
+        <p><hi rend="bold">burger</hi> sam. m ● tržan: koker ſak Burger
+            (REČ-1), Staneozech Burgeriou (STA-1) – gl. tudi: burgar, purgar, purger </p>
+        <p><hi rend="bold">cajt</hi> sam. m ● čas: </p>
+        <p><hi rend="bold">ob cajtu</hi> = pravočasno: ob zaitu
+            (IDR-RUD-1)</p>
+        <p><hi rend="bold">cej</hi> sam. m ● ceh: ki vCzej sztoupijo
+            (ČRE-ČEV-1), ki szo nej vCzej (ČRE-ČEV-1) – gl. tudi: cejh</p>
+        <p><hi rend="bold">cejh</hi> sam. m ● ceh: od etoga plemenitoga
+            Czejha (ČRE-ČEV-2), szo nej vete Czeih (ČRE-ČEV-2) – gl. tudi: cej</p>
+        <p><hi rend="bold">cejški</hi> prid. ● cehovski: Szkrivnoga
+            Czejskoga zprávischa (ČRE-ČEV-1), poglavárom nassim Czejskim (ČRE-ČEV-1), ka
+            etoj Czejskoi Brátji (ČRE-ČEV-2), vsze Czejske zkrovnoszti (ČRE-ČEV-2),
+            Articulusih Czejskih (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">cemešter</hi> sam. m ● cehovski
+            mojster:Czemester (ČRE-ČEV-2), za Czemestra iliti poglavára (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">coj stati se</hi> glag. nedov. ● spodobiti
+            se, primerno biti: Kak se enemo postenemo ino Svöstemo Purgarü Zhoi stoü
+            (LEN-1)</p>
+        <p><hi rend="bold">citiran</hi> del. ● pozvan (pred
+            sodišče):nashech Citiranech /.../ Burgeriou (STA-1)</p>
+        <p><hi rend="bold">cöl</hi> prid. ● cel, ves: zölli gmein
+            Purgarschofti (LEN-1)</p>
+        <p><hi rend="bold">cölen</hi> prid. ● pošten, častivreden (nem.
+                <hi rend="italic">ehrsam</hi>): enemo zöllenemo Rathü (LEN-1)</p>
+        <p><hi rend="bold">častitlivo</hi> prisl. ● častno (nem. <hi
+                rend="italic">ehrbar</hi>):zhaſtitlivo /.../ ſpolnovati (IDR-RUD-2)</p>
+        <p><hi rend="bold">čem</hi> – gl. hoteti</p>
+        <p><hi rend="bold">čisto</hi> prisl. ● jasno (nem. <hi
+                rend="italic">deutlich</hi>): dobro in zhisto saſtopu (IDR-RUD-2)</p>
+        <p><hi rend="bold">črez</hi> predl. ● skozi (nem. <hi
+                rend="italic">durch</hi>): čres kere (SRE-3)</p>
+        <p><hi rend="bold">dača</hi> sam. ž ● dajatev (nem. <hi
+                rend="italic">Anlage</hi>): vse dače (SRE-3), plače no dače (SRE-4)</p>
+        <p><hi rend="bold">de</hi> vez. ● kot, kakor: de nam na prei
+            Stoi (STA-1)</p>
+        <p><hi rend="bold">den</hi> sam. m ● dan: na neschni Den
+            (LEN-1)</p>
+        <p><hi rend="bold">dobrovolno</hi> prisl. ● prostovoljno, rade
+            volje: bom /.../ dobrovolno doprinašal (SRE-3) </p>
+        <p><hi rend="bold">dokončanje</hi> sam. s ● sklep:
+            dokoncsánya(ČRE-ČEV-1)</p>
+        <p><hi rend="bold">dolnač</hi> sam. m ● zbor, sestanek: od
+            voseh kriuich Dolnatschof (SRE-1/A in B) – gl. tudi: tolnaš</p>
+        <p><hi rend="bold">dolmetvajne</hi> sam. s ● podiranje:
+            kdolmetvaino Belgradeske Vestenge (KRN-ZID-1)</p>
+        <p><hi rend="bold">dol položiti</hi> glag. dov. ● položiti:</p>
+        <p>–<hi rend="bold"> persego dol položiti</hi> = priseči: te
+            Perſege niſsa dol poloshili (IDR-RUD-1)</p>
+        <p><hi rend="bold">donašati</hi> glag. nedov. ● prinašati,
+            povzročati: hasen donašajo (SRE-3) </p>
+        <p><hi rend="bold">dopernesti</hi>  glag. dov. ● izpolniti: bom
+            ſturil al dopernésel (MOZ-1)</p>
+        <p><hi rend="bold">dopolniti</hi> glag. dov. ● izpolniti,
+            izvršiti: Povele Svéſtu dopolniti (MOZ-1), uſe /.../ sveſto dopolnili
+            (IDR-RUD-2) – gl. tudi: dopouniti, spolniti, zvršiti</p>
+        <p><hi rend="bold">dopouniti</hi> glag. dov. ● izpolniti,
+            izvršiti: ozhem jest N. N. toku suestu dopouniti (IDR-RUD-1) – gl. tudi:
+            dopolniti, spolniti</p>
+        <p><hi rend="bold">dopernašati</hi> glag. nedov. ●
+            izpolnjevati, izvrševati: bodem /.../ dopr'nasao mojo dusnoszt (ČRE-ČEV-2) –
+            gl. tudi: doprinašati</p>
+        <p><hi rend="bold">doprinašati</hi> glag. nedov. ●
+            izpolnjevati, izvrševati: bom /.../ dobrovolno doprinašal (SRE-3) – gl.
+            tudi: dopernašati</p>
+        <p><hi rend="bold">dosehmau</hi> prisl. ● doslej: doſechmau
+            poteriene (REČ-1)</p>
+        <p><hi rend="bold">dostojen</hi> prid. ● dolžen (nem. <hi
+                rend="italic">schuldig</hi>): dostoino pokornost z-veršiti (SRE-4)</p>
+        <p><hi rend="bold">dotikati se</hi> glag. nedov. ● zadevati:
+            gor jemainjü tega gmein Terga S: Leonarda se Dotizhe (LEN-1)</p>
+        <p><hi rend="bold">druj</hi> zaim. ● drug:na Vseh Druiech
+            Semnech (VGO-ČEV-1)</p>
+        <p><hi rend="bold">drušna</hi> sam. ž ● družba, združenje:v’
+            nobeni ſkrivni druſhni al svési (IDR-RUD-1)</p>
+        <p><hi rend="bold">držati</hi> glag. nedov. ● spoštovati,
+            upoštevati: poteriene Frajjeste taiste /.../ derſchati (REČ-1), Molzhézhnoſt
+            /.../ boſte na tanko dershali (IDR-RUD-2) </p>
+        <p><hi rend="bold">držejne</hi> sam. s ● spoštovanje,
+            upoštevanje: h' dershejnu téh tershkihPraviz ino Frejeſti (MOZ-1)</p>
+        <p><hi rend="bold">dubrota</hi> sam. ž ● dobrota:posteniom
+            Dubroto biti (LJT-1)</p>
+        <p><hi rend="bold">dugovanje</hi> sam. s ● stvar, reč: drugo
+            dugovanie (LJT-1)</p>
+        <p><hi rend="bold">dužnost</hi> sam. ž ● obveznost, dolžnost
+            (nem. <hi rend="italic">Pflicht</hi>): odločene dužnosti (SRE-4)</p>
+        <p><hi rend="bold">dvojen</hi> prid. ● dvoumen (nem. <hi
+                rend="italic">zweideutig</hi>): dvojnega mišlenja (SRE-3), dvoinega
+            poména (SRE-4)</p>
+        <p><hi rend="bold">ekspenzi</hi> sam. m mn. ● sodni stroški: te
+            Expense Plazhati (VGO-ČEV-1)</p>
+        <p><hi rend="bold">ete, eta, ete</hi> zaim. ● ta<hi rend="bold"
+                >:</hi> vetoj Králeszkoj /.../ praviczi (ČRE-ČEV-1), od etoga
+            plemenitoga Czejha (ČRE-ČEV-2), ka etoj Czejskoi Brátji (ČRE-ČEV-2), szo nej
+            vete Czeih (ČRE-ČEV-2), vetoj králeszkoj praviczi (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">evongelium</hi> sam. m ● evangelij:Sueti
+            evongelium (LJT-1)</p>
+        <p><hi rend="bold">festenga</hi> sam. ž ● trdnjava:Belgradeske
+            Vestenge (KRN-ZID-1)</p>
+        <p><hi rend="bold">firšt</hi> sam. m ● knez (knezoškof): od
+            naſschich Gnadlivich Firsthou (REČ-1)</p>
+        <p><hi rend="bold">flis</hi> sam. m ● vnema, marljivost:is
+            uſsim fliſsam slushiti (IDR-RUD-1)</p>
+        <p><hi rend="bold">frajesti</hi> sam. ž mn. ● svoboščina,
+            privilegij: poteriene Frajjeste (REČ-1) – gl. tudi: frejesti</p>
+        <p><hi rend="bold">frejesti</hi> sam. ž mn. ● svoboščina,
+            privilegij:tershkihPraviz ino Frejeſti (MOZ-1) – gl. tudi: frajesti</p>
+        <p><hi rend="bold">gališki</hi> prid. ● galicijski: kralj /.../
+            galiſhki (IDR-RUD-2)</p>
+        <p><hi rend="bold">gliha</hi> prisl. ● po, v skladu z: Themo
+            Abshido Gliha (VGO-ČEV-1)</p>
+        <p><hi rend="bold">gmajn</hi> prid. ● celoten: tega gmein Terga
+            (LEN-1), zölli gmein Purgarschofti (LEN-1), letemo gmain tergo (REČ-1)</p>
+        <p><hi rend="bold">gmajna</hi> sam. ž ● (tržanska) občina:
+            Posten gmeina (LJT-1)</p>
+        <p><hi rend="bold">gnadliv</hi> prid. ● milostljiv: gnadlivimo
+            Bergrathu (IDR-RUD-1), od naſschich Gnadlivich Firsthou (REČ-1) – gl. tudi:
+            gnadlov</p>
+        <p><hi rend="bold">gnadlov</hi> prid. ● milostljiv: od
+            gnadlouga gospod groffa landsvicedoma (KRN-ZID-1) – gl. tudi: gnadliv</p>
+        <p><hi rend="bold">gorjemajnje</hi> sam. s ● napredovanje,
+            večanje, rast: knuzi ino gor jemainjü tega gmein Terga (LEN-1)</p>
+        <p><hi rend="bold">gor vzet</hi> del. ● sprejet: gor vset
+            gratam (LEN-1)</p>
+        <p><hi rend="bold">gor vzignen</hi> del. ● dvignjen: is gor v
+            ſignenimi treimi Perstim (IDR-RUD-1)</p>
+        <p><hi rend="bold">gori vzeti</hi> glag. dov. ● sprejeti: Sa
+            iednoga burgara Gori vſell[a] (LJT-1) </p>
+        <p><hi rend="bold">gospon</hi> sam. m ● gospod:goſsponna
+            Richtera (SRE-1/A in B)</p>
+        <p><hi rend="bold">gratati</hi> glag. dov. ● postati: gor vset
+            gratam (LEN-1)</p>
+        <p><hi rend="bold">gučati</hi> glag. nedov. ● govoriti: drugač
+            negovorim /: negučim :/ (SRE-3)</p>
+        <p><hi rend="bold">gvišnu</hi> prisl. ● gotovo, zagotovo,
+            resnično: koker gviſhnu (MOZ-1)</p>
+        <p><hi rend="bold">hačam</hi> – gl. hateti</p>
+        <p><hi rend="bold">haču</hi> – gl. hateti</p>
+        <p><hi rend="bold">hasen</hi> sam. m ● korist (nem. <hi
+                rend="italic">Vortheil</hi>): hasen (SRE-3)</p>
+        <p><hi rend="bold">hateti</hi> glag. nedov. ● hoteti,
+            želeti:</p>
+        <p>–<hi rend="bold"> hačam</hi> 1. os. edn. = bom, hočem:
+            hatzam /.../ biti (LJT-1)</p>
+        <p>– <hi rend="bold">haču</hi> 1. os. edn. = bom, hočem:
+            hatschu /.../ pomotschi (SRE-1/A)</p>
+        <p><hi rend="bold">(h)ena</hi> čl. ● ena: k heni pritzhi
+            (PTG-1)</p>
+        <p><hi rend="bold">hofkamra</hi> sam. ž ● dvorna komora: od te
+            desheuske kral: svetle Hoffkammre (REČ-1) – gl. tudi: kamra</p>
+        <p><hi rend="bold">hoteti</hi> glag. nedov. ● hoteti, želeti –
+            gl. tudi: oteti, ščeti</p>
+        <p>– <hi rend="bold">čem</hi> 1. os. edn. = bom, hočem: svösto
+            storiti zhem (LEN-1)</p>
+        <p>–<hi rend="bold"> hoču</hi> 1. os. edn. = bom, hočem:
+            hotschu /.../ pomotschi (SRE-1/B)</p>
+        <p> – <hi rend="bold">nečem</hi> 1. os. edn. ● nethschem /.../
+            pouedati (PTG-1)</p>
+        <p> – <hi rend="bold">nečo</hi> 1. os. edn. ● Netscho ...
+            priuolito (SRE-1/A in B – 2-krat), Netsho /.../ Sprauitj (SRE-1/A), Netsho
+            /.../ Sprauiti (SRE-1/B) </p>
+        <p><hi rend="bold">hutman</hi> sam. m ● (rudarski)
+            paznik:naprejpostauljene Hutmane in Aufsihte (IDR-RUD-2)</p>
+        <p><hi rend="bold">iliti</hi> vez. ● ali:Czemestra iliti
+            poglavára (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">istinito</hi> prisl. ● gotovo, resnično: tak
+            istinito (SRE-4)</p>
+        <p><hi rend="bold">istinsko</hi> prisl. ● gotovo, resnično: tak
+            istinsko (SRE-3)</p>
+        <p><hi rend="bold">jedem</hi> čl. ● eden, en: iedem tshiſt
+            Jurament (LJT-1) – gl. tudi: jeden</p>
+        <p><hi rend="bold">jeden</hi> čl. ● eden, en: Sa iednoga
+            burgara (LJT-1) – gl. tudi: jedem</p>
+        <p><hi rend="bold">jemenvan</hi> del. ● imenovan, naveden:
+            togore jemenuanem tovarsham (KRN-ZID-1)</p>
+        <p><hi rend="bold">jurament</hi> sam. m ● prisega:iedem tshiſt
+            Jurament (LJT-1)</p>
+        <p><hi rend="bold">ka 1</hi> predl. ● k: ka etoj Czejskoi
+            Brátji (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">ka 2</hi> vez. ● da:ka Jasz /.../ bodem
+            /.../ obdr'savao (ČRE-ČEV-1), ka jasz /.../ bodem tak ravnao (ČRE-ČEV-2) –
+            gl. tudi: kaj</p>
+        <p><hi rend="bold">kaj 1</hi> zaim. ● kar: kai je knuzi
+            (LEN-1), kaj /.../ Pravicza biti more (SRE-2), kaj meni /.../ zapovedal bode
+            (SRE-3)</p>
+        <p><hi rend="bold">kaj 2</hi> vez. ● da: kai jas drugač
+            negovorim (SRE-3 in 4) – gl. tudi: ka</p>
+        <p><hi rend="bold">kak</hi> zaim. ● kakor, kot: kak se enemo
+            /.../ Purgarü zhoi stoü (LEN-1), Kaek meni Bog pomagai (LEN-1), kak si jas
+            mislim (SRE-3), kak jas govorim (SRE-3), kak se jas vupam (SRE-3), kak
+            pravostvoren purgar (SRE-3), kak nai pravičneiše se znašati (SRE-3), kak mi
+            Bog pomaga (SRE-3), kak si jas mislim (SRE-4), kak jas govorim (SRE-4), kak
+            se jas vupam (SRE-4), kak mi Bog pomaga (SRE-4) </p>
+        <p><hi rend="bold">kakši</hi> zaim. ● kak, kakšen:szkaksim
+            drügim tálom (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">kakti</hi> zaim. ● kakor, kot: kakti
+            naprepostavleni gospodski (SRE-4)</p>
+        <p><hi rend="bold">kamra</hi> sam. ž ● dvorna komora: pruti
+            naſhi suetli kamri (IDR-RUD-1) – gl. tudi: hofkamra</p>
+        <p><hi rend="bold">kašta</hi> sam. ž ● kašča: ke gesposkene
+            kaste (STA-1)</p>
+        <p><hi rend="bold">ke</hi> predl. ● k: ke gesposkene kaste
+            (STA-1)</p>
+        <p><hi rend="bold">kej</hi> zaim. ● kar:hozemvſe to kei trugi
+            purgeri terpio (LJT-1)</p>
+        <p><hi rend="bold">keri, kera</hi> zaim. ● kateri, katera:
+            posle, keri /.../ hasen donašajo (SRE-3), posle, čres kere /.../ primeriti
+            bi se mogla (SRE-3), dače no naloge, kere /.../ se naveržejo (SRE-3)</p>
+        <p><hi rend="bold">kir 1</hi> zaim. ● kateri: utich rezehch kir
+            sem sedai k heni pritzhi na pre postaulen (PTG-1)</p>
+        <p><hi rend="bold">kir 2</hi> vez. ● ker: Sa tega vola, kir ſe
+            sapotrebnu naide (IDR-RUD-1)</p>
+        <p><hi rend="bold">knap</hi> sam. m ● rudar: rudokope ali knape
+            (IDR-RUD-2)</p>
+        <p><hi rend="bold">knezogrof</hi> sam. m ● pokneženi grof:
+            kneso grof Habsburgije in Tirolſkiga (IDR-RUD-2)</p>
+        <p><hi rend="bold">koko</hi> zaim. ● kakor, kot: Coco mene Sedÿ
+            Priede derſchäno (GRE-1)</p>
+        <p><hi rend="bold">konsciencija</hi> sam. ž ● vest: Duschne
+            konſscienzie (SRE-1/A in B)</p>
+        <p><hi rend="bold">kontumacija</hi> sam. ž ● karantena:
+            Contumatia delleta (KRN-ZID-1), ta Contumatia (KRN-ZID-1)</p>
+        <p><hi rend="bold">koteri</hi> zaim. ● kateri, ki: Vsaa onne
+            kotera (SRE-1/A), Vsaa ouue kotera (SRE-1/B), onna kotera (SRE-1/A in B)</p>
+        <p><hi rend="bold">kraleski</hi> prid. ● kraljevi: vetoj
+            Králeszkoj /.../ praviczi(ČRE-ČEV-1), vetoj králeszkoj praviczi
+            (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">krez</hi> predl. ● čez, zoper, proti: kres
+            varoſh ali Suſida moiega (LJT-1)</p>
+        <p><hi rend="bold">kriv</hi> prid. ● skriven, tajen: kriuj ÿ
+            Sapellanj Tolnaschj (SRE-1/A in B), od voseh kriuich Dolnatschof (SRE-1/A in
+            B)</p>
+        <p><hi rend="bold">kvar</hi> sam. m ● škoda: Vo Nikakof kuar
+            allj Sckhodo (SRE-1/A), Vo Nikakof kvar allj Sckhodo (SRE-1/B), vsaki kvar
+            pa odvernoti (SRE-4),ta naj ménsi kvár (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">landsvicedom</hi> sam. m ● deželni vicedom:
+            od gnadlouga gospod groffa landsvicedoma (KRN-ZID-1)</p>
+        <p><hi rend="bold">latá</hi> zaim. ● le-ta:lata Präwa Inu
+            Tchiſtu Reißnitza (GRE-1) – gl. tudi: lató</p>
+        <p><hi rend="bold">lató</hi> zaim. ● le-ta: wÿ lato /.../
+            Wieſtä Sgoworitÿ (GRE-1) – gl. tudi: latá</p>
+        <p><hi rend="bold">leder</hi> sam. m ● usnje: ta Leder
+            (VGO-ČEV-1)</p>
+        <p><hi rend="bold">lodomerski</hi> prid. ● vladimirski: kralj
+            /.../ lodomerſki (IDR-RUD-2)</p>
+        <p><hi rend="bold">magistrat</hi> sam. m ● magistrat, trški
+            svet:temo Magiſtrato (MOZ-1), slavnemu magistratu (SRE-4) – gl. tudi:
+            magistratuš/magištratuš</p>
+        <p><hi rend="bold">magistratuš/ magištratuš</hi> sam. m ●
+            magistrat, trški svet: plemenitoga Magiſtratuscha (SRE-1/A in B),
+            magistratuš (SRE-3) – gl. tudi: magistrat</p>
+        <p><hi rend="bold">makola</hi> sam. ž ● madež </p>
+        <p> – preze makole prejeta = brezmadežna: presemakolle preieta
+            deva Maria (SRE-1/A), présemakolle preieta Deva Maria (SRE-1/B), </p>
+        <p><hi rend="italic bold">Maurer Pollier</hi> sam. m ● zidarski
+            polir: <hi rend="italic">Maurer Pollier</hi> (KRN-ZID-1) – izraz je zapisan
+            v nemščini</p>
+        <p><hi rend="bold">mišlenje</hi> sam. s ● pomen,
+            razumevanje:</p>
+        <p>– <hi rend="bold">dvojno mišlenje</hi> = dvoumnost (nem. <hi
+                rend="italic">zweideutiger Verstand</hi>): dvojnega mišlenja (SRE-3) –
+            gl. tudi: pomen</p>
+        <p><hi rend="bold">mito</hi> sam. s ● podkupnina: Mito (SRE-1/A
+            in B), ne skos mito (IDR-RUD-2)</p>
+        <p><hi rend="bold">moči</hi> glag. nedov. ● morati: Sma mogle
+            /.../ Contumatia delleta (KRN-ZID-1)</p>
+        <p>– <hi rend="bold">more</hi> 3. os. edn.: kaj /.../ Pravicza
+            biti more (SRE-2)</p>
+        <p> – <hi rend="bold">morem</hi> 1. os. edn.: pravichno vszo
+            obnaſsati morem (SRE-2)</p>
+        <p><hi rend="bold">mogočnost</hi> sam. ž ● zmožnost: po
+            mogočnosti povekšati (SRE-4) – gl. tudi: mogoučnost</p>
+        <p><hi rend="bold">mogoučnost</hi> sam. ž ● zmožnost: poulek
+            mogoucsnoszti moje (ČRE-ČEV-1), poulek mogoucsnoszti ÿ razumne pameti moje
+            (ČRE-ČEV-2) – gl. tudi: mogočnost</p>
+        <p><hi rend="bold">more, morem</hi> – gl. moči</p>
+        <p><hi rend="bold">Morovija</hi> sam. ž ● Moravska: grof
+            morovije (IDR-RUD-2)</p>
+        <p><hi rend="bold">mrmranje</hi> sam. s ● ugovarjanje (nem. <hi
+                rend="italic">Widerredt</hi>): prez mermranja /: suprotivnosti :/
+            (SRE-3)</p>
+        <p><hi rend="bold">mučati</hi> glag. nedov. ● o nečem molčati:
+            onna koteraso Vredna Mutschatj (SRE-1/A), onna kotera so Vredna Mutschati
+            (SRE-1/B)</p>
+        <p><hi rend="bold">mučlivo</hi> prisl. ● molčeče: se /.../
+            mučlivo zaderžavati (SRE-3)</p>
+        <p><hi rend="bold">nadalej</hi> prisl. ● nadalje:Na dalej
+            (IDR-RUD-2), na dalej (IDR-RUD-2)</p>
+        <p><hi rend="bold">najmenši</hi> prid. ● najmanjši:nikaj naj
+            ménsega (ČRE-ČEV-1), naj ménsi kvár (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">naloga</hi> sam. ž ● breme (nem. <hi
+                rend="italic">Last</hi>): vse dače no naloge (SRE-3), vse naloge
+            (SRE-4)</p>
+        <p><hi rend="bold">napovd</hi> sam. ž ● uredba, odlok (nem. <hi
+                rend="italic">Verordnung</hi>):po /.../ napovdih sapovédano</p>
+        <p><hi rend="bold">napovedan</hi> del. ● zapovedan, ukazan: nam
+            bode /.../ na Pouedano (STA-1)</p>
+        <p><hi rend="bold">napre postavlen</hi> del. ● poklican, pozvan
+            (za pričo): k heni pritzhi na pre postaulen (PTG-1) – gl. tudi: naprej
+            postavlen, naprö postablen</p>
+        <p><hi rend="bold">naprepostavlen</hi> del. ● nadrejen:
+            naprepostavlena gospodska (SRE-3), naprepostavleni gospodski (SRE-4)</p>
+        <p><hi rend="bold">naprej bran</hi> del. ● prebran:koker je vam
+            bilo naprei branu (IDR-RUD-1), Koker je blu meni naprei branu
+            (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej držan</hi> del. ● predstavljen,
+            prebran: le ta Doushnust nikol ni bila naprei derſhana (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej iti</hi> glag. nedov. ● biti izdan,
+            sprejet: Themo Abshido Gliha kateri je /.../ Na prei Shau (VGO-ČEV-1)</p>
+        <p><hi rend="bold">naprej nesen</hi> del. ● predstavljen,
+            prebran: kar je blu sdei vam naprei neſsenu (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej pernesti</hi> glag. dov. ● naznaniti:
+            oblaſtnikam ob zaitu naprei perneſti (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej postaviti</hi> glag. dov. ●
+            predstaviti: vaſha Doushnuſt /.../ vam naprei poſtavit (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej postavlen</hi> del. ● nadrejen: tem
+            naprei poſtaulenim oblaſtnikam (IDR-RUD-1), temo naprej poſtauleno Goſpodu
+            Richterjo (MOZ-1) – gl. tudi: napre postavlen, naprepostavlen,
+            naprejpostavljen, naprö postablen</p>
+        <p><hi rend="bold">naprejpostavljen</hi> del. ● nadrejen:
+            naprejpostauljene Hutmane in Aufsihte (IDR-RUD-2) – gl. tudi: napre
+            postavljen, naprepostavlen, naprej postavlen, naprö postablen</p>
+        <p><hi rend="bold">naprej stati</hi> glag. nedov. ● predpisano
+            biti, naloga biti: nam na prei Stoi (STA-1)</p>
+        <p><hi rend="bold">naprej stoječ</hi> del. ● predpostavljen:vam
+            naprei stojezhimo viſsoku zhastivrednimu gnadlivimo Bergrathu inu
+            Caeſsarſkimu Oberamtu (IDR-RUD-1)</p>
+        <p><hi rend="bold">naprej šau</hi> – gl. naprej iti</p>
+        <p><hi rend="bold">naprö postablen</hi> del. ● nadrejen: naprö
+            postablenemo Richtarü (LEN-1) – gl. tudi: napre postavlen, naprepostavlen,
+            naprej postavlen, naprejpostavljen</p>
+        <p><hi rend="bold">naprvo</hi> prisl. ● naprej</p>
+        <p> – <hi rend="bold">naprvo dati</hi> = naprej dati, naprej
+            povedati:Naperuo datj (SRE-1/A in B)</p>
+        <p><hi rend="bold">naredba</hi> sam. ž ● ukaz, odredna (nem.
+                <hi rend="italic">Anordnung</hi>): v-vsih njegovih naredbih (SRE-4)</p>
+        <p><hi rend="bold">narvikši</hi> prid. ● najvišji:narvikſhimu
+            Erarju (IDR-RUD-2), nar vikſhi dvorni goſpoſki (IDR-RUD-2)</p>
+        <p><hi rend="bold">nastopnik</hi> sam. m ● dedič/naslednik
+            (vladarski):naſtopnikam njega kervi in rodu (IDR-RUD-2)</p>
+        <p><hi rend="bold">navreči se</hi> glag. dov. ● doleteti (nem.
+                <hi rend="italic">treffen</hi>): kere se na purgare naveržejo
+            (SRE-3)</p>
+        <p><hi rend="bold">navržen</hi> del. ● zadevajoč (nem. <hi
+                rend="italic">treffend</hi>): na varasko občino naveržene (SRE-4)</p>
+        <p><hi rend="bold">nečem</hi> – gl. ne hoteti</p>
+        <p><hi rend="bold">nečo</hi> – gl. ne hoteti </p>
+        <p><hi rend="bold">nej</hi> člen. ● ne:</p>
+        <p> – <hi rend="bold">so nej</hi> = niso:ki szonej vCzej
+            (ČRE-ČEV-1), ki szo nej vete Czeih (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">neko</hi> vez. ● temveč, ampak: neko
+            (LJT-1)</p>
+        <p><hi rend="bold">nekrivičen</hi> prid. ● nepotvorjen (nem.
+                <hi rend="italic">unverfälscht</hi>): nekrivično prisego (SRE-3)</p>
+        <p><hi rend="bold">neprijatelstvu</hi> sam. s ● sovraštvo:
+            Nepriatelstuu (SRE-1/A in B)</p>
+        <p><hi rend="bold">nešen</hi> prid. ● današnji: na neschni Den
+            (LEN-1)</p>
+        <p><hi rend="bold">nigdar</hi> prisl. ● nikdar, nikoli: Nigdar
+            (SRE-1/A in B – 3-krat)</p>
+        <p><hi rend="bold">nigdi</hi> prisl.● nikjer: Nigdi (SRE-1/A in
+            B)</p>
+        <p><hi rend="bold">nikaj</hi> zaim. ● nič, ničesar:nikaj naj
+            ménsega (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">nikakof</hi> zaim. ● nikakršen: Vo Nikakof
+            kuar (SRE-1/A), Vo Nikakof kvar (SRE-1/B) – gl. tudi: nikakov</p>
+        <p><hi rend="bold">nikakov</hi> zaim. ● nikakršen: Vo Nikakouj
+            kriuj ÿ Sapellanj Tolnaschj (SRE-1/A), Vo Nikakovj krivj ÿ Sapellanj
+            Tolnaschj priuolito (SRE-1/B) – gl. tudi: nikakof</p>
+        <p><hi rend="bold">nikej</hi> prisl. ● nikjer*:nigdar nikei
+            Sudbe (LJT-1)</p>
+        <p><hi rend="bold">niko</hi> zaim. ● nihče, nobeden: Nikhomu
+            (SRE-1/A in B)</p>
+        <p><hi rend="bold">no</hi> vez. ● in: No te (LEN-1), dače no
+            naloge (SRE-3), mučlivo no prez vsake posebne pohabnosti (SRE-3), mislim, no
+            drugač nemislim (SRE-4), plače no dače (SRE-4), no se trsiti (SRE-4) – gl.
+            tudi: nu</p>
+        <p><hi rend="bold">normalski</hi> prid. ● redni: v’normalskim
+            Schihtenlonu (IDR-RUD-2)</p>
+        <p><hi rend="bold">nu</hi> vez. ● in: nu (LEN-1) – gl. tudi:
+            no</p>
+        <p><hi rend="bold">nuc</hi> sam. m ● korist: Knuzi ino gor
+            jemainjü (LEN-1), Knuzi bo (LEN-1)</p>
+        <p><hi rend="bold">nucati</hi> glag. nedov. ● uporabljati,
+            rabiti:Se puſtit nuzat (MOZ-1)</p>
+        <p><hi rend="bold">občinski</hi> posam. ● splošni (nem. <hi
+                rend="italic">allgemein</hi>): v - občinskem (SRE-3)</p>
+        <p><hi rend="bold">obečati</hi> glag. dvovid. ● obljubiti,
+            obljubljati: obetscham (LJT-1), obestam (LJT-1), obechem (SRE-1/A in B),
+            valujem /: obečam, oblubim :/ jas (SRE-3), obečam /: oblubim :/ (SRE-4),
+            obečam (SRE-4)</p>
+        <p><hi rend="bold">oberamt</hi> sam. m ● višji rudarski urad:
+            Caeſsarſkimu Oberamtu (IDR-RUD-1) – gl. tudi: oberbergamt</p>
+        <p><hi rend="bold">obeden</hi> zaim. ● nobeden, nihče: obednimo
+            (PTG-1)</p>
+        <p><hi rend="bold">oben</hi> zaim. ● noben: obeno kriuizo
+            (PTG-1), na obeno Viſsho (REČ-1)</p>
+        <p><hi rend="bold">oberbergamt</hi> sam. m ● višji rudarski
+            urad: zeſ. kralj. Oberbergamta (IDR-RUD-2) – gl. tudi: oberamt</p>
+        <p><hi rend="bold">obdržavati</hi> glag. nedov. ● spoštovati,
+            upoštevati:bom /.../ verno obderžaval (SRE-3), bodem /.../ vörno obdr'savao
+            (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">oblastnik</hi> sam. m ● zapovednik:tem
+            drugim Gospudam Officirjam inu Oblaſtnikam (IDR-RUD-1)</p>
+        <p><hi rend="bold">obnašati</hi> glag. nedov. ●
+            opravljati:pravichnovszo obnaſsati (SRE-2), bom jas /.../ obnašal (SRE-3),
+            obnašati (SRE-4)</p>
+        <p><hi rend="bold">obvarvati</hi> glag. dov. ● preprečiti:
+            uſako ſhkodo /.../ obvarvali (IDR-RUD-2)</p>
+        <p><hi rend="bold">óčem</hi>,<hi rend="bold"> óčma</hi>,<hi
+                rend="bold"> óčo</hi> – gl. oteti </p>
+        <p><hi rend="bold">odbijati</hi> glag. nedov. ● izogibati se
+            (nem. <hi rend="italic">meiden</hi>):bom /.../ zkerblivno odbijal
+            (SRE-3)</p>
+        <p><hi rend="bold">odločen</hi> del. ● dodeljen,
+            ukazan:odločene dužnosti (SRE-4),v’ſlushbnih rezheh odlozheno
+            (IDR-RUD-2)</p>
+        <p><hi rend="bold">odvrnoti</hi> glag. dov. ● preprečiti,
+            odvrniti (nem. <hi rend="italic">abzuwenden</hi>): vsaki kvar pa odvernoti
+            (SRE-4)</p>
+        <p><hi rend="bold">oficir</hi> sam. m ● uradnik:Gospudam
+            Officirjam (IDR-RUD-1)</p>
+        <p><hi rend="bold">ofnano</hi> povdk. ● rešeno,
+            odločeno:offnano bode (PTG-1)</p>
+        <p><hi rend="bold">opdržati</hi> glag. dov. ● vzdržati: Mene
+            Sesema opderſatj (SRE-1/A), Mene Sésema opdersati (SRE-1/B)</p>
+        <p><hi rend="bold">opravek (gosposki)</hi> sam. m ● uradni
+            opravek, posel (nem. <hi rend="italic">Amtsgeschäfte</hi>)<hi rend="ul"
+                >:</hi>v’goſpoſkih opravkih (IDR-RUD-2)</p>
+        <p><hi rend="bold">óčem, óčma, óčo</hi> – gl. oteti</p>
+        <p><hi rend="bold">óšče</hi> člen. ● še, tudi:o'sche onna
+            (SRE-1/A), o' sche onna (SRE-1/B)</p>
+        <p><hi rend="bold">oteti</hi> glag. nedov. ● hoteti, želeti: </p>
+        <p> –<hi rend="bold"> óčem</hi> 1. os. edn. = bom, hočem: Ozhem
+            /.../ resnizo pouedati (PTG-1), de jest ozhem /.../ ſchaſati (REČ-1), ozhem
+            jest /.../ dopouniti (IDR-RUD-1)</p>
+        <p> – <hi rend="bold">óčma</hi> 1. os. mn. = bomo, hočemo:
+            ozhma /.../ opraulati (STA-1)</p>
+        <p> –<hi rend="bold"> óčo</hi> 1. os. edn. = bom, hočem: otscho
+            /.../ Naperuo datj (SRE-1/A in B), otscho /.../ Schuinitj (SRE-1/A in B),
+            otscho preſstimatj (SRE-1/A in B), otscho /.../ opdersati (SRE-1/A), otsho
+            /.../ opdersati (SRE-1/B)</p>
+        <p><hi rend="bold">ovi</hi> zaim. ● ti: Vsaa ouue (SRE-1/B)</p>
+        <p><hi rend="bold">paračan</hi> del. ● zahtevan, ukazan:Storite
+            Paratſchano (GRE-1)</p>
+        <p><hi rend="bold">part</hi> sam. m ● del:</p>
+        <p>– <hi rend="bold">drugi part</hi> = nasprotje:U' drugimu
+            partu (IDR-RUD-1)</p>
+        <p><hi rend="bold">pergoditi se</hi> glag. dov. ● zgoditi se:bi
+            ſe snala /.../ pergoditi (IDR-RUD-2)</p>
+        <p><hi rend="bold">perložiti</hi> glag. dov. ● dodati,
+            priložiti: perloschiti alli vseti (PTG-1)</p>
+        <p><hi rend="bold">perpraviti se</hi> glag. dov. ● spraviti se,
+            zabresti: v ſhuotno Strafenga Se perpravite (IDR-RUD-1)</p>
+        <p><hi rend="bold">persegniti</hi> glag. dov. ● priseči:
+            persgnem (LEN-1)</p>
+        <p><hi rend="bold">pestiti</hi> glag. dov. ● pustiti,
+            dati:Visitirat ali pregledat pestiti (VGO-ČEV-1)</p>
+        <p><hi rend="bold">plača</hi> sam. ž ● plačilo: plače no dače
+            (SRE-4)</p>
+        <p><hi rend="bold">pogjervan</hi> del. ● zahtevan:na to
+            Pogieruano tlako (STA-1)</p>
+        <p><hi rend="bold">pogjervati</hi> glag. nedov. ● zahtevati:
+            Pogieruati (STA-1)</p>
+        <p><hi rend="bold">poglavar (cejški)</hi> sam. m ● cehovski
+            mojster: poglavárom nassim Czejskim (ČRE-ČEV-1), za Czemestra iliti
+            poglavára (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">poglavarstvo</hi> sam. s ● oblast, gosposka
+            (nem. <hi rend="italic">Obrigkeit</hi>): naprepostavlena gospodska /:
+            poglavarstvo :/ (SRE-3)</p>
+        <p><hi rend="bold">poglovar (deželski)</hi> sam. m ● deželni
+            knez: deſhelſkimu poglovarju (IDR-RUD-2)</p>
+        <p><hi rend="bold">pohabnost</hi> sam. ž ● sebičnost (nem. <hi
+                rend="italic">Eigenutz</hi>): prez vsake posebne pohabnosti (SRE-3)</p>
+        <p><hi rend="bold">pokarum</hi> prid. ● pokoren: Pocarum wittÿ
+            (GRE-1)</p>
+        <p><hi rend="bold">pokornost</hi> sam. ž ● poslušnost (nem.
+            Gehorsam): dostoino pokornost z-veršiti (SRE-4)</p>
+        <p><hi rend="bold">poleg</hi> predl. ● po:poleg Moiega Rasuma
+            (SRE-1/A in B), poleg mojega Duſsnoga Szposznanya (SRE-2) – gl. tudi:
+            poulek</p>
+        <p><hi rend="bold">pomen</hi> sam. m ● pomen, razumevanje:
+            ●</p>
+        <p> – <hi rend="bold">dvojni pomen</hi> = dvoumnost (nem. <hi
+                rend="italic">zweideutiger Verstand</hi>): dvoinega poména (SRE-4) – gl.
+            tudi: mišlenje</p>
+        <p><hi rend="bold">pomoči</hi> glag. dvovid. ● pomagati:
+            pomotschi bräniti (SRE-1/A in B), </p>
+        <p> – <hi rend="bold">pomozi</hi> 2. os. edn. vel. ● pomagati:
+            bog pomoſsi (SRE-1/A in B) </p>
+        <p><hi rend="bold">pomozi</hi> – gl. pomoči</p>
+        <p><hi rend="bold">posel</hi> sam. m ● opravilo (nem. <hi
+                rend="italic">Handlung</hi>): bom /.../ vse tiste posle /.../ obnašal
+            (SRE-3)</p>
+        <p><hi rend="bold">postava</hi> sam. ž ● zakon (nem. <hi
+                rend="italic">Normalien</hi>): po poſtavah (IDR-RUD-2)</p>
+        <p><hi rend="bold">postavlen</hi> del. ● postavljen, imenovan:
+            za Czemestra iliti poglavára posztávleni (ČRE-ČEV-2) – gl. tudi:
+            postavljen</p>
+        <p><hi rend="bold">postavljen</hi> prid. ● zaposlen:
+            v’normalskim Schihtenlonu ſtojezhi rudokopi zeſ. kralj. Bergamta v Idrii
+            poſtavljeni (IDR-RUD-2) – gl. tudi: postavlen</p>
+        <p><hi rend="bold">poštovani</hi> prid. ● spoštovani:Veliko
+            poſstovanomu Magiſstratuſsu (SRE-2)</p>
+        <p><hi rend="bold">potrdejne</hi> sam. s ● potrditev: k pravimu
+            poterdejnu (MOZ-1) – gl. tudi: potrjejne</p>
+        <p><hi rend="bold">potrjejne</hi> sam. s ● potrditev:Sa enu
+            poterjeine uſsega tega (IDR-RUD-1) – gl. tudi: potrdenje</p>
+        <p><hi rend="bold">poulek</hi> predl. ● po:poulek mogoucsnoszti
+            moje (ČRE-ČEV-1), poulek mogoucsnoszti ÿ razumne pameti moje (ČRE-ČEV-2) –
+            gl. tudi: poleg</p>
+        <p><hi rend="bold">povekšati</hi> glag. dov. ● povečati,
+            pospešiti (nem. <hi rend="italic">befördern</hi>): po mogočnosti povekšati
+            (SRE-4)</p>
+        <p><hi rend="bold">povele</hi> sam. s mn. ● ukaz, naloga:dane
+            Povele Svéſtu dopolniti (MOZ-1)</p>
+        <p><hi rend="bold">povračejne</hi> sam. s ● povračilo: tu
+            Plazhilo ali Pourazheine (STA-1)</p>
+        <p><hi rend="bold">pozmenjšati</hi> glag. dov. ● zmanjšati:na
+            ſchellim posmengſchati (REČ-1)</p>
+        <p><hi rend="bold">prašan</hi> del. ● vprašan:Semÿ Präſchänÿ
+            (GRE-1)</p>
+        <p><hi rend="bold">pravica 1</hi> sam. ž ● pravičnost*:
+            Priszegam /.../ Muju praviczu (SRE-2)</p>
+        <p><hi rend="bold">pravica 2</hi> sam. ž ● privilegij: vetoj
+            Králeszkoj nam vszeim vö danoj praviczi (ČRE-ČEV-1), vetoj králeszkoj
+            praviczi (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">pravostvoren</hi> prid. ● pošten (nem. <hi
+                rend="italic">rechtschaffen</hi>): pravostvoren purgar (SRE-3)</p>
+        <p><hi rend="bold">pred</hi> vez. ● preden:pred sa taÿsto /.../
+            Schlische (PTG-1)</p>
+        <p><hi rend="bold">predpostavlen</hi> del. ● nadrejen:pred uſim
+            drugim predpoſtaulenimu Goſpodu Bergratu (IDR-RUD-2)</p>
+        <p><hi rend="bold">pred usim drugim</hi> = neposredno (nem. <hi
+                rend="italic">unmittelbar</hi>) – gl. predpostavlen</p>
+        <p><hi rend="bold">prejaznajst</hi> sam. ž ● prijateljstvo*,
+            naklonjenost*: Preiaſtnaiſtÿ (GRE-1)</p>
+        <p><hi rend="bold">premaknejne</hi> sam. s ● odtujitev, kraja:
+            premakneine ne Samouzhati (IDR-RUD-1), Premakneine tega Caeſsarskiga Blaga
+            (IDR-RUD-1)</p>
+        <p><hi rend="bold">preštimati</hi> glag. dov. ● pretehtati,
+            preceniti, dati prednost: preſstimatj Rodbine (SRE-1/A in B)</p>
+        <p><hi rend="bold">prez</hi> predl. ● brez: presemakolle
+            (SRE-1/A), présemakolle (SRE-1/B), prez vse znotrašnje zaderžlivnosti
+            (SRE-3), prez mermranja (SRE-3), prez vsake posebne pohabnosti (SRE-3), prez
+            vse zaderšlivnosti mišlenja (SRE-4)</p>
+        <p><hi rend="bold">priča</hi> sam. ž ● pričevanje</p>
+        <p> – priča djati = pričati: wäſchä Pritſchä/.../ diättÿ
+            (GRE-1)</p>
+        <p><hi rend="bold">prid</hi> sam. m ● korist: h'pridu
+            (MOZ-1)</p>
+        <p><hi rend="bold">prijede držan</hi> del. ● predstavljen,
+            prebran:wämb wäde Prÿede derſchäno (GRE-1), Coco mene Sedÿ Priede derſchäno
+            (GRE-1)</p>
+        <p><hi rend="bold">primeriti</hi> glag. dov. ● zgoditi,
+            prizadejati: škoda primeriti bi se mogla (SRE-3)</p>
+        <p><hi rend="bold">prisegniti</hi> glag. dov. ● priseči: jas
+            prisegnem (SRE-3)</p>
+        <p><hi rend="bold">proki</hi> predl. ● proti, do: proki ſvojimu
+            Goſpodu (IDR-RUD-2)</p>
+        <p><hi rend="bold">pruete</hi> predl. ● k, proti: Pruete wogu
+            (GRE-1)</p>
+        <p><hi rend="bold">pruti staviti se</hi> glag. nedov. ●
+            zoperstavljati se, nasprotovati:ſe taistim pruti staviti (IDR-RUD-1)</p>
+        <p><hi rend="bold">purgar</hi> sam. m ● tržan: sa eniga
+            Terschkiga Purgara (LEN-1), Svöstemo Purgarü (LEN-1), na purgare (SRE-3),
+            pravostvoren purgar (SRE-3), enemu purgaru (SRE-4), z-drugemi purgarmi
+            (SRE-4) – gl. tudi: burgar, burger, purger</p>
+        <p><hi rend="bold">purgaršoft</hi> sam. ž ● tržanstvo, tržanska
+            občina: zölli gmein Purgarschofti (LEN-1) – gl. tudi: purgarstvo</p>
+        <p><hi rend="bold">purgarstvo</hi> sam. s ● tržanstvo, tržanska
+            občina (nem. <hi rend="italic">Bürgerschaft</hi>): celemu purgarstvu (SRE-3)
+            – gl. tudi: purgaršoft</p>
+        <p><hi rend="bold">purger</hi> sam. m ● tržan: perſéshemo
+            Purgerjo (MOZ-1), trugi purgeri terpio (LJT-1) – gl. tudi: burgar, burger,
+            purgar</p>
+        <p><hi rend="bold">purgerski</hi> prid. ● tržanski: Purgerska
+            Perſéga (MOZ-1)</p>
+        <p><hi rend="bold">rajzgelt</hi> sam. m ● potnina: od enega
+            meſseza raisgelt (KRN-ZID-1)</p>
+        <p><hi rend="bold">rad</hi> prisl. ● namenoma:számrad ali po
+            nemárnoszti /.../ ne vcsinim (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">rat</hi> sam. m ● (trški) svet: enemo
+            zöllenemo Rathü (LEN-1), Rath (LJT-1)</p>
+        <p><hi rend="bold">reč 1</hi> sam. ž ● zadeva, stvar: Vtach
+            Retſchÿ (GRE-1), utich rezehch (PTG-1), v’ſlushbnih rezheh (IDR-RUD-2)</p>
+        <p><hi rend="bold">reč 2</hi> sam. ž ● beseda: Sretshom
+            (SRE-1/A), S retshom (SRE-1/B)</p>
+        <p><hi rend="bold">rič</hi> sam. ž ● beseda: zricsjouv
+            (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">rihta</hi> sam. ž ● (deželsko) sodišče:
+            Visenskega Gospostua Richte (VGO-ČEV-1)</p>
+        <p><hi rend="bold">rihter</hi> sam. m ● sodnik:posten Richter
+            (LJT-1), Goſpodu Richterjo (MOZ-1), goſsponna Richtera (SRE-1/A in B)</p>
+        <p><hi rend="bold">roba</hi> sam. ž ● blago, material:s’robo in
+            vam isrozhenim orodjam (IDR-RUD-2)</p>
+        <p><hi rend="bold">savraštvo</hi> sam. s ● sovraštvo:
+            Sabratſchwo (GRE-1)</p>
+        <p><hi rend="bold">sahranati</hi> glag. dov. ● zamolčati,
+            zadržati zase: tuiſta Nickhar Sachränallÿ (GRE-1)</p>
+        <p><hi rend="bold">sak</hi> zaim. ● vsak: Reßnitſchnemo Sakhämo
+            (GRE-1), enemo Sakemo /.../ Richtarü (LEN-1), ſak Burger (REČ-1)</p>
+        <p><hi rend="bold">saden</hi> prid. ● soden: Na Sadne dän
+            (GRE-1)</p>
+        <p><hi rend="bold">samuč</hi> vez. ● temveč, ampak: Samutſch
+            (GRE-1), Samuzh (PTG-1), ſamuz (REČ-1)</p>
+        <p><hi rend="bold">si</hi> – gl. ves</p>
+        <p><hi rend="bold">sčiniti</hi> glag. dov. ● storiti: Schuinitj
+            (SRE-1/A in B) – gl. tudi: včiniti</p>
+        <p><hi rend="bold">se</hi> zaim. s ● vse: vu szem pokoren biti
+            (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">sedij</hi> prisl. ● sedaj, zdaj:Sedÿ
+            (GRE-1)</p>
+        <p><hi rend="bold">segdar</hi> prisl. ● vselej, vedno:Segdar
+            moiega Sivlenia (LJT-1)</p>
+        <p><hi rend="bold">semi</hi> zaim. m mn. ● sami: wÿ wadetä Semÿ
+            Präſchänÿ (GRE-1)</p>
+        <p><hi rend="bold">sésema</hi> prisl. ● popolnoma: Sesema
+            (SRE-1/A),Sésema (SRE-1/B)</p>
+        <p><hi rend="bold">siproti</hi> predl. ● zoper, proti: ſiproti
+            goſsponna Richtera (SRE-1/B) – gl. tudi: suproti</p>
+        <p><hi rend="bold">skazati</hi> glag. dov. ● izkaz(ov)ati: v'ſo
+            Sveſtobo Skasov (MOZ-1), to ſpodobno Pokorshno Skasél (MOZ-1), uſo ſuestobo
+            ſchaſati (REČ-1), vasho Douſnust inu Pokorſhino uſselei skaſati (IDR-RUD-1),
+            dolſhno pokorſhna ſkaſali (IDR-RUD-2)</p>
+        <p><hi rend="bold">skoz 1</hi> prisl. ● vedno, neprekinjeno
+            (nem. <hi rend="italic">ununterbrochen</hi>): skoz /.../ se znašati
+            (SRE-3)</p>
+        <p><hi rend="bold">skoz 2</hi> predl. ● skozi, po: ne skos mito
+            ali ſkos dari, ne ſkos druge obljube (IDR-RUD-2) – gl. tudi: skoze</p>
+        <p><hi rend="bold">skoze</hi> predl. ● skozi, po: Skose Gospoda
+            Pura (VGO-ČEV-1) – gl. tudi: skoz</p>
+        <p><hi rend="bold">skrblivno</hi> prisl. ● skrbno/najskrbneje
+            (nem. <hi rend="italic">sorgfältigst</hi>): bom /.../ zkerblivno odbijal
+            (SRE-3)</p>
+        <p><hi rend="bold">skriven</hi> prid. ● skriven, tajen:
+            Szkrivnoga Czejskoga zprávischa (ČRE-ČEV-1), v’ nobeni</p>
+        <p>ſkrivni druſhni al svési (IDR-RUD-2)</p>
+        <p><hi rend="bold">skrovnost</hi> sam. ž ● skrivnost, tajna:
+            vsze Czejske zkrovnoszti (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">sod</hi> sam. m ● sodišče</p>
+        <p> – <hi rend="bold">Božni sod</hi> = Božje sodišče (nem. <hi
+                rend="italic">Richterstuhl Gottes</hi>): pred božnem sodom (SRE-3 in
+            4)</p>
+        <p><hi rend="bold">sosinstvo</hi> sam. s ● sosedstvo: Sosinstvä
+            (SRE-1/A), Sosinstva (SRE-1/B)</p>
+        <p><hi rend="bold">spadobiti se</hi> glag. nedov. ● primerno
+            biti:koker ſe enimu suestimu Shushabniku /.../ spadobi (IDR-RUD-1)</p>
+        <p><hi rend="bold">spodobno</hi> prisl. ● pravilno, pošteno,
+            primerno:spodobnona snanje dali (IDR-RUD-2)</p>
+        <p><hi rend="bold">spogovarjanje</hi> sam. s ● dogovor (nem.
+                <hi rend="italic">Verabredung</hi>):ſe uſakiga /.../ ſpogovarjenja /.../
+            sderſchali (IDR-RUD-2) </p>
+        <p><hi rend="bold">spolniti</hi> glag. dov. ● izpolniti,
+            izvršiti:kar bi drugi ne spolnili (IDR-RUD-2) – gl. tudi: dopolniti,
+            dopouniti, zvršiti</p>
+        <p><hi rend="bold">spolnovati</hi> glag. nedov. ● izpolnjevati,
+            izvrševati:zhaſtitlivo, sveſto in poſhteno ſpolnovati (IDR-RUD-2) – gl.
+            tudi: spunjavati</p>
+        <p><hi rend="bold">spoznanje 1</hi> sam. s ● </p>
+        <p>– <hi rend="bold">dušno spoznanje</hi> = vest: poleg mojega
+            Duſsnoga Szposznanya (SRE-2)</p>
+        <p><hi rend="bold">spoznanje 2</hi> sam. s ● znanje, védenje:
+            po nar boljim ſposnanju (IDR-RUD-2)</p>
+        <p><hi rend="bold">spravišče</hi> sam. s ● zbor, sestanek:od
+            voseh kriuich Dolnatschof alitj budi Sprauichs (SRE-1/A), od voseh kriuich
+            Dolnatschof aliti budi Sprauicho (SRE-1/B), Szkrivnoga Czejskoga zprávischa
+            (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">spunjavati</hi> glag. nedov. ● izpolnjevati,
+            izvrševati: dužnosti zvesto zpunjavati (SRE-4) – gl. tudi: spolnovati</p>
+        <p><hi rend="bold">staneoč</hi> del. ● stanujoč, bivajoč:
+            Staneozech Burgeriou (STA-1)</p>
+        <p><hi rend="bold">stanovitno</hi> prisl. ●
+            svečano/najsvečaneje (nem. <hi rend="italic">feierlichst</hi>): obečam /.../
+            stanovitno /: svetitno :/ (SRE-4)</p>
+        <p><hi rend="bold">stoupiti</hi> glag. dov. ● pristopiti,
+            postati član:ki vCzej sztoupijo (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">sudba</hi> sam. ž ● sodba:nigdar nikei Sudbe
+            (LJT-1)</p>
+        <p><hi rend="bold">suproti</hi> predl. ● zoper, proti: ſupratj
+            goſsponna Richtera (SRE-1/A) – gl. tudi: siproti</p>
+        <p><hi rend="bold">suprotivnost</hi> sam. ž ● ugovarjanje (nem.
+                <hi rend="italic">Widerredt</hi>):prez mermranja /: suprotivnosti :/
+            (SRE-3)</p>
+        <p><hi rend="bold">sused</hi> sam. m ● sosed, sotržan:
+            postenomo varaſho i Suſedom (LJT-1)</p>
+        <p><hi rend="bold">susid</hi> sam. m ● sosed, sotržan: kres
+            varoſh ali Suſida moiega (LJT-1)</p>
+        <p><hi rend="bold">sveci</hi> sam. m mn. ● svetníki: vſem
+            Svezom (LJT-1), Sÿ Svezi (LJT-1), Szvezi (SRE-2) – gl. tudi: svetci</p>
+        <p><hi rend="bold">svetci</hi> sam. m mn. ● svetníki: na vsze
+            Szvétze Bo'se (ČRE-ČEV-1, ČRE-ČEV-2) – gl. tudi: sveci</p>
+        <p><hi rend="bold">svetitno</hi> prisl. ● svečano/najsvečaneje
+            (nem. <hi rend="italic">feierlichst</hi>): obečam /.../ stanovitno /:
+            svetitno :/ (SRE-4)</p>
+        <p><hi rend="bold">ščem</hi> – gl. ščeti</p>
+        <p><hi rend="bold">ščeti</hi> glag. nedov. ● hoteti, želeti: </p>
+        <p> – <hi rend="bold">ščem</hi> 1. os. edn. = bom, hočem: scsém
+            /.../ pokoren biti (ČRE-ČEV-1), scsém dopr'násati (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">šiht</hi> sam. m ● izmena, služba: na vaſhe
+            Schihte /.../ perſhli (IDR-RUD-2), med ſhihtam (IDR-RUD-2)</p>
+        <p><hi rend="bold">šihtenlon</hi> sam. m ● redna plača:
+            v’normalskim Schihtenlonu ſtojezhi rudokopi (IDR-RUD-2)</p>
+        <p><hi rend="bold">šlišati</hi> glag. nedov. ● spodobiti se,
+            primerno biti: khäkhor ainemu wrumnemo /.../ ſchliſchÿ (GRE-1)</p>
+        <p><hi rend="bold">šlužben</hi> prid. ● služben: Schlushbna
+            persega (IDR-RUD-2)</p>
+        <p><hi rend="bold">šteri</hi> zaim. ● kateri:vsza ona, stera
+            (ČRE-ČEV-1), stere (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">štrafenga</hi> sam. ž ● kazen, kaznovanje:v
+            ſhuotno Strafenga Se perpravite (IDR-RUD-1)</p>
+        <p><hi rend="bold">šužabnik</hi> sam. m ● služabnik, podanik:
+            enimu suestimu Shushabniku (IDR-RUD-1)</p>
+        <p><hi rend="bold">tajesto</hi> zaim. s ● ta-isto:taieſtum
+            hotſchemb Jeſt, Pocarum wittÿ (GRE-1)</p>
+        <p><hi rend="bold">tal</hi> sam. m ● dejanje:szkaksim drügim
+            tálom (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">te</hi> prisl. ● torej, tedaj: No te jas
+            Zhem (LEN-1) – gl. tudi: tedej</p>
+        <p><hi rend="bold">tedej</hi> prisl. ● torej, tedaj: tedej ne
+            le Samu (MOZ-1), tedej te mene dane Povele Svéſtu dopolniti(MOZ-1) – gl.
+            tudi: te</p>
+        <p><hi rend="bold">temoč</hi> vez. ● temveč, ampak: temoč
+            (SRE-3 in 4)</p>
+        <p><hi rend="bold">timuisti</hi> zaim. ● taisti:Thimuiſtiga
+            Mogotſchnemo (GRE-1)</p>
+        <p><hi rend="bold">toku dobro – koker</hi> vez. ● tako – kot:
+            Toku Dobro /.../ koker (VGO-ČEV-1)</p>
+        <p><hi rend="bold">tolikajše</hi> prisl. ● prav tako,
+            enako:Tollikhaishe k tomo (SRE-1/A) Tollikhaische k tomo (SRE-1/B) – gl.
+            tudi: tulikakoša</p>
+        <p><hi rend="bold">tolnač</hi> sam. m ● nasvet:pomoiem
+            Tolnatschi (SRE-1/A), po moiom Tolnatschi (SRE-1/B) </p>
+        <p><hi rend="bold">tolnaš</hi> sam. m ● zbor, sestanek: kriuj ÿ
+            Sapellanj Tolnaschj (SRE-1/A in B) – gl. tudi: dolnač</p>
+        <p><hi rend="bold">tovarš</hi> sam. m ● sodelavec, stanovski
+            kolega: nashe tovarshe (KRN-ZID-1), naſsem touarsham (KRN-ZID-1), naſsem
+            togore jemenuanem tovarsham (KRN-ZID-1)</p>
+        <p><hi rend="bold">treke</hi> štev. ● tretji: ta treke dan
+            (STA-1)</p>
+        <p><hi rend="bold">trsiti se</hi> glag. nedov. ●prizadevati si,
+            truditi se: no se tersiti, varaša dobro /.../ povekšati (SRE-4)</p>
+        <p><hi rend="bold">trug</hi> zaim. ● drug: trugi purgeri terpio
+            (LJT-1)</p>
+        <p><hi rend="bold">truge</hi> štev. ● drugi: ta truge dan
+            (KRN-ZID-1)</p>
+        <p><hi rend="bold">tuista</hi> zaim. ž ● ta-ista (= resnica):
+            tuiſta (GRE-1)</p>
+        <p><hi rend="bold">tulikakoša</hi> prisl. ● prav tako,
+            enako:Tulikha kosha o'sche onna (SRE-1/A), Tulikha koscha o' sche onna
+            (SRE-1/B) – gl. tudi: tolikajše</p>
+        <p><hi rend="bold">utálen</hi> del. ● izročen, podeljen: od
+            naſschich Gnadlivich Firsthou /.../ utalenu (REČ-1)</p>
+        <p><hi rend="bold">valujem</hi> glag. nedov. 1. os. edn. ●
+            obljubljam (nem. <hi rend="italic">ich gelobe</hi>): valujem /: obečam,
+            oblubim :/ jas (SRE-3)</p>
+        <p><hi rend="bold">varaš</hi> sam. m ● trg: vu o[vem Lotm]erkom
+            varaſso (LJT-1), postenomo varaſho (LJT-1), toga Varascha (SRE-1/A), Celomo
+            Varaschu (SRE-1/A in B), k tomo Varaſsu Serdiskhomo (SRE-1/A), k tomo
+            Varaſsu Serdiskomo (SRE-1/B), varašu (SRE-3), serdiškoga varaša (SRE-4),
+            varaša dobro /: hasen :/ (SRE-4) – gl. tudi: varoš</p>
+        <p>varaški prid. ● trški: na varasko občino (SRE-4)</p>
+        <p><hi rend="bold">varno</hi> prisl. ● varčno (nem. <hi
+                rend="italic">sparsam</hi>): varno in skerbno (IDR-RUD-2)</p>
+        <p><hi rend="bold">varoš</hi> sam. m ● trg: kres varoſh (LJT-1)
+            – gl. tudi: varaš</p>
+        <p><hi rend="bold">varvati se</hi> glag. nedov. ● preprečevati,
+            izogibati se: ſe /.../ uſse Shkode inu Skodlivoſti varvat (IDR-RUD-1), ſe
+            usake krivize in golfije varvali (IDR-RUD-2)</p>
+        <p><hi rend="bold">včiniti</hi> glag. dov. ● storiti:ne vcsinim
+            (ČRE-ČEV-2) – gl. tudi: sčiniti</p>
+        <p><hi rend="bold">v(e)denj</hi> prisl. ● vedno*<hi rend="bold"
+                >:</hi> per delah v’denj (IDR-RUD-2)</p>
+        <p><hi rend="bold">velikota</hi> sam. ž ● teža,
+            pomembnost:Velikhotu Moie persone (SRE-1/A), Velikhohe Moie perſone
+            (SRE-1/B)</p>
+        <p><hi rend="bold">veram</hi> prid. ● zvest: veram pokoren i
+            posteniom Dubroto biti (LJT.1)</p>
+        <p><hi rend="bold">verno</hi> prisl. ● zvesto: bom /.../ verno
+            /.../ obderžaval (SRE-3), se verno /.../ zaderžavati (SRE-3)</p>
+        <p><hi rend="bold">ves</hi> zaim. ● ves</p>
+        <p><hi rend="bold"> –</hi> 
+            <hi rend="bold">si</hi> zaim. m mn. = vsi: Sÿ Svezi (LJT-1) – gl. tudi:
+            vosi</p>
+        <p><hi rend="bold">vestno</hi> povdk. ● vedoče, znano: kollikho
+            Je wäm weſtnu (GRE-1)</p>
+        <p><hi rend="bold">vicdamíja</hi> sam. ž ● vicedomski urad,
+            »fištamija«: per Vizdamÿe (VGO-ČEV-1)</p>
+        <p><hi rend="bold">vikši</hi> prid. ● višji: vikſhim zeſarskim
+            ſhluſhabnikam (IDR-RUD-2)</p>
+        <p><hi rend="bold">viši</hi> prid.● višji, nadrejeni: </p>
+        <p> – <hi rend="bold">viši gosposka</hi>: od te Vischi Gosposke
+            (PTG-1)</p>
+        <p><hi rend="bold">vizitirati</hi> glag. nedov. ● pregledovati,
+            »vizitirati«:ta Leder /.../ Visitirat ali pregledat (VGO-ČEV-1)</p>
+        <p><hi rend="bold">viža</hi> sam. ž ● način: Na Tako Vischo
+            (LEN-1), na obeno Viſsho (REČ-1), na tako Visho (STA-1), na nobeno visho
+            (IDR-RUD-1)</p>
+        <p><hi rend="bold">vjedeti</hi> glag. nedov. ● vedeti,
+            znati:Wieſtä Sgoworitÿ (GRE-1)</p>
+        <p><hi rend="bold">vo</hi> predl. ● v: Vo Nikakouj /.../
+            Tolnaschj priuolito (SRE-1/A in B), Vo Nikakof kuar allj Sckhodo Sprauitj
+            (SRE-1/A in B) – gl. tudi: vu</p>
+        <p><hi rend="bold">vö dan</hi> del. ● izročen, podeljen: vetoj
+            Králeszkoj nam vszeim vö danoj praviczi (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">vola</hi> predl. ● zavoljo: Prawitſcha Inu
+            Reißnitza wolla (GRE-1) – gl. tudi: za … vola, za vole</p>
+        <p><hi rend="bold">vö ovaditi</hi> glag. dov. ● izdati,
+            povedati naprej:vö ne ovádim (ČRE-ČEV-1), vö neovádim (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">vörno</hi> prisl. ● zvesto: bodem /.../
+            vörno obdr'savao (ČRE-ČEV-1)</p>
+        <p><hi rend="bold">vos</hi> zaim. ● ves</p>
+        <p><hi rend="bold">vosi</hi> zaim m mn. ● vsi: od voseh kriuich
+            Dolnatschof (SRE-1/A in B) – gl. tudi: si – </p>
+        <p><hi rend="bold">vreden</hi> prid. ● potreben: onna koteraso
+            Vredna Mutschatj (SRE-1/A), kotera so Vredna Mutschati (SRE-1/B)</p>
+        <p><hi rend="bold">vseznajuči</hi> prid. ● vseveden: Bogu
+            vsegamogučnemu i vseznajučemu (SRE-3)</p>
+        <p><hi rend="bold">vsigdar</hi> prisl. ● vedno: vsigdar (SRE-3
+            – 2-krat)</p>
+        <p><hi rend="bold">vu</hi> predl. ● v: vu szem (ČRE-ČEV-1), vu
+            o[vem Lotm]erkom varaſso (LJT-1), Vu Imeni Otcza (SRE-2) – gl. tudi: vo</p>
+        <p><hi rend="bold">vun povedati</hi> glag. dov. ● razkriti,
+            povedati naprej: kres varoſh ali Suſida moiega vun povedati (LJT-1)</p>
+        <p><hi rend="bold">vupati se</hi> glag. nedov. ● upati si: kak
+            se jas vupam /.../ odgovarjati (SRE-3 in 4)</p>
+        <p><hi rend="bold">zadnič</hi> prisl. ● nazadnje: Sadnizh boſte
+            persegli (IDR-RUD-2)</p>
+        <p><hi rend="bold">zadržati</hi> glag. dov. ● zamolčati,
+            zadržati zase: primeni Saderschati (SRE-1/A)</p>
+        <p><hi rend="bold">zadržati se</hi> glag. dov. ● vesti se,
+            obnašati se: Se vſellej toku /.../ sadershati (MOZ-1), uſselei pak ſe taku
+            sadershati (IDR-RUD-1), de se boſte saderſhali (IDR-RUD-2), ſe je /.../
+            saderſhati dolſhan (IDR-RUD-2)</p>
+        <p><hi rend="bold">zadržavati se</hi> glag. nedov. ● vesti se,
+            obnašati se: se verno, marlivo, mučno /.../ zaderžavati (SRE-3)</p>
+        <p><hi rend="bold">zadržlivnost</hi> sam. ž ● zadržek*● </p>
+        <p><hi rend="bold">znotrašnja zadržlivnost =</hi> potuhnjenost,
+            zahrbtnost (nem. <hi rend="italic">Gemüthshinterhalt</hi>):prez vse
+            znotrašnje zaderžlivnosti (SRE-3)</p>
+        <p><hi rend="bold">zadržlivnost mišlenja =</hi>  potuhnjenost,
+            zahrbtnost (nem. <hi rend="italic">Gemüthshinterhalt</hi>):prez vse
+            zaderšlivnosti mišlenja (SRE-4)</p>
+        <p><hi rend="bold">zal</hi> prid. ● pošten:enimo salmo /.../
+            Purgerjo (MOZ-1)</p>
+        <p><hi rend="bold">zamočati</hi> glag. dov. ● zamolčati: da
+            wadetä /.../ Samotſchallÿ (GRE-1) – gl. tudi: zamučati</p>
+        <p><hi rend="bold">zamoči</hi> glag. nedov. ● moči: odverniti
+            bi samogli (IDR-RUD-2)</p>
+        <p><hi rend="bold">zamučati</hi> glag. dov. ● zamolčati: vsze
+            Czejske zkrovnoszti zamucsim (ČRE-ČEV-2) – gl. tudi: zamočati</p>
+        <p><hi rend="bold">zaničvati</hi> glag. nedov. ● zaničevati:
+            posmengſchati ali ſanizhvati (REČ-1) – gl. tudi: zaničóvati</p>
+        <p><hi rend="bold">zaničóvati</hi> glag. nedov. ●
+            zaničevati:nekol pa taiſte sanizhovu (MOZ-1) – gl. tudi: zaničvati</p>
+        <p><hi rend="bold">zapouvid</hi> sam. ž ● zapoved, ukaz:
+            zapouvidi (ČRE-ČEV-2)</p>
+        <p><hi rend="bold">zapovedati:</hi> glag. dov. ● ukazati,
+            naložiti (nem. <hi rend="italic">auftragen</hi>): magistratuš serdiški /.../
+            zapovedal bode (SRE-3)</p>
+        <p><hi rend="bold">zavezati se</hi> glag. dov. ● včlaniti se,
+            pristopiti:de ſe ne boſte tudi v’njo savésali (IDR-RUD-2)</p>
+        <p><hi rend="bold">za … vola</hi> predl. ● zavoljo: ſa däru,
+            Preiaſtnaiſtÿ allÿ Sabratſchwo Inu ſa Vſach druſchÿ wolla (GRE-1), sa
+            periatelstua Souraschtua alli mitta volla (PTG-1), Sa tega vola (IDR-RUD-1 –
+            2-krat), Sa tega Vola kai ſturiti (VGO-ČEV-1) – gl. tudi: vola, za vole</p>
+        <p><hi rend="bold">za vole</hi> predl. ● zavoljo: Sa vole tlake
+            (STA-1) – gl. tudi: vola, za … vola</p>
+        <p><hi rend="bold">zdržati se</hi> glag. dov. ● vzdržati se: ſe
+            uſakiga superſtavljanja, ſpogovarjenja ali puntanja</p>
+        <p>sderſchali (IDR-RUD-2) </p>
+        <p><hi rend="bold">zastopiti</hi> glag. dov. ● razumeti:kar ſim
+            /.../ saſtopu (IDR-RUD-2)</p>
+        <p><hi rend="bold">zgovoriti</hi> glag. dov. ● odgovoriti,
+            izpovedati: Na Sadne dän Wieſtä Sgoworitÿ (GRE-1)</p>
+        <p><hi rend="bold">znanje</hi> sam. s ● vednost:</p>
+        <p>– <hi rend="bold">na znanje dati</hi> = naznaniti:zeſ.
+            kralj. Bergamtu v’ Idrii’ na snanje dali (IDR-RUD-2), na snanje dali
+            (IDR-Rud-2)</p>
+        <p><hi rend="bold">znašati se</hi> glag. nedov. ● ravnati (nem.
+                <hi rend="italic">handeln</hi>): nai pravičneiše se znašati (SRE-3)</p>
+        <p><hi rend="bold">znotrašnji</hi> prid. ● notranji: prez vse
+            znotrašnje zaderžlivnosti (SRE-3)</p>
+        <p><hi rend="bold">zredama</hi> prisl. ● redno: na vaſhe
+            Schihte srédama in v’pravimu zhasu perſhli (IDR-RUD-2)</p>
+        <p><hi rend="bold">zunej</hi> predl. ● razen:Sunej Grogor
+            Hersche, Mathia Scherbinz jeno Antona Dauniker (KRN-ZID-1)</p>
+        <p><hi rend="bold">zuper</hi> predl. ● zoper, proti: taiſtim
+            kaj Super delel (MOZ-1)</p>
+        <p><hi rend="bold">zuperstanovajne</hi> sam. s ● nasprotovanje:
+            bres usega Super Stanovaina (STA-1)</p>
+        <p><hi rend="bold">zvöst</hi> prid. ● zvest: Svöstemo Purgarü
+            (LEN-1)</p>
+        <p><hi rend="bold">zvösto</hi> prisl. ● zvesto:svösto storiti
+            (LEN-1)</p>
+        <p><hi rend="bold">zvršiti</hi> glag. dov. ● izpolniti,
+            opraviti (nem. <hi rend="italic">leisten</hi>): dostoino pokornost z-veršiti
+            (SRE-4) – gl. tudi: dopolniti, dopouniti, spolniti</p>
+        <p><hi rend="bold">zvun</hi> predl. ● poleg: zvun toga
+            (SRE-3)</p>
+        <p><hi rend="bold">zvünski</hi> posam. ● zunanji, tuji:
+            zvünszkim, ki szo nej vCzej (ČRE-ČEV-1, ČRE-ČEV-2)</p>
+        <p><hi rend="bold">žvoten</hi> prid. ● telesen:</p>
+        <p> – <hi rend="bold">žvotna štrafenga</hi> = telesna kazen: v
+            ſhuotno Strafenga Se perpravite (IDR-RUD-1)</p>
+    </div>
+</div>

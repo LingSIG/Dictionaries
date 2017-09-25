@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:id="VusSlov1750" n="VusSlov1750">
+        <fileDesc n="{F9C82B34-D308-4433-8B01-6C0C94686B1A}">
+            <titleStmt>
+                <title type="translit">Dictionarium bohemo-latino-germanicum</title>
+                <author><forename>Kašpar Zachariáš</forename><surname>Vusín</surname></author>
+            </titleStmt>
+            <editionStmt>
+                <edition>digitální slovník</edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Lehečka, Boris</name>
+                </respStmt>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Berger, Tilman</name>
+                </respStmt>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Prejzová, Lucie</name>
+                </respStmt>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Dušek, Jan</name>
+                </respStmt>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Voleková, Kateřina</name>
+                </respStmt>
+                <respStmt>
+                    <resp>kódování TEI</resp>
+                    <name>Lehečka, Boris</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>oddělení vývoje jazyka Ústavu pro jazyk český AV ČR, v. v. i.<email>vyvoj@ujc.cas.cz</email></publisher>
+                <pubPlace>Praha</pubPlace>
+                <date>2015</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/" notBefore="2016-11-16">
+                        <p>The Creative Commons Attribution 3.0 Unported (CC BY 3.0) Licence applies to this document.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc n="bibl">
+                <p><bibl type="source"><author><forename>Kašpar Zachariáš</forename><surname>Vusín</surname></author>. <title>Dictionarium bohemo-latino-germanicum</title>. <pubPlace>[Praha]</pubPlace>, <date>[b. r., 1. polovina 18. století]</date>. <edition>Vydání druhé. </edition><idno type="Knihopis">K16693</idno></bibl></p>
+            </sourceDesc>
+            <sourceDesc>
+                <msDesc xml:lang="cs">
+                    <msIdentifier>
+                        <country key="xr">Česko</country>
+                        <settlement>Praha</settlement>
+                        <repository>Ústav pro jazyk český AV ČR, v. v. i.</repository>
+                        <idno>TS III 209c/[3]</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <title>Dictionarium bohemo-latino-germanicum</title>
+                            <author><forename>Kašpar Zachariáš</forename><surname>Vusín</surname></author>
+                        </msItem>
+                    </msContents>
+                    <history>
+                        <origin><origDate notBefore="1722" notAfter="1742">1. polovina 18. století</origDate></origin>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <p><persName>Boris Lehečka</persName>, <date>18. 1. 2015</date><note>základní převod na XML</note></p>
+                            </recordHist>
+                        </adminInfo>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Viz Knihopis č. K16693 (<ref target="http://aleph.nkp.cz/F/?func=direct&amp;doc_number=000016690&amp;local_base=KPS">http://aleph.nkp.cz/F/?func=direct&amp;doc_number=000016690&amp;local_base=KPS</ref>), Jungmannova <hi rend="italic">Historie literatury české</hi> IV. 58.</p>
+                <p>Edice česko-latinsko-německé části druhého vydání Vusínova slovníku začala vznikat v roce 1996 z podnětu prof. Alexandra Sticha jako diplomová práce na Filozofické fakultě Univerzity Karlovy. Po dlouhém období nečinnosti díky společnému úsilí několika odborníků vznikl transliterovaný přepis s transkribovanou českou jazykovou složkou.</p>
+                <p>Základ edice, přibližně dvě třetiny, připravil Boris Lehečka. Po dlouhé odmlce na něj navázal prof. <name>Tilman Berger</name> z Univerzity v Tubinkách, jenž se svými spolupracovníky transliteroval chybějící pasáže. Následovaly kolace s originálem a proznačování jednotlivých součástí slovníkových hesel, jichž se ujali <name>Jan Dušek</name> a <name>Hana Gabrielová</name>. Nakonec <name>Lucie Prejzová</name> zkontrolovala automatickou transkripci českých pasáží do novočeho pravopisného systému. O vznik edice se rovněž zasloužily <name>Alena M. Černá</name> a <name>Kateřiná Voleková</name>, které jednotlivé fáze vzniku organizovaly a kontrolovaly.</p>
+                <p>Vznik edice byl podpořen projektem Ministerstva kultury ČR č. DF12P01OVV028 <hi rend="italic">Informační technologie ve službách jazykového kulturního dědictví (IT JAKUB)</hi>.</p>
+                <p><hi rend="bold">Poznámky k podobě edice</hi></p>
+                <p>Elektronická edice trojjazyčného slovníku Kašpara Zachariáše Vusína zachycuje pomocí různých písem jednotlivé jazyky: <hi rend="cs-x-translit">češtinu</hi>, <hi rend="la">latinu</hi> a <hi rend="de">němčinu</hi>. Kurzivní patkové písmo se používá pro označení slovních druhů (<hi rend="it">con</hi>, <hi rend="it">adv</hi>) gramatické charakteristiky výrazů (<hi rend="it">m. 1.</hi>, <hi rend="it">mod: opt:</hi>) ap.</p>
+                <p>V přepise uvádíme kromě čísla strany rovněž označení sloupců (písmeny <hi rend="column">a</hi> a <hi rend="column">b</hi>). Pokud se text nachází v obou sloupcích, je uvedno pouze číslo strany.</p>
+                <p>Transkripce české jazykové složky je zachycena <hi rend="cs-x-transcr">menším písmem</hi> a oddělena od následující transliterace svislicí (|).</p>
+                <p>Části textu, jejichž přítomnost je v tisku naznačena grafickým znaménkem nebo závorku, jsou uvedeny ve složených závorkách ({}).</p>
+                <p><hi rend="bold">Poznámky k transkripci češtiny</hi></p>
+                <p>Transliterovaný text slovníku Kašpara Zachariáše Vusína byl transkribován do novočeského pravopisu pomocí automatického softwarového nástroje <ref target="http://vokabular.ujc.cas.cz/moduly/nastroje/transcriptorium/">Transcriptorium</ref>. Následovala kontrola této transkripce, kterou provedla Lucie Prejzová.</p>
+                <p>Psaní velkých písmen v transkripci zachováváme podle podoby v transliteraci. Toto dočasné řešení souvisí s postupným vylepšováním <hi rend="italic">Transcriptoria</hi> a v budoucnu jej přizpůsobíme obecně uznávaným zásadám transkripce památek psaných hisotrickou češtinou.</p>
+                <p>Za připravení internetové verze slovníku děkujeme RNDr. Pavlu Květoňovi, Ph.D., z Ústavu pro jazyk český AV ČR, v. v. i. </p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="cs" usage="30">čeština</language>
+                <language ident="de" usage="30">němčina</language>
+                <language ident="la" usage="40">latina</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head><pb n="I" rend="space" /><foreign xml:lang="la">Dictionarium bohemo-latino-germanicum</foreign></head>
+                <div>
+                    <head><pb n="1" rend="space" facs="VusSlov_1.jpg" /><cb n="a" rend="space" /><choice>
+                            <reg xml:lang="cs-x-transcr">A</reg>
+                            <orig xml:lang="cs-x-translit">A</orig>
+                        </choice></head>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">a</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">a </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">con: </iType><cit type="translation" xml:lang="la">
+                            <quote>&amp;</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>que</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>atque</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>ac</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>und</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Abatyše</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Abbatyſſe </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>Antistita</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>Abbatisſa</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><iType xml:space="preserve">f. </iType><cit type="translation" xml:lang="de">
+                            <quote>Abtißin</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">abecedární Pachole</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">abecedárnj Pachole </orig>
+                                </choice></orth></form><iType xml:space="preserve">n. </iType><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(Pacholete)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(Pacholete) </orig>
+                                </choice></orth></form><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">malý Žáček</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">malý Žáček </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. </iType><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(Žáčka)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(Žáčka) </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>abecedarius</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>tyrunculus Scholæ</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>cantoralis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Abece-Knab</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Abecedář</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Abecedář </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Slabikář</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Slabikář </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>libellus alphabeticus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Abecebuch </quote>
+                        </cit><iType>n.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Abrahamův Strom</reg>
+                                    <orig>Abrahamův<note n="1"><p xml:space="preserve"> tisk chybně: <sic xml:lang="cs-x-translit">Abrahamu</sic></p></note> Strom </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">mořská vrba</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">mořſká wrba </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Drmek</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Drmek </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(drmka)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(drmka) </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>vitex</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>agnus caſtus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">keüsch-baum </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aby</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aby </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">by</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">by </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">tak aby</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">tak aby </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">tak by</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">tak by </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">mod: opt: </iType><cit type="translation" xml:lang="la">
+                            <quote>ut</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">daß </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">auff daß </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>damit</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aby ne</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aby ne </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">by ne</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">by ne </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">tak aby ne</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">tak aby ne </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">mod: opt: </iType><cit type="translation" xml:lang="la">
+                            <quote>ut non</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>nè</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">daß nicht </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">damit nicht </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>auff daß nicht</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">abstrych</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">abſtrych </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">což se z Stříbra shání</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">což ſe z Střjbra ſcháni </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>cutis impura</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>abſtreich</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ač</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ač </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ačkoliv</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ačkoliw </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ačkolivěk</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ačkoliwěk </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>quanquam</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>quamvis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>quantumvis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>licèt</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>etſi</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>tameſi</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">obſchon </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>obgleich</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Aach</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Aach </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><gloss xml:lang="cs"><choice>
+                                <reg xml:lang="cs-x-transcr">jisté Město Říšské</reg>
+                                <orig xml:lang="cs-x-translit" xml:space="preserve">giſté Měſto Ržjšſké </orig>
+                            </choice></gloss><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>aquis granum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Aach</quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>gewiſſe Stadt im Reich</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ach</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ach </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ouve</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">auwe </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">běda</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">běda </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>ach</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>heu</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>eheu</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>væ</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ach </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">weh </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>o weh!</quote>
+                        </cit></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ach aby</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ach aby </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>utinam</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>ach daß</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">achat</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">achat </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><cit type="translation" xml:lang="la">
+                            <quote>achates</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">achat </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">acht</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">acht </orig>
+                                </choice></orth></form><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">světská kladba</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ſwětſká kladba </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>proſcriptio</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><iType xml:space="preserve">f. </iType><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Achts Erklärung </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Oberacht </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>Unteracht</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Adamové Jablko</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Adamowé Gablko </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">n. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>pomum asſirium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>vel Adami</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Adams-Apffel </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">adera</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">adera </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">teče skrze Slézsko</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">teče ſkrze Slézſko </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>viadus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>viadrus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Aderflus</quote>
+                        </cit><lbl xml:space="preserve">. </lbl><iType>m.</iType></entryFree>
+                    <entryFree><cb n="b" rend="space" /><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">admirálová</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">admjráłowá </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">hlavní Lodí</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">hławnj Lodj </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><cit type="translation" xml:lang="la">
+                            <quote>prætoria navis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Haupt-Schiff</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">adventní čas</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">adwentnj čas </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><cit type="translation" xml:lang="la">
+                            <quote>tempus adventûs</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>die Adwent-zeit</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aetna</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aetna </orig>
+                                </choice></orth></form><gloss xml:lang="cs"><choice>
+                                <reg xml:lang="cs-x-transcr">Hora v Sycilí ustavičně hořící</reg>
+                                <orig xml:lang="cs-x-translit" xml:space="preserve">Hora w Sycylyj vſtawičně hořjcý </orig>
+                            </choice></gloss><lbl xml:space="preserve">/ </lbl><gloss xml:lang="cs"><choice>
+                                <reg xml:lang="cs-x-transcr">(praví se býti Komín Pekla)</reg>
+                                <orig xml:lang="cs-x-translit" xml:space="preserve">(prawj ſe býti Komjn Pekla) </orig>
+                            </choice></gloss><cit type="translation" xml:lang="la">
+                            <quote>ætna</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>mons Siciliæ</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">aetna </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>Berg in Sicilien</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aegypské moře</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aegypſké moře </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">n. 2. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">dělí Europu od Azie</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">dělj Europu od Azye </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>ægæum mare</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>aegeiſch meer</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">agaryk</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">agaryk </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>agaricum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>garichum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Lerchen-Schwamm</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">agat</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">agat </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">černý Kámen</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">černý Kámen </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>achates</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">achatſtein </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">agrest</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">agreſt </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">nezralý Vinný Hrozen</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">nezralý Winný Hrozen </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. </iType><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(Hrozna)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(Hrozna) </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>uvæ immaturæ</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>agrestes</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>unzeitige Trauben</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">akademie</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">akademye </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>academia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>lycea</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>athænea</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>hohe Schuel</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">akant</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">akant </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Medvědí paznecht vlaský</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Medwědj paznecht wlaſký </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>acanthus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>branca urſina</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>welſch Beeren-Klaü</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aksamitový</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">akſamitowý </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">á</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">á </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">é</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">é </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>holoſericus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ſammetener </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. </iType><cit type="abbreviated" xml:lang="de">
+                            <quote xml:space="preserve">e </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. </iType><cit type="abbreviated" xml:lang="de">
+                            <quote>es</quote>
+                        </cit><lbl xml:space="preserve">. </lbl><iType>n.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">akštejn</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">akſſteyn </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Mořská Gumma</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Mořſká Gumma </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>succinum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>carabe</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>electrum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">agſtein </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">alabastr</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alabaſtr </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">alabastrový Kámen</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alabaſtrowý Kámen </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>alabaſtrydes</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Alabaſtr-Stein</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">alabastrová Nádoba</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alabaſtrowá Nádoba </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><cit type="translation" xml:lang="la">
+                            <quote>albaſtrum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Lädlein </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><iType>n.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aloun</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alaun </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">kamenec</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">kamenec </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(kamence)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(kamence) </orig>
+                                </choice></orth></form><iType xml:space="preserve">m. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ledek</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ledek </orig>
+                                </choice></orth></form><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(ledka)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(ledka) </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>alumen</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Alaun </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">alba</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alba </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><cit type="translation" xml:lang="la">
+                            <quote>caliſiris</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>calasſis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><lbl xml:lang="la" xml:space="preserve">vulgò </lbl><cit type="translation" xml:lang="la">
+                            <quote>album</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>alb</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><pb n="2" rend="space" facs="VusSlov_2.jpg"/><cb n="a" rend="space" /><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ale</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ale </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv. </iType><cit type="translation" xml:lang="la">
+                            <quote>sed</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>verùm</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>at</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>aſt</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>porro</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>autem</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">aber </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>ſonder</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ale snad</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ale ſnad </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">fors </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">vel </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote>fortaſſis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>fortasse</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>villeicht</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ale však</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ale wſſak </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>attamen</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>verumtamen</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">aber doch </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>jedoch</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aloe</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aloe </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">n. 2. </iType><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">bylina hořká</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">bylina hořka </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>semper vivum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>marinum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>aloë</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">aloe </quote>
+                        </cit><iType>f.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">almara</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">almara </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><gloss xml:lang="cs"><choice>
+                                <reg xml:lang="cs-x-transcr">(neb lépe řícti počesku)</reg>
+                                <orig xml:lang="cs-x-translit" xml:space="preserve">(neb lépe řjcti počeſku) </orig>
+                            </choice></gloss><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">police zamknutá</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">police zamknutá </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>repoſitorium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>forulum armarium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">almer-kaſten </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ſchräncke </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>behalter</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">almužna</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">almužna </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><cit type="translation" xml:lang="la">
+                            <quote>eleemoſina</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>ſtips collatitia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">allmoſen </quote>
+                        </cit><iType>f.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">almužník</reg>
+                                    <orig xml:lang="cs-x-translit">almužnjk</orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. </iType><cit type="translation" xml:lang="la">
+                            <quote>elemoſinarius</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><iType xml:space="preserve">m. </iType><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">allmoſengeber </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">alpes</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">alpes </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">vysoké Hory vlaské</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">wyſoké Hory wlaſké </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">sněžné Hory</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ſněžné Hory </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>alpes</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">alpen-ſchnee-gebirg </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>ſo Italiam von Franckreich und den Schweiland abſonderet</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">altán</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">altán </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">obzvláštní místo v Domě k procházení neb vyhlídnutí</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">obzwláſſtnj mjſto w Domě k procházenj neb wyhljdnutj </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>pergula singularis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>abſonderliches Laubwerk</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ambra</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ambra </orig>
+                                </choice></orth></form><iType xml:space="preserve">f. 3. </iType><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">pížmo mořské</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">pjžmo mořſké </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>ambarum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ambra </quote>
+                        </cit><iType>f.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ambrožka</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ambrožka </orig>
+                                </choice></orth></form><iType xml:space="preserve">f. 3. </iType><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">světlík</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ſwětljk </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>herba ocularis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>euphragia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>opthalmica</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>augen-troſt</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ambit</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ambyt </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>ambitus templi</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Creützgang</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ametyst</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ametyſt </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>amethystus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">amethyſt </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Anjel</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Angeł </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Anděl dobrý</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Anděł dobrý </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>Angelus bonus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>ein guter Engel</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Anděl zlý</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Anděł zlý </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>malus spiritus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>diabolus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>ein bößer Engel</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">andělský</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">andělſký </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">á</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">á </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">é</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">é </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>angelicus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>engliſcher</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">andro</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">andro </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">n. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>andrus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>Insula una Cycladum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">andro </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>ein Inſel</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aneb</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aneb </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">neb</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">neb </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">buď</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">buď </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">buďto</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">buďto </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">con: </iType><cit type="translation" xml:lang="la">
+                            <quote>vel</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>aut</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>ſive</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>seu</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">oder </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>entweder</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">angelika</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">angelika </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><cit type="translation" xml:lang="la">
+                            <quote>angelica</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>radix S. Spirìtus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>panaces angelicum heracleum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">engelwurtzel </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">angelick </quote>
+                        </cit><iType>f.</iType><note n="2"><p xml:space="preserve"> tisk chybně: <sic>,</sic></p></note></entryFree>
+                    <entryFree><cb n="b" rend="space" /><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">anjelský traňk</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">angelſký traňk </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><cit type="translation" xml:lang="la">
+                            <quote>aliſma</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Engel- </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">oder </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Frauen-Kraut </quote>
+                        </cit><iType>n.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">anglická</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">anglická </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Englická Zem</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Englická Zem </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Země</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Země </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>anglia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>britannia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Engelland </quote>
+                        </cit><iType>n.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">angličané</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">angličané </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Engellendrové</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Engellendrowé </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">num: p. m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>angli</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>britanni</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Engelländer</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">angurie</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">angurye </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>citrullus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">citrul </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">oder </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote>angurien</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ani</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ani </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aniž</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aniž </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>nec</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>neque</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>weder</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">aniž však</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">aniž wſſak </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>attamen</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>nichtsdeſtoweniger</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">ano</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ano </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">jistě</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">giſtě </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">zajisto</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">zagiſto </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>ità</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>utìque</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>certò</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>hercle</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ja </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">freylich </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>warlich</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">anobrž</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">anobrž </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">nýbrž</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">nýbrž </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>imò</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>quinimo</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>ſondern</quote>
+                        </cit><lbl>/</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">antimonium</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">antymonyum </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">n. </iType><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">ſtibium </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">vel </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote>antimonium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Spiesglas</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">anyz</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">anyz </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 5. </iType><cit type="translation" xml:lang="la">
+                            <quote>aniſum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">vel </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote>anesum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>anis</quote>
+                        </cit><lbl xml:space="preserve">. </lbl><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">anyz štěničný</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">anyz ſſtěničný </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>coriandrum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>anethum cimicum</quote>
+                        </cit><note n="3"><p> tištěno se zkratkou</p></note><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>cimicarium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">wantzendill </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>coliander</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Antykryst</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Antykryſt </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>Antichristus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Andchriſt </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">wiederchriſt </quote>
+                        </cit><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">apatyka</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">apatyka </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 3. </iType><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">lékářský krám</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">lékářſký krám </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><lbl xml:lang="cs-x-translit" xml:space="preserve">aneb </lbl><gloss xml:lang="cs"><choice>
+                                <reg xml:lang="cs-x-transcr">(jak říkáváme)</reg>
+                                <orig xml:lang="cs-x-translit" xml:space="preserve">(gak řjkáwáme) </orig>
+                            </choice></gloss><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">latinská kuchyně</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">latinſká kuchyně </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. </iType><cit type="translation" xml:lang="la">
+                            <quote>Pharmacopæa</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">Apatecken </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><iType>f.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Apatekář</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Apatekář </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Kořenář</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Kořenář </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>Aromatarius</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>pharmacopola</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote>medicamentarius</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Apotecker</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">apík</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">apjk </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">miřík</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">mjřik </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>apium</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">eppich </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote>(ein Kraut</quote>
+                        </cit><lbl>.</lbl><cit type="translation" xml:lang="de">
+                            <quote>)</quote>
+                        </cit></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">apích veliký</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">apjch weliký </orig>
+                                </choice></orth></form><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">libeček</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">libeček </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. </iType><form type="inflected"><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">(libečka)</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">(libečka) </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>liguſtum verum</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">liebſtöckl </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">oder </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote>ligurienkraut</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Apoštol</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Apoſſtoł </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">vyslaný</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">wyſláný </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>Apostolus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="la">
+                            <quote xml:space="preserve">latinè </quote>
+                        </cit><cit type="translation" xml:lang="la">
+                            <quote>legatus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Apoſtel</quote>
+                        </cit><lbl xml:space="preserve">. </lbl><iType>m.</iType></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">apoštolský</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">apoſſtolſký </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">á</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">á </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><form norm=""><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">é</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">é </orig>
+                                </choice></orth></form><cit type="translation" xml:lang="la">
+                            <quote>apoſtolicus</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>apoſtoliſch</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">arábská Země</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">arábſká Země </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">f. 2. </iType><cit type="translation" xml:lang="la">
+                            <quote>Arabia</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Landſchafft Arabien</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">archa</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">archa </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 3. </iType><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">skříně</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ſkřjně </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>arca</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>ein kiſt oder</quote>
+                        </cit><note n="4"><p> tištěno se zkratkou</p></note><cit type="translation" xml:lang="de">
+                            <quote> trog</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">archa umluvy</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">archa vmluwy </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><lbl xml:lang="cs-x-translit" xml:space="preserve">neb </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">skříně a truhla věcí svatých tu skrytých</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">ſkjně a truhla wěcý ſwatých tu ſkrytých </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="la">
+                            <quote>arca fæderis</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">ein kiſt </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">oder </quote>
+                        </cit><cit type="translation" xml:lang="de">
+                            <quote>trog heiliger Sachen</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">Archanjel</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">Arch-Angeł </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">m. 1. </iType><cit type="translation" xml:lang="la">
+                            <quote>Arch-Angelus</quote>
+                        </cit><note n="5"><p xml:space="preserve"> tisk chybně: <sic xml:lang="la">Arch-Angel</sic></p></note><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote>Ertz-Engel</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                    <entryFree type="xref"><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">archangelika</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">archangelika </orig>
+                                </choice></orth></form><lbl xml:lang="la" type="ref" xml:space="preserve">vide </lbl><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">angelika</reg>
+                                    <orig xml:lang="cs-x-translit">angelika</orig>
+                                </choice></orth></form><lbl>.</lbl></entryFree>
+                    <entryFree><form><orth xml:lang="cs"><choice>
+                                    <reg xml:lang="cs-x-transcr">arci</reg>
+                                    <orig xml:lang="cs-x-translit" xml:space="preserve">arcy </orig>
+                                </choice></orth></form><lbl xml:space="preserve">/ </lbl><iType xml:space="preserve">adv: </iType><cit type="translation" xml:lang="la">
+                            <quote>sanè</quote>
+                        </cit><lbl xml:space="preserve">, </lbl><cit type="translation" xml:lang="de">
+                            <quote xml:space="preserve">traun </quote>
+                        </cit><lbl xml:space="preserve">/ </lbl><cit type="translation" xml:lang="de">
+                            <quote>freylich</quote>
+                        </cit><lbl>.</lbl></entryFree>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
