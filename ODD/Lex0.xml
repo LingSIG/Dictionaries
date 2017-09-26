@@ -153,7 +153,7 @@
       </div>
       <div>
         <head>Formal declaration</head>
-        <schemaSpec ident="tei_bare" xml:lang="en">
+        <schemaSpec ident="Lex0" xml:lang="en">
           <moduleRef key="core" include="p list item label head author title"/>
           <moduleRef key="tei"/>
           <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
