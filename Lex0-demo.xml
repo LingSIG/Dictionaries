@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Lex0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="Lex0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Demonstration of the TEI Lex0 customization</title>
+        <author>Many authors</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>TEI Guidelines licensing scheme.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Created in electronic form.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <entry xml:lang="en" xml:id="on1">
+          <form type="lemma"><orth>on</orth></form>
+          <gramGrp>
+            <gram type="pos">prep</gram>
+          </gramGrp>
+        </entry>
+
+        <entry>
+          <form type="lemma"><orth>go</orth></form>
+          <form type="inflected">
+            <orth>went</orth>
+            <gramGrp><gram type="tense">past</gram></gramGrp>
+          </form>
+        </entry>
+
+        <entry xml:id="perder" xml:lang="es">
+          <form type="lemma">
+            <orth>perder</orth>
+          </form>
+          <gramGrp><gram type="pos">verb</gram></gramGrp>
+          <form type="paradigm" subtype="present">
+            <form type="inflected">
+              <orth>pierdo</orth>
+              <gramGrp>
+                <gram type="person">1</gram>
+                <gram type="number">sg</gram>
+                <gram type="mood">indicative</gram>
+                <gram type="voice">active</gram>
+              </gramGrp>
+            </form>
+            <!-- other inflected forms (of present indicative) here -->
+            <gramGrp><gram type="tense">present</gram></gramGrp>
+          </form>
+          <form type="paradigm" subtype="preterite">
+            <form type="inflected">
+              <orth>perdí</orth>
+              <gramGrp>
+                <gram type="person">1</gram>
+                <gram type="number">sg</gram>
+                <gram type="mood">indicative</gram>
+                <gram type="voice">active</gram>
+              </gramGrp>
+            </form>
+            <gramGrp><gram type="tense">preterite</gram></gramGrp>
+          </form>
+        </entry>
+
+        <entry xml:id="Flussschifffahrt" xml:lang="de" type="compound">
+          <form type="lemma">
+            <orth>Flussschifffahrt</orth>
+            <form type="variant">
+              <orth>Fluss-Schifffahrt</orth>
+            </form>
+            <form type="variant">
+              <orth notAfter="1996">Flußschifffahrt</orth>
+              <usg type="time">Vor 1996 Rechtschreibung Reform</usg>
+            </form>
+          </form>
+          <gramGrp><gram type="pos">noun</gram></gramGrp>
+        </entry>
+        
+        <entry xml:id="courage-heb" xml:lang="heb">
+          <form type="lemma">
+            <form type="variant">
+              <orth notation="menukad">אֹמֶץ</orth> <!-- 'dotted' spelling -->
+            </form>
+            <form type="variant">
+              <orth notation="male">אומץ</orth> <!--full spelling -->
+            </form>
+            <pron notation="ipa">ˈomet͜s</pron>
+          </form>
+          <gramGrp><gram type="pos">noun</gram></gramGrp>
+          <sense> .... </sense>
+        </entry>
+
+        <entry xml:id="osama1">
+          <form type="lemma">
+            <pron notation="ipa">
+              <seg xml:id="ousma" corresp="#usma #osma">ow."sa.ma</seg>
+              bɪnˈlaːdn̹</pron>
+            <form type="variant">
+              <orth type="transliterated">
+                <seg xml:id="osma" corresp="#usma #ousma">Osama</seg> 
+                Bin Laden</orth>
+            </form>
+            <form type="variant">
+              <orth type="transliterated">
+                <seg xml:id="usma" corresp="#osma #ousma">Usama</seg>
+                Bin Laden</orth>
+            </form>
+          </form> 	
+        </entry>
+
+        <entry xml:id="caramel-en" xml:lang="en-US">
+          <form type="lemma">
+            <orth>caramel</orth>
+            <form type="variant">
+              <pron notation="ipa">'keɹə"mɛl</pron>
+            </form>
+            <form type="variant">
+              <pron notation="ipa">'kaɹmɫ̩</pron>
+            </form>
+          </form>
+          <gramGrp><gram type="pos">noun</gram></gramGrp>
+        </entry>
+
+        <entry xml:id="Oaxaca-MIX" xml:lang="mix" type="compound">
+          <form type="lemma">
+            <orth>Ñuu Ntua</orth>
+            <pron notation="ipa">ɲùùndùá</pron>
+            <form type="variant" xml:lang="mix-x-YCNY">
+              <orth>Ntua</orth>
+              <pron notation="ipa">ndùá</pron>
+              <usg type="geo">
+                <placeName>Yucanany</placeName>
+              </usg>
+            </form>
+          </form>
+          <gramGrp>
+            <gram type="pos">locationNoun</gram>
+          </gramGrp>
+        </entry>
+
+      </div>
+    </body>
+  </text>
+</TEI>
