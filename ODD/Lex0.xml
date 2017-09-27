@@ -166,14 +166,7 @@
           <moduleRef key="dictionaries" except="case colloc entryFree gen hom hyph iType mood number per pos subc superEntry tns"/>
           <!-- Schematron needed for various constraints -->
           
-          <moduleRef key="analysis" include="seg" /> <!-- for segmentation inside orth/pron -->
-          
-          
-          <!--<elementSpec ident="form" mode="change" module="dictionaries">
-            <attList>
-              <attDef ident="type" mode="delete"/>
-            </attList>
-          </elementSpec>-->
+          <moduleRef key="linking" include="seg" /> <!-- for segmentation inside orth/pron -->
           
           <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
             <constraintSpec scheme="schematron" ident="subtypeTyped" mode="add">
