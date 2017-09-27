@@ -168,12 +168,31 @@
           
           <moduleRef key="analysis" include="seg" /> <!-- for segmentation inside orth/pron -->
           
-          <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
-            <classes mode="change">
-              <memberOf key="att.typed" mode="add"/>
-            </classes>
+          
+          <!--<elementSpec ident="form" mode="change" module="dictionaries">
             <attList>
               <attDef ident="type" mode="delete"/>
+            </attList>
+          </elementSpec>-->
+          
+          <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
+            <constraintSpec scheme="schematron" ident="subtypeTyped" mode="add">
+              <constraint>
+                <sch:rule context="tei:*[@subtype]" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
+                  <sch:assert test="@type">The <sch:name/> element should not be categorized in detail with @subtype unless also categorized in general with @type</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="subtype" usage="opt" mode="add">
+                <desc versionDate="2005-10-10" xml:lang="en">provides a sub-categorization of the element, if needed</desc>
+                <datatype><dataRef key="teidata.enumerated"/></datatype>
+                <remarks versionDate="2013-01-13" xml:lang="en">
+                  <p>The <att>subtype</att> attribute may be used to provide any
+                    sub-classification for the element additional to that provided by its
+                    <att>type</att> attribute.</p>
+                </remarks>
+              </attDef>
             </attList>
           </elementSpec>
           
@@ -182,3 +201,4 @@
     </body>
   </text>
 </TEI>
+
