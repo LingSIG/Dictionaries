@@ -168,6 +168,8 @@
           
           <moduleRef key="linking" include="seg" /> <!-- for segmentation inside orth/pron -->
           
+          <moduleRef key="namesdates" include="placeName"/> <!-- for dialectal properties -->
+          
           <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
             <constraintSpec scheme="schematron" ident="subtypeTyped" mode="add">
               <constraint>
@@ -187,6 +189,13 @@
                 </remarks>
               </attDef>
             </attList>
+          </elementSpec>
+          
+          <elementSpec ident="orth" mode="change" module="dictionaries">
+            <classes mode="change">
+              <memberOf key="att.datable.w3c" mode="add"/> 
+              <memberOf key="att.notated" mode="add"/>
+            </classes>
           </elementSpec>
           
         </schemaSpec>
