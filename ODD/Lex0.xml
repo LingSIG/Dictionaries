@@ -168,6 +168,15 @@
           
           <moduleRef key="analysis" include="seg" /> <!-- for segmentation inside orth/pron -->
           
+          <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
+            <classes mode="change">
+              <memberOf key="att.typed" mode="add"/>
+            </classes>
+            <attList>
+              <attDef ident="type" mode="delete"/>
+            </attList>
+          </elementSpec>
+          
         </schemaSpec>
       </div>
     </body>
