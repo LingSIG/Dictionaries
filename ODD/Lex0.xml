@@ -161,7 +161,13 @@
           <specGrpRef target="#classmods"/>
           <specGrpRef target="#bodyfixes"/>
           <specGrpRef target="#hdrfixes"/>
+          
+          <!-- TEI Lex0 section begins here -->
           <moduleRef key="dictionaries" except="case colloc entryFree gen hom hyph iType mood number per pos subc superEntry tns"/>
+          <!-- Schematron needed for various constraints -->
+          
+          <moduleRef key="analysis" include="seg" /> <!-- for segmentation inside orth/pron -->
+          
         </schemaSpec>
       </div>
     </body>
