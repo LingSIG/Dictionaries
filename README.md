@@ -6,7 +6,7 @@ The "Dictionaries" project of TEI LingSIG is a spin-off of the joint ENeL/PARTHE
 
 ## Contents
 ### samples/
-This directory collects samples of dictionary entries. For digitised dictionaries, please consider attaching a scan of the entry in the printed version.
+This directory collects samples of dictionary entries. For digitised dictionaries, please consider attaching a scan of the entry in the printed version. Note that other interesting samples can be accessed at https://github.com/ParthenosWP4/standardsLibrary .
 
 ### tools/
 This directory holds tools for the transformation to/from Lex0, vis-à-vis the samples/ directory
