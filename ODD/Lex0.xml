@@ -9,11 +9,8 @@
         <editor xml:id="JB">Jack Bowers</editor>
         <editor xml:id="ET">Tomaž Erjavec</editor>
         <editor xml:id="LR">Laurent Romary</editor>
+        <editor xml:id="TT">Toma Tasovac</editor>
         <editor>Berlin TEI-Lex0 task force, to be named individually as we proceed</editor>
-        
-        <editor xml:id="sbauman.emt">Syd Bauman</editor>
-        <editor xml:id="LB">Lou Burnard</editor>
-        <editor xml:id="SR">Sebastian Rahtz</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>no official publisher atm</publisher>
@@ -25,22 +22,27 @@
         <p>Based on TEI Absolutely Bare derived from Roma. See the changelog.</p>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This is where TEI-Lex0 should be described.</p>
+        <p>One bibliographic reference that needs to be made is ISO 24611:2012 Language resource management -- Morpho-syntactic annotation framework (MAF), which supplies names for the grammatical categories.</p>
+      </projectDesc>
+    </encodingDesc>
     <revisionDesc>
-      <change when="2017-09-26" who="#PB">based on TEI Absolutely Bare, with thanks to all the co-authors of that customization (full credits and changelog available from Roma, TEI sources or the history of this document as preserved by git; thanks go to: Laurent, Lou, Sebastian and Syd). TEI Absolutely Bare was started on nitially created on <date when="2006-10-12T05:24:41">Thursday 12th October 2006</date> and has been improved over time but the above-mentioned lovely and dear individuals. It has been converted from Public Domain to the TEI Guidelines licensing scheme on <date when="2017-09-26T20:45:11">Tuesday 26th September 2017</date>.</change>
-      <change when="2011-03-26" who="#SR">rewrite as new-style ODD </change>
-      <change when="2007-08-12" who="#LB">Removed further elements added since this ODD was first
-        created </change>
-      <change when="2007-04-09" who="#LB">Added prose and reorganized structure to make it more
-        document-like; changed deletion of attribute decls into deletion of att.declaring class; add
-        deletes for elements email and floatingText added to P5 since this ODD was first created;
-        considered but did not implement removal of all irrelevant datatype specs...</change>
-      <change when="2006-10-14" who="#sbauman.emt"> Made valid: <list>
-          <item>removed empty <att>prefix</att> attribute</item>
-          <item>added required <att>type</att> attribute to <gi>classSpec</gi>s</item>
-        </list><!--. <note>Sebastian had also made the above changes.</note> -->Also removed
-        extraneous <gi>altIdent</gi> elements, improved <gi>sourceDesc</gi>, changed the
-          <att>ident</att> of <gi>schemaSpec</gi> to match the filename, and added this revision
-        description. </change>
+      <change when="2017-10-28" who="#PB">Added <gi>encodingDesc</gi> and <gi>projectDesc</gi> because this is probably always useful.</change>
+      <change when="2017-10-04" who="#PB">Removed the public domain residue (but made sure to keep a
+        trace in this changelog and the full history in the git log, as a tribute to our
+        colleagues); given the successful resolution of <ref
+          target="https://github.com/TEIC/TEI/issues/1688">ticket #1688</ref>, customization of
+          <gi>form</gi> removed (it is now a member of att.typed).</change>
+      <change when="2017-09-26" who="#PB">based on TEI Absolutely Bare, with thanks to all the
+        co-authors of that customization (full credits and changelog available from Roma, TEI
+        sources or the history of this document as preserved by git; thanks go to: Laurent, Lou,
+        Sebastian and Syd). TEI Absolutely Bare was initially created on <date
+          when="2006-10-12T05:24:41">Thursday 12th October 2006</date> and has been improved over
+        time but the above-mentioned lovely and dear individuals. It has been converted from Public
+        Domain to the TEI Guidelines licensing scheme on <date when="2017-09-26T20:45:11">Tuesday
+          26th September 2017</date>.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -49,11 +51,8 @@
     </front>-->
     <body>
       <p>This customization expresses the requirements defined within initiative known as TEI Lex0, initiated in December 2016 in Berlin by a group of concerned individuals gathered together by the magnetic power of Laurent Romary and Toma Tasovac. More historical and technical details will surely follow at some point.</p>
-      
-      
-      
       <p>The text below shall be adjusted in due time. There is nothing normative about it, for now (as of September 2017).</p>
-      
+
       <div>
         <head>Purpose</head>
         <p>To be added. Note that this customisation has been created as an extension of the work of the group focusing on the encoding of forms. It is expected and hoped that the other groups of the TEI Lex0 Task Force will join in.</p>
@@ -64,8 +63,7 @@
         <p><gi>subc</gi> (?) and <gi>colloc</gi> are likewise missing, and will be replaced by <gi>gram</gi> (?) and <gi>cit</gi>, respectively</p>
         <p>We need some Schematron here to implement the decisions of the Task Force.</p>
       </div>
-      
-      
+
       <div>
         <head>Basic text structure</head>
         <p>In this very simple schema, a document may contain <gi>front</gi>, <gi>body</gi> and
@@ -121,6 +119,7 @@
             </elementSpec>
           </specGrp>
         </p>
+        <p>TEI-Lex0 adds <gi>encodingDesc</gi> as well, for the purpuse of describing the given project.</p>
       </div>
       <div>
         <head>Class modifications</head>
@@ -156,7 +155,7 @@
         <schemaSpec ident="Lex0" xml:lang="en">
           <moduleRef key="core" include="p list item label head author title"/>
           <moduleRef key="tei"/>
-          <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc"/>
+          <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc encodingDesc projectDesc"/>
           <moduleRef key="textstructure" include="TEI text body div front back"/>
           <specGrpRef target="#classmods"/>
           <specGrpRef target="#bodyfixes"/>
@@ -165,39 +164,45 @@
           <!-- TEI Lex0 section begins here -->
           <moduleRef key="dictionaries" except="case colloc entryFree gen hom hyph iType mood number per pos subc superEntry tns"/>
           <!-- Schematron needed for various constraints -->
-          
+
           <moduleRef key="linking" include="seg" /> <!-- for segmentation inside orth/pron -->
-          
+
           <moduleRef key="namesdates" include="placeName"/> <!-- for dialectal properties -->
-          
-          <elementSpec ident="form" mode="change" module="dictionaries"> <!-- enable @subtype -->
+
+<!-- the modification of <form> will not be needed after the next version of the Guidelines is published (as of Oct. 2017)  -->
+          <elementSpec ident="form" mode="change" module="dictionaries">
+            <!-- enable @subtype -->
             <constraintSpec scheme="schematron" ident="subtypeTyped" mode="add">
               <constraint>
                 <sch:rule context="tei:*[@subtype]" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
-                  <sch:assert test="@type">The <sch:name/> element should not be categorized in detail with @subtype unless also categorized in general with @type</sch:assert>
+                  <sch:assert test="@type">The <sch:name/> element should not be categorized in
+                    detail with @subtype unless also categorized in general with @type</sch:assert>
                 </sch:rule>
               </constraint>
             </constraintSpec>
             <attList>
               <attDef ident="subtype" usage="opt" mode="add">
-                <desc versionDate="2005-10-10" xml:lang="en">provides a sub-categorization of the element, if needed</desc>
-                <datatype><dataRef key="teidata.enumerated"/></datatype>
+                <desc versionDate="2005-10-10" xml:lang="en">provides a sub-categorization of the
+                  element, if needed</desc>
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
                 <remarks versionDate="2013-01-13" xml:lang="en">
-                  <p>The <att>subtype</att> attribute may be used to provide any
-                    sub-classification for the element additional to that provided by its
-                    <att>type</att> attribute.</p>
+                  <p>The <att>subtype</att> attribute may be used to provide any sub-classification
+                    for the element additional to that provided by its <att>type</att>
+                    attribute.</p>
                 </remarks>
               </attDef>
             </attList>
           </elementSpec>
-          
+
           <elementSpec ident="orth" mode="change" module="dictionaries">
             <classes mode="change">
               <memberOf key="att.datable.w3c" mode="add"/> 
               <memberOf key="att.notated" mode="add"/>
             </classes>
           </elementSpec>
-          
+
         </schemaSpec>
       </div>
     </body>
