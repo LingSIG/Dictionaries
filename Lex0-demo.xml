@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="Lex0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="Lex0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="lexicon">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,11 +18,11 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div n="form">
         <entry xml:lang="en" xml:id="on1">
           <form type="lemma"><orth>on</orth></form>
           <gramGrp>
-            <gram type="pos">prep</gram>
+            <gram type="partOfSpeech">prep</gram>
           </gramGrp>
         </entry>
 
@@ -30,7 +30,7 @@
           <form type="lemma"><orth>go</orth></form>
           <form type="inflected">
             <orth>went</orth>
-            <gramGrp><gram type="tense">past</gram></gramGrp>
+            <gramGrp><gram type="grammaticalTense">past</gram></gramGrp>
           </form>
         </entry>
 
@@ -38,31 +38,31 @@
           <form type="lemma">
             <orth>perder</orth>
           </form>
-          <gramGrp><gram type="pos">verb</gram></gramGrp>
+          <gramGrp><gram type="partOfSpeech">verb</gram></gramGrp>
           <form type="paradigm" subtype="present">
             <form type="inflected">
               <orth>pierdo</orth>
               <gramGrp>
                 <gram type="person">1</gram>
-                <gram type="number">sg</gram>
+                <gram type="grammaticalNumber">sg</gram>
                 <gram type="mood">indicative</gram>
                 <gram type="voice">active</gram>
               </gramGrp>
             </form>
             <!-- other inflected forms (of present indicative) here -->
-            <gramGrp><gram type="tense">present</gram></gramGrp>
+            <gramGrp><gram type="grammaticalTense">present</gram></gramGrp>
           </form>
           <form type="paradigm" subtype="preterite">
             <form type="inflected">
               <orth>perdí</orth>
               <gramGrp>
                 <gram type="person">1</gram>
-                <gram type="number">sg</gram>
+                <gram type="grammaticalNumber">sg</gram>
                 <gram type="mood">indicative</gram>
                 <gram type="voice">active</gram>
               </gramGrp>
             </form>
-            <gramGrp><gram type="tense">preterite</gram></gramGrp>
+            <gramGrp><gram type="grammaticalTense">preterite</gram></gramGrp>
           </form>
         </entry>
 
@@ -77,7 +77,7 @@
               <usg type="time">Vor 1996 Rechtschreibung Reform</usg>
             </form>
           </form>
-          <gramGrp><gram type="pos">noun</gram></gramGrp>
+          <gramGrp><gram type="partOfSpeech">noun</gram></gramGrp>
         </entry>
         
         <entry xml:id="courage-heb" xml:lang="heb">
@@ -90,7 +90,7 @@
             </form>
             <pron notation="ipa">ˈomet͜s</pron>
           </form>
-          <gramGrp><gram type="pos">noun</gram></gramGrp>
+          <gramGrp><gram type="partOfSpeech">noun</gram></gramGrp>
           <sense> .... </sense>
         </entry>
 
@@ -122,7 +122,7 @@
               <pron notation="ipa">'kaɹmɫ̩</pron>
             </form>
           </form>
-          <gramGrp><gram type="pos">noun</gram></gramGrp>
+          <gramGrp><gram type="partOfSpeech">noun</gram></gramGrp>
         </entry>
 
         <entry xml:id="Oaxaca-MIX" xml:lang="mix" type="compound">
@@ -138,10 +138,42 @@
             </form>
           </form>
           <gramGrp>
-            <gram type="pos">locationNoun</gram>
+            <gram type="partOfSpeech">locationNoun</gram>
           </gramGrp>
         </entry>
 
+      </div>
+      <div n="entry">
+        
+        <!-- dictScrap is overkill and arguably abused, given its semantics -->
+        <entry xml:id="VSK.SR.дангубица-3" sortKey="дангубица">
+          <form type="lemma">
+            <orth norm="дангубица">да̀нгубица</orth>
+          </form><dictScrap>,</dictScrap> <gramGrp>
+            <gram type="partOfSpeech" norm="feminine">f.</gram>
+          </gramGrp>
+        </entry>
+
+        <!-- a comma by itself won't validate -->
+        <entry xml:id="VSK.SR.дангубица" sortKey="дангубица">
+          <form type="lemma">
+            <orth norm="дангубица">да̀нгубица</orth>
+          </form>, <gramGrp>
+            <gram type="partOfSpeech" norm="feminine">f.</gram>
+          </gramGrp>
+        </entry>
+        
+        <!-- this is the ideal solution, but currently it doesn't validate -->
+        <entry xml:id="VSK.SR.дангубица-2" sortKey="дангубица">
+          <form type="lemma">
+            <orth norm="дангубица">да̀нгубица</orth>
+          </form><pc>,</pc> <gramGrp>
+            <gram type="partOfSpeech" norm="feminine">f.</gram>
+          </gramGrp>
+        </entry>
+        
+
+        
       </div>
     </body>
   </text>
