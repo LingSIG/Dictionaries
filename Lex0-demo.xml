@@ -155,13 +155,13 @@
         </entry>
 
         <!-- a comma by itself won't validate -->
-        <entry xml:id="VSK.SR.дангубица" sortKey="дангубица">
+<!--        <entry xml:id="VSK.SR.дангубица" sortKey="дангубица">
           <form type="lemma">
             <orth norm="дангубица">да̀нгубица</orth>
           </form>, <gramGrp>
             <gram type="partOfSpeech" norm="feminine">f.</gram>
           </gramGrp>
-        </entry>
+        </entry>-->
         
         <!-- this is the ideal solution, but currently it doesn't validate -->
         <entry xml:id="VSK.SR.дангубица-2" sortKey="дангубица">
