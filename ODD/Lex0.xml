@@ -211,7 +211,7 @@
                     <gloss versionDate="2007-05-04" xml:lang="es">parte del discurso (cualquiera de las categorías
                       de palabras que se puede encontrar en una lengua dada, basándose en la forma,
                       significado, o combinación de rasgos, p.ej. nombre, verbo, adjetivo, etc.)</gloss>
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Term used to describe how a particular word is used in a sentence. | Any of the word classes to which a word may be assigned in a given language, based
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Term used to describe how a particular word is used in a sentence. | Any of the word classes to which a word may be assigned in a given language, based
                       on form, meaning, or a combination of features, e.g. noun, verb, adjective, etc.</desc>
                     <desc versionDate="2007-12-20" xml:lang="ko">형식, 의미, 또는 자질 결합에 근거하여 단어가 제시된 언어에서 할당될 수 있는 단어
                       부류, 예, 명사, 동사, 형용사 등</desc>
@@ -240,7 +240,7 @@
                       pronombres, y a menudo para modificadores que los acompañan, aparecen agrupados y
                       flexionan o cambian de forma del mismo modo, y permiten controlar las relaciones
                       sintácticas)</gloss>
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Category based on (depending on languages) the natural distinction between sex [or on] formal criteria. || In morphosyntactic terms: formal classification by which nouns and pronouns, and often accompanying modifiers,
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Category based on (depending on languages) the natural distinction between sex [or on] formal criteria. || In morphosyntactic terms: formal classification by which nouns and pronouns, and often accompanying modifiers,
                       are grouped and inflected, or changed in form, so as to control certain syntactic
                       relationships</desc>
                     <desc versionDate="2007-12-20" xml:lang="ko">특정 통사적 관련성을 통제하기 위해, 명사와 대명사, 그리고 종종 동반 수식어의 그룹을
@@ -266,7 +266,7 @@
                       etc.)</gloss>
                     <gloss versionDate="2007-11-06" xml:lang="it">numero</gloss>
                     <gloss versionDate="2007-05-04" xml:lang="es">número (p.ej. individual, plural, dual, ...)</gloss>
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Grammatical category for
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Grammatical category for
                       the variation in form of nouns, pronouns, and any words agreeing with them,
                       depending on how many persons or things are referred to. Conceptual domain:
                       collective, dual, paucal, plural, quadrial, singular, trial.</desc>
@@ -280,7 +280,7 @@
                       ecc.)</desc>
                   </valItem>
                   <valItem ident="animacy">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) The characteristic of a word indicating that in a given discourse
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] The characteristic of a word indicating that in a given discourse
                       community, its referent is considered to be alive or to possess a quality of
                       volition or consciousness. Conceptual domain: animate, inanimate, otherAnimacy.</desc>
                   </valItem>
@@ -291,48 +291,48 @@
                       taxonomy).</desc>
                   </valItem>
                   <valItem ident="case">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF). In a given sentence, the way in which the form of a word
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF]. In a given sentence, the way in which the form of a word
                       changes in order to express a relationship with one or several words of the
                       sentence. The morphological modification may apply to nouns, pronouns noun
                       phrase constituents, such as adjectives or numerals.</desc>
                   </valItem>
                   <valItem ident="grammaticalTense">
                     <gloss versionDate="2017-10-28" xml:lang="en">tense</gloss>
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to the way the grammar marks the time at
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property referring to the way the grammar marks the time at
                       which the action denoted by the verb took place.</desc>
                   </valItem>
                   <valItem ident="aspect">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Category associated to verbs and referring to the way the
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Category associated to verbs and referring to the way the
                       grammar marks the duration or type of temporal activity. Conceptual domain:
                       cessative, imperfective, inchoative, perfective, unaccomplished.| Also progressive, etc.</desc>
                   </valItem>
                   <valItem ident="person">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Indication of grammatical person (1st, 2nd, 3rd, etc.)
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Indication of grammatical person (1st, 2nd, 3rd, etc.)
                       associated with a given inflected form. Conceptual domain: firstPerson,
                       secondPerson, thirdPerson.</desc>
                   </valItem>
                   <valItem ident="voice">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) The way sentences may alter the relationship between the subject
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] The way sentences may alter the relationship between the subject
                       and object of a verb, without changing the meaning of the sentence. Conceptual
                       domain: activeVoice, middleVoice, passiveVoice</desc>
                   </valItem>
                   <valItem ident="definiteness">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property about the possibility to identify an entity.</desc>
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property about the possibility to identify an entity.</desc>
                   </valItem>
                   <valItem ident="degree">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property concerning comparison. Conceptual domain: comparative,
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property concerning comparison. Conceptual domain: comparative,
                       positive, superlative, positive, comparative, superlative.</desc>
                   </valItem>
                   <valItem ident="transitivity">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property concerning comparison. Conceptual domain: comparative,
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property concerning comparison. Conceptual domain: comparative,
                       positive, superlative, positive, comparative, superlative.</desc>
                   </valItem>
                   <valItem ident="finiteness">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to finite and non-finite status of a verbal
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property referring to finite and non-finite status of a verbal
                       form. Conceptual domain: finite, nonFinite.</desc>
                   </valItem>
                   <valItem ident="modality">
-                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to finite and non-finite status of a verbal
+                    <desc versionDate="2017-10-28" xml:lang="en">[ISO MAF] Property referring to finite and non-finite status of a verbal
                       form. Conceptual domain: finite, nonFinite.</desc>
                   </valItem>
                 </valList>
