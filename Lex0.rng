@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2017-10-28T21:36:01Z. .
+Schema generated from ODD source 2017-10-29T21:11:44Z. .
 TEI Edition: Version 3.2.0. Last updated on
 	10th July 2017, revision 0fcf651
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.2.0/
@@ -2820,15 +2820,45 @@ Suggested values include: 1] simple; 2] lemma; 3] variant; 4] compound; 5] deriv
          <ref name="macro.paraContent"/>
          <ref name="att.global.attributes"/>
          <ref name="att.lexicographic.attributes"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">classifies the grammatical information given according to some convenient typology—in the case of terminological information, preferably the dictionary of data element types specified in ISO 12620.
-Sample values include: 1] pos(part of speech) ; 2] gen(gender) ; 3] num(number) ; 4] animate; 5] proper</a:documentation>
+         <attribute name="type">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">classifies the grammatical information given according to some convenient typology—in the case of terminological information, preferably the dictionary of data element types specified in ISO 12620.
+Suggested values include: 1] partOfSpeech(part of speech) ; 2] grammaticalGender(gender) ; 3] grammaticalNumber(number) ; 4] animacy; 5] grammaticalMood(mood) ; 6] case; 7] grammaticalTense(tense) ; 8] aspect; 9] person; 10] voice; 11] definiteness; 12] degree; 13] transitivity; 14] finiteness; 15] modality</a:documentation>
+            <choice>
+               <value>partOfSpeech</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(part of speech) (ISO MAF) Term used to describe how a particular word is used in a sentence. | Any of the word classes to which a word may be assigned in a given language, based on form, meaning, or a combination of features, e.g. noun, verb, adjective, etc.</a:documentation>
+               <value>grammaticalGender</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(gender) (ISO MAF) Category based on (depending on languages) the natural distinction between sex [or on] formal criteria. || In morphosyntactic terms: formal classification by which nouns and pronouns, and often accompanying modifiers, are grouped and inflected, or changed in form, so as to control certain syntactic relationships</a:documentation>
+               <value>grammaticalNumber</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(number) (ISO MAF) Grammatical category for the variation in form of nouns, pronouns, and any words agreeing with them, depending on how many persons or things are referred to. Conceptual domain: collective, dual, paucal, plural, quadrial, singular, trial.</a:documentation>
+               <value>animacy</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) The characteristic of a word indicating that in a given discourse community, its referent is considered to be alive or to possess a quality of volition or consciousness. Conceptual domain: animate, inanimate, otherAnimacy.</a:documentation>
+               <value>grammaticalMood</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(mood) The category of mood (indicative, imperative, subjunctive, conditional, etc., depending on the assumed taxonomy).</a:documentation>
+               <value>case</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF). In a given sentence, the way in which the form of a word changes in order to express a relationship with one or several words of the sentence. The morphological modification may apply to nouns, pronouns noun phrase constituents, such as adjectives or numerals.</a:documentation>
+               <value>grammaticalTense</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(tense) (ISO MAF) Property referring to the way the grammar marks the time at which the action denoted by the verb took place.</a:documentation>
+               <value>aspect</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Category associated to verbs and referring to the way the grammar marks the duration or type of temporal activity. Conceptual domain: cessative, imperfective, inchoative, perfective, unaccomplished.| Also progressive, etc.</a:documentation>
+               <value>person</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Indication of grammatical person (1st, 2nd, 3rd, etc.) associated with a given inflected form. Conceptual domain: firstPerson, secondPerson, thirdPerson.</a:documentation>
+               <value>voice</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) The way sentences may alter the relationship between the subject and object of a verb, without changing the meaning of the sentence. Conceptual domain: activeVoice, middleVoice, passiveVoice</a:documentation>
+               <value>definiteness</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Property about the possibility to identify an entity.</a:documentation>
+               <value>degree</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Property concerning comparison. Conceptual domain: comparative, positive, superlative, positive, comparative, superlative.</a:documentation>
+               <value>transitivity</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Property concerning comparison. Conceptual domain: comparative, positive, superlative, positive, comparative, superlative.</a:documentation>
+               <value>finiteness</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Property referring to finite and non-finite status of a verbal form. Conceptual domain: finite, nonFinite.</a:documentation>
+               <value>modality</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(ISO MAF) Property referring to finite and non-finite status of a verbal form. Conceptual domain: finite, nonFinite.</a:documentation>
                <data type="token">
                   <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
                </data>
-            </attribute>
-         </optional>
+            </choice>
+         </attribute>
          <empty/>
       </element>
    </define>

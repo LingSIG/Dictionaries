@@ -45,7 +45,7 @@
               <gramGrp>
                 <gram type="person">1</gram>
                 <gram type="grammaticalNumber">sg</gram>
-                <gram type="mood">indicative</gram>
+                <gram type="grammaticalMood">indicative</gram>
                 <gram type="voice">active</gram>
               </gramGrp>
             </form>
@@ -58,7 +58,7 @@
               <gramGrp>
                 <gram type="person">1</gram>
                 <gram type="grammaticalNumber">sg</gram>
-                <gram type="mood">indicative</gram>
+                <gram type="grammaticalMood">indicative</gram>
                 <gram type="voice">active</gram>
               </gramGrp>
             </form>

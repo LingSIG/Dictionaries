@@ -196,6 +196,150 @@
             </attList>
           </elementSpec>
 
+<!-- modify the @type on gram to be compatible with ISO MAF         -->
+          <elementSpec ident="gram" mode="change" module="dictionaries">
+            <attList>
+              <attDef ident="type" usage="req" mode="change">
+                <valList type="semi" mode="replace">
+                  <valItem ident="partOfSpeech">
+                    <gloss versionDate="2007-08-25" xml:lang="en">part of speech</gloss>
+                    <gloss versionDate="2007-12-20" xml:lang="ko">품사</gloss>
+                    <gloss versionDate="2007-06-12" xml:lang="fr">partie du discours (chacune des classes de mot
+                      auxquelles un mot peut appartenir dans une langue donnée, en fonction de la forme, du
+                      sens ou d'une combinaison de caractéristiques, par exemple nom, verbe, adjectif, etc.) </gloss>
+                    <gloss versionDate="2007-11-06" xml:lang="it">parte del discorso</gloss>
+                    <gloss versionDate="2007-05-04" xml:lang="es">parte del discurso (cualquiera de las categorías
+                      de palabras que se puede encontrar en una lengua dada, basándose en la forma,
+                      significado, o combinación de rasgos, p.ej. nombre, verbo, adjetivo, etc.)</gloss>
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Term used to describe how a particular word is used in a sentence. | Any of the word classes to which a word may be assigned in a given language, based
+                      on form, meaning, or a combination of features, e.g. noun, verb, adjective, etc.</desc>
+                    <desc versionDate="2007-12-20" xml:lang="ko">형식, 의미, 또는 자질 결합에 근거하여 단어가 제시된 언어에서 할당될 수 있는 단어
+                      부류, 예, 명사, 동사, 형용사 등</desc>
+                    <desc versionDate="2007-05-02" xml:lang="zh-TW">詞性
+                      (在已知語言中的詞性分類，根據字詞的形式、意義或特性組合而有所不同。例如名詞、動詞、形容詞等。)</desc>
+                    <desc versionDate="2008-04-06" xml:lang="es">cualquier clase de palabras a las que se puede
+                      asignar una palabra en una lengua dada, basándose en la forma, significado, o una
+                      combinación de las características, p.ej. sustantivo, verbo, adjetivo, etc.</desc>
+                    <desc versionDate="2008-04-05" xml:lang="ja">当該語に関する分類．形，意味，素性の組み合わせなどによる． 例えば，名詞，動詞，形容詞など．</desc>
+                    <desc versionDate="2008-03-30" xml:lang="fr">toute catégorie grammaticale à laquelle un mot
+                      peut être assigné dans une langue donnée, qui repose sur la morphologie, la sémantique,
+                      ou une combinaison de mots du discours, par exemple le nom, le verbe, l'adjectif, etc.</desc>
+                    <desc versionDate="2007-01-21" xml:lang="it">parte del discorso (una qualsiasi delle classi a
+                      cui una parola può essere assegnata in una data lingua, basata sulla forma, il
+                      significato o una combinazione di tratti, ad esempio nome, verbo, aggettivo,
+                      ecc.)</desc>
+                  </valItem>
+                  <valItem ident="grammaticalGender">
+                    <gloss versionDate="2007-08-25" xml:lang="en">gender</gloss>
+                    <gloss versionDate="2007-12-20" xml:lang="ko">성</gloss>
+                    <gloss versionDate="2007-06-12" xml:lang="fr">genre (classification formelle selon laquelle
+                      les noms et pronoms et souvent les qualificatifs associés sont groupés et fléchis, ou
+                      prennent une autre forme afin d'exprimer certaines relations syntaxiques)</gloss>
+                    <gloss versionDate="2007-11-06" xml:lang="it">genere</gloss>
+                    <gloss versionDate="2007-05-04" xml:lang="es">género (clasificación formal para nombres y
+                      pronombres, y a menudo para modificadores que los acompañan, aparecen agrupados y
+                      flexionan o cambian de forma del mismo modo, y permiten controlar las relaciones
+                      sintácticas)</gloss>
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Category based on (depending on languages) the natural distinction between sex [or on] formal criteria. || In morphosyntactic terms: formal classification by which nouns and pronouns, and often accompanying modifiers,
+                      are grouped and inflected, or changed in form, so as to control certain syntactic
+                      relationships</desc>
+                    <desc versionDate="2007-12-20" xml:lang="ko">특정 통사적 관련성을 통제하기 위해, 명사와 대명사, 그리고 종종 동반 수식어의 그룹을
+                      나누는, 굴절 또는 형태 변화에 따른 형식적 분류</desc>
+                    <desc versionDate="2007-05-02" xml:lang="zh-TW">性別
+                      (名詞、代名詞、或伴隨的修飾詞透過這樣的規則系統在表現形式上被加以分組、或產生屈折變化，以展現特定的語法關係。)</desc>
+                    <desc versionDate="2008-04-06" xml:lang="es">clasificación formal para la cual los sustantivos
+                      y los pronombres, y a menudo sus modificantes, son agrupados y jerarquiados, o variados
+                      en la forma, para controlar enlaces sintácticos</desc>
+                    <desc versionDate="2008-04-05" xml:lang="ja">文法上の性．時に修飾詞を伴う名詞や代名詞がまとまり，屈折，す
+                      なわち語形変形が行われ，ある統語的関係が示される．</desc>
+                    <desc versionDate="2008-03-30" xml:lang="fr">classification formelle par lequel des noms et
+                      des pronoms souvent avec des modificateurs, est groupée et conjuguée, ou changée
+                      morphologiquement, afin de contrôler certaines relations syntaxiques</desc>
+                    <desc versionDate="2007-01-21" xml:lang="it">genere (classificazione formale secondo cui i
+                      nomi e i pronomi, e spesso i modificatori che li accompagnano, sono raggruppati e
+                      flessi, o cambiati di forma in modo da controllarne alcune relazioni sintattiche)</desc>
+                  </valItem>
+                  <valItem ident="grammaticalNumber">
+                    <gloss versionDate="2007-08-25" xml:lang="en">number</gloss>
+                    <gloss versionDate="2007-12-20" xml:lang="ko">수</gloss>
+                    <gloss versionDate="2007-06-12" xml:lang="fr">nombre (par exemple singulier, pluriel, duel,
+                      etc.)</gloss>
+                    <gloss versionDate="2007-11-06" xml:lang="it">numero</gloss>
+                    <gloss versionDate="2007-05-04" xml:lang="es">número (p.ej. individual, plural, dual, ...)</gloss>
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Grammatical category for
+                      the variation in form of nouns, pronouns, and any words agreeing with them,
+                      depending on how many persons or things are referred to. Conceptual domain:
+                      collective, dual, paucal, plural, quadrial, singular, trial.</desc>
+                    <desc versionDate="2007-12-20" xml:lang="ko">문법적 수. 예, 단수, 복수, 이중, …</desc>
+                    <desc versionDate="2007-05-02" xml:lang="zh-TW">單複數 (例如單數、複數、雙數詞等)</desc>
+                    <desc versionDate="2008-04-06" xml:lang="es">número gramatical, p.ej. singular, plural, dual,…</desc>
+                    <desc versionDate="2008-04-05" xml:lang="ja">文法上の数．単数，複数，双数など．</desc>
+                    <desc versionDate="2008-03-30" xml:lang="fr">nombre grammatical, par exemple singulier,
+                      pluriel, duel, …</desc>
+                    <desc versionDate="2007-01-21" xml:lang="it">numero (ad esempio singolare, plurale, duale,
+                      ecc.)</desc>
+                  </valItem>
+                  <valItem ident="animacy">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) The characteristic of a word indicating that in a given discourse
+                      community, its referent is considered to be alive or to possess a quality of
+                      volition or consciousness. Conceptual domain: animate, inanimate, otherAnimacy.</desc>
+                  </valItem>
+                  <valItem ident="grammaticalMood">
+                    <gloss versionDate="2017-10-28" xml:lang="en">mood</gloss>
+                    <desc versionDate="2017-10-28" xml:lang="en">The category of mood (indicative,
+                      imperative, subjunctive, conditional, etc., depending on the assumed
+                      taxonomy).</desc>
+                  </valItem>
+                  <valItem ident="case">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF). In a given sentence, the way in which the form of a word
+                      changes in order to express a relationship with one or several words of the
+                      sentence. The morphological modification may apply to nouns, pronouns noun
+                      phrase constituents, such as adjectives or numerals.</desc>
+                  </valItem>
+                  <valItem ident="grammaticalTense">
+                    <gloss versionDate="2017-10-28" xml:lang="en">tense</gloss>
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to the way the grammar marks the time at
+                      which the action denoted by the verb took place.</desc>
+                  </valItem>
+                  <valItem ident="aspect">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Category associated to verbs and referring to the way the
+                      grammar marks the duration or type of temporal activity. Conceptual domain:
+                      cessative, imperfective, inchoative, perfective, unaccomplished.| Also progressive, etc.</desc>
+                  </valItem>
+                  <valItem ident="person">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Indication of grammatical person (1st, 2nd, 3rd, etc.)
+                      associated with a given inflected form. Conceptual domain: firstPerson,
+                      secondPerson, thirdPerson.</desc>
+                  </valItem>
+                  <valItem ident="voice">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) The way sentences may alter the relationship between the subject
+                      and object of a verb, without changing the meaning of the sentence. Conceptual
+                      domain: activeVoice, middleVoice, passiveVoice</desc>
+                  </valItem>
+                  <valItem ident="definiteness">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property about the possibility to identify an entity.</desc>
+                  </valItem>
+                  <valItem ident="degree">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property concerning comparison. Conceptual domain: comparative,
+                      positive, superlative, positive, comparative, superlative.</desc>
+                  </valItem>
+                  <valItem ident="transitivity">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property concerning comparison. Conceptual domain: comparative,
+                      positive, superlative, positive, comparative, superlative.</desc>
+                  </valItem>
+                  <valItem ident="finiteness">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to finite and non-finite status of a verbal
+                      form. Conceptual domain: finite, nonFinite.</desc>
+                  </valItem>
+                  <valItem ident="modality">
+                    <desc versionDate="2017-10-28" xml:lang="en">(ISO MAF) Property referring to finite and non-finite status of a verbal
+                      form. Conceptual domain: finite, nonFinite.</desc>
+                  </valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
           <elementSpec ident="orth" mode="change" module="dictionaries">
             <classes mode="change">
               <memberOf key="att.datable.w3c" mode="add"/> 
