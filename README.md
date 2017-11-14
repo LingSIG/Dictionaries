@@ -4,6 +4,10 @@ The "Dictionaries" project of TEI LingSIG is a spin-off of the joint ENeL/PARTHE
 * LingSIG/Dictionaries (this one) for storing (i) samples of dictionaries, (ii) stylesheets for conversion between the outer world and Lex0, and (iii) ODD for TEI-Lex0
 * [LingSIG/TEI (branch: dictionaries)](https://github.com/LingSIG/TEI/tree/dictionaries) for suggested changes in the Guidelines documentation (treat it as being there "just in case" for now; things may come up that require some pull requests against the Guidelines, but just as well it may happen that feature requests or bug reports at TEI-C will be enough)
 
+## Issues posted to TEIC
+* https://github.com/TEIC/TEI/issues/1688
+* https://github.com/TEIC/TEI/issues/1702
+
 ## Contents
 ### samples/
 This directory collects samples of dictionary entries. For digitised dictionaries, please consider attaching a scan of the entry in the printed version. Note that other interesting samples can be accessed at https://github.com/ParthenosWP4/standardsLibrary .
