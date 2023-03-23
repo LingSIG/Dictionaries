@@ -1,5 +1,8 @@
 # TEI-Lex0@LingSIG
 
+UPDATE (March 2023): Lex0 has now had its beautiful pages and resources stored under DARIAH, and so this repository if of historical value, although some data (some dictionary samples) should still migrate from here to DARIAH.
+
+
 The "Dictionaries" project of TEI LingSIG is a spin-off of the joint ENeL/PARTHENOS/DARIAH project "TEI Lex0". It features two repositories:
 * LingSIG/Dictionaries (this one) for storing (i) samples of dictionaries, (ii) stylesheets for conversion between the outer world and Lex0, and (iii) ODD for TEI-Lex0
 * [LingSIG/TEI (branch: dictionaries)](https://github.com/LingSIG/TEI/tree/dictionaries) for suggested changes in the Guidelines documentation (treat it as being there "just in case" for now; things may come up that require some pull requests against the Guidelines, but just as well it may happen that feature requests or bug reports at TEI-C will be enough)
