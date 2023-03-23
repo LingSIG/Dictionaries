@@ -1,6 +1,6 @@
 # TEI-Lex0@LingSIG
 
-UPDATE (March 2023): Lex0 has now had its beautiful pages and resources stored under DARIAH, and so this repository if of historical value, although some data (some dictionary samples) should still migrate from here to DARIAH.
+**UPDATE (March 2023)**: Lex0 has now had its beautiful pages and resources stored under DARIAH, and so this repository if of historical value, although some data (some dictionary samples) should still migrate from here to DARIAH.
 
 
 The "Dictionaries" project of TEI LingSIG is a spin-off of the joint ENeL/PARTHENOS/DARIAH project "TEI Lex0". It features two repositories:
